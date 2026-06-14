@@ -1,8 +1,9 @@
-// Salon-style hang. Works are distributed across the three display walls (back +
-// two sides) in proportion to wall length, then each wall arranges its share in a
-// centred grid (multiple rows, packed and centred), sized to fit its cell. This
-// fills the tall grand-gallery walls and shows large collections like a real
-// salon, instead of one billboard per wall.
+// Single-row hang. Every work hangs in ONE row at a common centre-line height —
+// no stacking — so a wing reads as a clean, uncluttered band rather than a busy
+// salon grid. Works are distributed across the three display walls (back + two
+// sides) in proportion to wall length; each wall lays its share out as a centred
+// row of evenly-spaced cells. Rooms are sized (in Layout) so the whole collection
+// fits in a single row, so no image is ever dropped.
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -18,11 +19,12 @@ namespace CameraObscura
 
     public static class Placement
     {
-        const float BOTTOM = 1.4f;     // lowest a work hangs
-        const float TOP_MARGIN = 3.0f; // bare wall reserved at the top (cornice zone)
-        const float EDGE = 1.6f;       // horizontal inset from room corners
-        const float GAP = 0.7f;        // gap between works in the grid
-        const float CAP = 5.2f;        // largest a single work may be
+        public const float ROW_H = 3.2f;        // uniform display height for every work
+        public const float MAXW = 4.4f;         // widest a (landscape) work may render
+        public const float GAP = 1.2f;          // clear gap between cells
+        public const float CELL = MAXW + GAP;   // centre-to-centre spacing in a row
+        public const float EDGE = 1.6f;         // horizontal inset from room corners
+        public const float CENTER_Y = 3.2f;     // common centre-line — same height everywhere
 
         public static List<PlacedArtwork> Place(RoomLayout room)
         {
@@ -33,16 +35,16 @@ namespace CameraObscura
             float cx = room.cx, cz = room.cz, D = room.width, L = room.length;
             int total = arts.Count;
 
-            // Distribute across back (length L) and the two side walls (length D each).
-            float wsum = L + 2 * D;
-            int nBack = Mathf.Clamp(Mathf.RoundToInt(total * L / wsum), 1, total);
-            int rem = total - nBack;
-            int nSouth = Mathf.CeilToInt(rem / 2f);
-            int nNorth = rem - nSouth;
+            // How many cells fit in a single centred row on each display wall, then
+            // hand each wall a share proportional to its length (capped to capacity,
+            // overflow absorbed by the longer walls) so every work is placed.
+            int[] caps = { WallCapacity(L), WallCapacity(D), WallCapacity(D) };
+            float[] lens = { L, D, D };
+            int[] n = Distribute(total, lens, caps);
 
-            var back = arts.GetRange(0, nBack);
-            var south = arts.GetRange(nBack, nSouth);
-            var north = arts.GetRange(nBack + nSouth, nNorth);
+            var back = arts.GetRange(0, n[0]);
+            var south = arts.GetRange(n[0], n[1]);
+            var north = arts.GetRange(n[0] + n[1], n[2]);
 
             bool west = room.doorSide == "west";
             float backX = west ? cx - D / 2f + 0.2f : cx + D / 2f - 0.2f;
@@ -51,52 +53,73 @@ namespace CameraObscura
             float northZ = cz + L / 2f - 0.2f;   // faces −Z
 
             // Back wall — varies along Z, centred on cz.
-            Grid(placed, back, L - 2 * EDGE, backFace, (along, y) => new Vector3(backX, y, cz + along));
+            Row(placed, back, backFace, along => new Vector3(backX, CENTER_Y, cz + along));
             // South wall — varies along X, centred on cx, faces +Z.
-            Grid(placed, south, D - 2 * EDGE, new Vector2(0, 1), (along, y) => new Vector3(cx + along, y, southZ));
+            Row(placed, south, new Vector2(0, 1), along => new Vector3(cx + along, CENTER_Y, southZ));
             // North wall — varies along X, centred on cx, faces −Z.
-            Grid(placed, north, D - 2 * EDGE, new Vector2(0, -1), (along, y) => new Vector3(cx + along, y, northZ));
+            Row(placed, north, new Vector2(0, -1), along => new Vector3(cx + along, CENTER_Y, northZ));
 
             return placed;
         }
 
-        static void Grid(List<PlacedArtwork> placed, List<Artwork> works, float wallLen, Vector2 facing,
-            System.Func<float, float, Vector3> posFn)
+        /// <summary>Cells that fit in a single centred row on a wall of this length.</summary>
+        public static int WallCapacity(float wallLen)
+        {
+            float usable = wallLen - 2f * EDGE;
+            // n cells span n·CELL − GAP, so n ≤ (usable + GAP) / CELL.
+            return Mathf.Max(0, Mathf.FloorToInt((usable + GAP) / CELL));
+        }
+
+        // Largest-remainder apportionment proportional to wall length, clamped to
+        // each wall's capacity, with any remainder pushed onto walls that still have
+        // room. Layout guarantees total capacity ≥ total works, so all are placed.
+        static int[] Distribute(int total, float[] lens, int[] caps)
+        {
+            int W = lens.Length;
+            var assign = new int[W];
+            var frac = new float[W];
+            float sum = 0f;
+            for (int i = 0; i < W; i++) sum += lens[i];
+
+            int placed = 0;
+            for (int i = 0; i < W; i++)
+            {
+                float ideal = sum > 0f ? total * lens[i] / sum : 0f;
+                int floor = Mathf.FloorToInt(ideal);
+                assign[i] = Mathf.Min(caps[i], floor);
+                frac[i] = ideal - floor;
+                placed += assign[i];
+            }
+
+            int rem = total - placed;
+            while (rem > 0)
+            {
+                int best = -1;
+                float bf = -1f;
+                for (int i = 0; i < W; i++)
+                    if (assign[i] < caps[i] && frac[i] > bf) { bf = frac[i]; best = i; }
+                if (best < 0) break; // no spare capacity anywhere (shouldn't happen)
+                assign[best]++; frac[best] = -1f; rem--;
+            }
+            return assign;
+        }
+
+        static void Row(List<PlacedArtwork> placed, List<Artwork> works, Vector2 facing,
+            System.Func<float, Vector3> posFn)
         {
             int n = works.Count;
             if (n == 0) return;
-            float Hu = Mathf.Max(2f, Layout.WALL_H - TOP_MARGIN - BOTTOM);
-
-            // Choose a grid roughly matching the wall's aspect.
-            int cols = Mathf.Clamp(Mathf.RoundToInt(Mathf.Sqrt(n * wallLen / Hu)), 1, n);
-            int rows = Mathf.CeilToInt((float)n / cols);
-
-            float cellW = wallLen / cols;
-            float cellH = Mathf.Min(Hu / rows, CAP + GAP);
-            float maxW = Mathf.Min(cellW - GAP, CAP);
-            float maxH = Mathf.Min(cellH - GAP, CAP);
-            float blockH = rows * cellH;
-            float baseY = BOTTOM + (Hu - blockH) * 0.5f; // bottom of the centred block
-
-            int idx = 0;
-            for (int r = 0; r < rows; r++)
+            float start = -(n - 1) * CELL * 0.5f; // centre the row on the wall
+            for (int c = 0; c < n; c++)
             {
-                int inRow = Mathf.Min(cols, n - r * cols);
-                float rowW = inRow * cellW;
-                float startAlong = -rowW * 0.5f + cellW * 0.5f;          // centre each row
-                float y = baseY + blockH - (r + 0.5f) * cellH;            // row 0 = top
-                for (int c = 0; c < inRow; c++)
+                placed.Add(new PlacedArtwork
                 {
-                    float along = startAlong + c * cellW;
-                    placed.Add(new PlacedArtwork
-                    {
-                        artwork = works[idx++],
-                        position = posFn(along, y),
-                        facing = facing,
-                        maxW = maxW,
-                        maxH = maxH,
-                    });
-                }
+                    artwork = works[c],
+                    position = posFn(start + c * CELL),
+                    facing = facing,
+                    maxW = MAXW,
+                    maxH = ROW_H,
+                });
             }
         }
     }

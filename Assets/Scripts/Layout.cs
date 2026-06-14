@@ -77,22 +77,21 @@ namespace CameraObscura
         const float CORR_HALF = 4f;           // corridor half-width
         const float CORR_START = 4f;
         const float BAND_GAP = 3f;
-        const float MARGIN = 3f;              // room edge margin
         const float MIN_SIDE = 14f;           // smallest room side
-        const float MAX_SIDE = 44f;           // largest room side
+        const float MAX_SIDE = 56f;           // largest room side (fits a single row of ~27 works)
         const float GAP = 8f;
         const float PAD = 8f;
         const float PLAYER_R = 0.4f;
         const float INSET = WALL_T + PLAYER_R;
 
-        // Sized for a salon hang: works stack in rows on each wall, so the room
-        // footprint grows sub-linearly with the collection (a few columns wide).
+        // Sized for the single-row hang: every work hangs in one un-stacked row, so
+        // the room grows with the artist's body of work — enough wall length to lay
+        // the whole collection out across the three display walls.
         static float RoomSide(Artist artist)
         {
             int c = Mathf.Max(1, artist.artworks != null ? artist.artworks.Count : 1);
-            float perWall = c / 2.2f;                       // back wall carries the most
-            int cols = Mathf.CeilToInt(perWall / 3f);       // up to ~3 stacked rows
-            float side = 2f * MARGIN + cols * 6.2f;
+            int perWall = Mathf.CeilToInt(c / 3f);          // share on the busiest wall
+            float side = perWall * Placement.CELL - Placement.GAP + 2f * Placement.EDGE;
             return Mathf.Clamp(side, MIN_SIDE, MAX_SIDE);
         }
 
