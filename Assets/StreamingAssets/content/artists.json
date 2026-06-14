@@ -896,6 +896,86 @@
         "series": null,
         "credit": "Wikimedia Commons · Public domain",
         "mature": false
+      },
+      {
+        "id": "daguerre-x1",
+        "title": "Boulevard du Temple by Daguerre",
+        "year": "1838",
+        "image": "art/daguerre/x01.jpg",
+        "description": "From the work of Louis Daguerre.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "daguerre-x2",
+        "title": "Cormeilles-en-Parisis Louis Daguerre 464",
+        "year": "2018",
+        "image": "art/daguerre/x02.jpg",
+        "description": "From the work of Louis Daguerre.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC BY-SA 3.0",
+        "mature": false
+      },
+      {
+        "id": "daguerre-x3",
+        "title": "Daguerre Apartement",
+        "year": "1839",
+        "image": "art/daguerre/x03.jpg",
+        "description": "From the work of Louis Daguerre.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "daguerre-x4",
+        "title": "Fotoreproductie van een portret van Louis Jacques Mandé Daguerre naar Mayer & Pierson door",
+        "year": "1850",
+        "image": "art/daguerre/x04.jpg",
+        "description": "From the work of Louis Daguerre.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
+      },
+      {
+        "id": "daguerre-x5",
+        "title": "Jacques louis mande daguerre cormeilles restaure2",
+        "year": "2017",
+        "image": "art/daguerre/x05.jpg",
+        "description": "From the work of Louis Daguerre.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC BY-SA 4.0",
+        "mature": false
+      },
+      {
+        "id": "daguerre-x6",
+        "title": "Louis-Jacques-Mandé Daguerre MET DP279316",
+        "year": "1860",
+        "image": "art/daguerre/x06.jpg",
+        "description": "From the work of Louis Daguerre.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
+      },
+      {
+        "id": "daguerre-x7",
+        "title": "Louis-Jacques-Mandé Daguerre MET DT268544",
+        "year": "1844",
+        "image": "art/daguerre/x07.jpg",
+        "description": "From the work of Louis Daguerre.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
+      },
+      {
+        "id": "daguerre-x8",
+        "title": "Louis-Jacques Daguerre - Intérieur d'une chapelle de l'église des Feuillants à Paris",
+        "year": "1814",
+        "image": "art/daguerre/x08.jpg",
+        "description": "From the work of Louis Daguerre.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
       }
     ]
   },
@@ -1086,6 +1166,96 @@
         "series": null,
         "credit": "Public domain",
         "mature": false
+      },
+      {
+        "id": "fenton-x1",
+        "title": "Aelius Caesar MET DP206693",
+        "year": "1854",
+        "image": "art/fenton/x01.jpg",
+        "description": "From the work of Roger Fenton.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
+      },
+      {
+        "id": "fenton-x2",
+        "title": "Bolton Abbey by Roger Fenton, 1850s",
+        "year": "1850",
+        "image": "art/fenton/x02.jpg",
+        "description": "From the work of Roger Fenton.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "fenton-x3",
+        "title": "Bridge at Castleton, Bruemar, from above by Roger Fenton",
+        "year": "2009",
+        "image": "art/fenton/x03.jpg",
+        "description": "From the work of Roger Fenton.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "fenton-x4",
+        "title": "British Photographer Roger Fenton dressed as a Zouave infantryman, Crimea, 1855.",
+        "year": "1855",
+        "image": "art/fenton/x04.jpg",
+        "description": "From the work of Roger Fenton.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC BY 2.0",
+        "mature": false
+      },
+      {
+        "id": "fenton-x5",
+        "title": "Fenton, Roger - Balaklava seewärts gesehen mit dem Komandantenhaus im Vordergrund",
+        "year": "",
+        "image": "art/fenton/x05.jpg",
+        "description": "From the work of Roger Fenton.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "fenton-x6",
+        "title": "Fenton, Roger - Die Terrasse und der Park des Hauses Harewood",
+        "year": "1860",
+        "image": "art/fenton/x06.jpg",
+        "description": "From the work of Roger Fenton.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "fenton-x7",
+        "title": "Fenton Kremlin 1852",
+        "year": "1852",
+        "image": "art/fenton/x07.jpg",
+        "description": "From the work of Roger Fenton.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "fenton-x8",
+        "title": "Moscow, the Kremlin in the Distance MET DP206660",
+        "year": "1852",
+        "image": "art/fenton/x08.jpg",
+        "description": "From the work of Roger Fenton.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
+      },
+      {
+        "id": "fenton-x9",
+        "title": "Roger Fenton's waggon",
+        "year": "1855",
+        "image": "art/fenton/x09.jpg",
+        "description": "From the work of Roger Fenton.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
       }
     ]
   },
@@ -1136,6 +1306,96 @@
         "series": null,
         "credit": "Public domain",
         "mature": false
+      },
+      {
+        "id": "gardner-x1",
+        "title": "Abraham Lincoln - Daguerréotype de Lincoln par Alexander Gardner en 1863",
+        "year": "1863",
+        "image": "art/gardner/x01.jpg",
+        "description": "From the work of Alexander Gardner.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "gardner-x2",
+        "title": "Alexander Gardner, A Sharpshooter's Last Sleep, Gettysburg, Pennsylvania, July 1863, 1863,",
+        "year": "1863",
+        "image": "art/gardner/x02.jpg",
+        "description": "From the work of Alexander Gardner.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
+      },
+      {
+        "id": "gardner-x3",
+        "title": "Alexander Gardner",
+        "year": "1860",
+        "image": "art/gardner/x03.jpg",
+        "description": "From the work of Alexander Gardner.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "gardner-x4",
+        "title": "Alexander Gardner - Abraham Lincoln",
+        "year": "1865",
+        "image": "art/gardner/x04.jpg",
+        "description": "From the work of Alexander Gardner.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "gardner-x5",
+        "title": "Alexander Gardner - Execution of the Lincoln Assassination Conspirators. The Scaffold.",
+        "year": "1865",
+        "image": "art/gardner/x05.jpg",
+        "description": "From the work of Alexander Gardner.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "gardner-x6",
+        "title": "Alexander Gardner - Group of Guides for the Army of the Potomac",
+        "year": "1862",
+        "image": "art/gardner/x06.jpg",
+        "description": "From the work of Alexander Gardner.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "gardner-x7",
+        "title": "Alexander Gardner by James Gardner - 1863",
+        "year": "1863",
+        "image": "art/gardner/x07.jpg",
+        "description": "From the work of Alexander Gardner.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "gardner-x8",
+        "title": "Alexander Gardner by James Gardner - 1863 - Original",
+        "year": "1863",
+        "image": "art/gardner/x08.jpg",
+        "description": "From the work of Alexander Gardner.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "gardner-x9",
+        "title": "Alexander gardner northeast suburbs of richmond virginia april 1865104746)",
+        "year": "2022",
+        "image": "art/gardner/x09.jpg",
+        "description": "From the work of Alexander Gardner.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
       }
     ]
   },
@@ -1185,6 +1445,96 @@
         "description": "A fisherman with his children gathered around a beached boat, blending portraiture with the documentation of a coastal community.",
         "series": null,
         "credit": "Public domain",
+        "mature": false
+      },
+      {
+        "id": "hill-adamson-x1",
+        "title": "Edinburgh Ale by Hill & Adamson c1844",
+        "year": "1844",
+        "image": "art/hill-adamson/x01.jpg",
+        "description": "From the work of Hill & Adamson.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "hill-adamson-x2",
+        "title": "Hill & Adamson -",
+        "year": "1843",
+        "image": "art/hill-adamson/x02.jpg",
+        "description": "From the work of Hill & Adamson.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "hill-adamson-x3",
+        "title": "Hill & Adamson -",
+        "year": "1846",
+        "image": "art/hill-adamson/x03.jpg",
+        "description": "From the work of Hill & Adamson.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "hill-adamson-x4",
+        "title": "Hill & Adamson - D. O. Hill",
+        "year": "1843",
+        "image": "art/hill-adamson/x04.jpg",
+        "description": "From the work of Hill & Adamson.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "hill-adamson-x5",
+        "title": "Hill & Adamson - Rev. Dr. James Brewster.",
+        "year": "1844",
+        "image": "art/hill-adamson/x05.jpg",
+        "description": "From the work of Hill & Adamson.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "hill-adamson-x6",
+        "title": "Hill & Adamson - St. Andrews Castle from the Northwest.",
+        "year": "1845",
+        "image": "art/hill-adamson/x06.jpg",
+        "description": "From the work of Hill & Adamson.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "hill-adamson-x7",
+        "title": "Hill & Adamson—William, Charles and Betty Etty",
+        "year": "1844",
+        "image": "art/hill-adamson/x07.jpg",
+        "description": "From the work of Hill & Adamson.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "hill-adamson-x8",
+        "title": "Hill und Adamson - Der Greyfriar Kirchhof",
+        "year": "1843",
+        "image": "art/hill-adamson/x08.jpg",
+        "description": "From the work of Hill & Adamson.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "hill-adamson-x9",
+        "title": "Hill und Adamson - Diskussionsgruppe",
+        "year": "1843",
+        "image": "art/hill-adamson/x09.jpg",
+        "description": "From the work of Hill & Adamson.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
         "mature": false
       }
     ]
@@ -1252,6 +1602,76 @@
         "title": "Victor Cousin by Gustave Le Gray, late 1850s-crop",
         "year": "",
         "image": "art/le-gray/e11.jpg",
+        "description": "From the work of Gustave Le Gray.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "le-gray-x1",
+        "title": "Attributed to Gustave Le Gray, \"Marseillaise,\" Arc de Triomphe, Paris, about 1853",
+        "year": "1853",
+        "image": "art/le-gray/x01.jpg",
+        "description": "From the work of Gustave Le Gray.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "le-gray-x2",
+        "title": "Autoportrait Gustave Le Gray, cropped",
+        "year": "1856",
+        "image": "art/le-gray/x02.jpg",
+        "description": "From the work of Gustave Le Gray.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "le-gray-x3",
+        "title": "Autoportrait de Gustave Le Gray - btv1b8457907m",
+        "year": "1850",
+        "image": "art/le-gray/x03.jpg",
+        "description": "From the work of Gustave Le Gray.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "le-gray-x4",
+        "title": "Autoportrait de Gustave Le Gray - btv1b84579103",
+        "year": "1857",
+        "image": "art/le-gray/x04.jpg",
+        "description": "From the work of Gustave Le Gray.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "le-gray-x5",
+        "title": "Château de Chenonceau en 1851 par Gustave Le Gray",
+        "year": "1851",
+        "image": "art/le-gray/x05.jpg",
+        "description": "From the work of Gustave Le Gray.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "le-gray-x6",
+        "title": "D'Autemarre d'Erville, général Charles, Gustave Le Gray GALLICA",
+        "year": "1857",
+        "image": "art/le-gray/x06.jpg",
+        "description": "From the work of Gustave Le Gray.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "le-gray-x7",
+        "title": "Gustave Le Gray, Pavillon Mollien, 1859",
+        "year": "1859",
+        "image": "art/le-gray/x07.jpg",
         "description": "From the work of Gustave Le Gray.",
         "series": null,
         "credit": "Wikimedia Commons · Public domain",
@@ -1516,6 +1936,86 @@
         "series": null,
         "credit": "Wikimedia Commons · Public domain",
         "mature": false
+      },
+      {
+        "id": "osullivan-x1",
+        "title": "Alfred Waud by Timothy H. O'Sullivan",
+        "year": "1863",
+        "image": "art/osullivan/x01.jpg",
+        "description": "From the work of Timothy H. O'Sullivan.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "osullivan-x2",
+        "title": "Apache scouts, at Apache Lake, Sierra Blanca range, by O'Sullivan, Timothy H., 1840-1882",
+        "year": "1873",
+        "image": "art/osullivan/x02.jpg",
+        "description": "From the work of Timothy H. O'Sullivan.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "osullivan-x3",
+        "title": "Attributed to timothy h osullivan barges and steamers white house land102205)",
+        "year": "2022",
+        "image": "art/osullivan/x03.jpg",
+        "description": "From the work of Timothy H. O'Sullivan.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "osullivan-x4",
+        "title": "Attributed to timothy h osullivan earthworks in interior of fort mahon104627)",
+        "year": "2022",
+        "image": "art/osullivan/x04.jpg",
+        "description": "From the work of Timothy H. O'Sullivan.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "osullivan-x5",
+        "title": "Attributed to timothy h osullivan gettysburg from the west the town of101202)",
+        "year": "1863",
+        "image": "art/osullivan/x05.jpg",
+        "description": "From the work of Timothy H. O'Sullivan.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "osullivan-x6",
+        "title": "Attributed to timothy h osullivan orange and alexandria rail road brid101939)",
+        "year": "2022",
+        "image": "art/osullivan/x06.jpg",
+        "description": "From the work of Timothy H. O'Sullivan.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "osullivan-x7",
+        "title": "Attributed to timothy h osullivan the mine petersburg virginia 1864100957)",
+        "year": "1864",
+        "image": "art/osullivan/x07.jpg",
+        "description": "From the work of Timothy H. O'Sullivan.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "osullivan-x8",
+        "title": "Attributed to timothy h osullivan view on rapidan river virginia 1861-101510)",
+        "year": "1861",
+        "image": "art/osullivan/x08.jpg",
+        "description": "From the work of Timothy H. O'Sullivan.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
       }
     ]
   },
@@ -1565,6 +2065,96 @@
         "description": "A dramatic rock formation looming over the new rail line through Utah's Echo Canyon.",
         "series": null,
         "credit": "Public domain — The Metropolitan Museum of Art",
+        "mature": false
+      },
+      {
+        "id": "russell-x1",
+        "title": "A.J. Russell (American - Railroad Accident Caused by Rebels",
+        "year": "1862",
+        "image": "art/russell/x01.jpg",
+        "description": "From the work of Andrew J. Russell.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "russell-x2",
+        "title": "A.J. Russell - American - Thousand Mile Tree, Wilhelmina's Pass",
+        "year": "1869",
+        "image": "art/russell/x02.jpg",
+        "description": "From the work of Andrew J. Russell.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "russell-x3",
+        "title": "Admiralty Chart No 752 Plan of Kisseen Bay on the south coast of Arabia - by C. David Chri",
+        "year": "1775",
+        "image": "art/russell/x03.jpg",
+        "description": "From the work of Andrew J. Russell.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "russell-x4",
+        "title": "Andrew J. Russell - Church Buttes, 1868",
+        "year": "1868",
+        "image": "art/russell/x04.jpg",
+        "description": "From the work of Andrew J. Russell.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "russell-x5",
+        "title": "Andrew joseph russell magazine wharf city point virginia january 1865104324)",
+        "year": "2022",
+        "image": "art/russell/x05.jpg",
+        "description": "From the work of Andrew J. Russell.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "russell-x6",
+        "title": "Andrew joseph russell pontoon bridge deep bottom james river 1861-1865103254)",
+        "year": "2022",
+        "image": "art/russell/x06.jpg",
+        "description": "From the work of Andrew J. Russell.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "russell-x7",
+        "title": "Andrew joseph russell us military rail road city point virginia james103125)",
+        "year": "2022",
+        "image": "art/russell/x07.jpg",
+        "description": "From the work of Andrew J. Russell.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "russell-x8",
+        "title": "Attributed to andrew joseph russell army wagons and forge city point v104120)",
+        "year": "2022",
+        "image": "art/russell/x08.jpg",
+        "description": "From the work of Andrew J. Russell.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "russell-x9",
+        "title": "Attributed to andrew joseph russell looking toward maryes heights fred103835)",
+        "year": "2022",
+        "image": "art/russell/x09.jpg",
+        "description": "From the work of Andrew J. Russell.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
         "mature": false
       }
     ]
@@ -1626,6 +2216,86 @@
         "series": null,
         "credit": "Wikimedia Commons · Public domain",
         "mature": false
+      },
+      {
+        "id": "talbot-x1",
+        "title": "-Manuscript Letter from W. H. Fox Talbot to Antonio Bertoloni- MET DP202183",
+        "year": "1839",
+        "image": "art/talbot/x01.jpg",
+        "description": "From the work of William Henry Fox Talbot.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
+      },
+      {
+        "id": "talbot-x2",
+        "title": "-Manuscript Letter from W. H. Fox Talbot to Antonio Bertoloni- MET DP202184",
+        "year": "1839",
+        "image": "art/talbot/x02.jpg",
+        "description": "From the work of William Henry Fox Talbot.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
+      },
+      {
+        "id": "talbot-x3",
+        "title": "-Manuscript Letter from W. H. Fox Talbot to Antonio Bertoloni- MET DP202185",
+        "year": "1839",
+        "image": "art/talbot/x03.jpg",
+        "description": "From the work of William Henry Fox Talbot.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
+      },
+      {
+        "id": "talbot-x4",
+        "title": "-Manuscript Letter from W. H. Fox Talbot to Antonio Bertoloni- MET DP202216",
+        "year": "1839",
+        "image": "art/talbot/x04.jpg",
+        "description": "From the work of William Henry Fox Talbot.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
+      },
+      {
+        "id": "talbot-x5",
+        "title": "-Manuscript Letter from W. H. Fox Talbot to Antonio Bertoloni- MET DP202217",
+        "year": "1839",
+        "image": "art/talbot/x05.jpg",
+        "description": "From the work of William Henry Fox Talbot.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
+      },
+      {
+        "id": "talbot-x6",
+        "title": "-Manuscript Letter from W. H. Fox Talbot to Antonio Bertoloni- MET DP202258",
+        "year": "1840",
+        "image": "art/talbot/x06.jpg",
+        "description": "From the work of William Henry Fox Talbot.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
+      },
+      {
+        "id": "talbot-x7",
+        "title": "-Manuscript Letter from W. H. Fox Talbot to Antonio Bertoloni- MET DP202259",
+        "year": "1840",
+        "image": "art/talbot/x07.jpg",
+        "description": "From the work of William Henry Fox Talbot.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
+      },
+      {
+        "id": "talbot-x8",
+        "title": "-Manuscript Letter from W. H. Fox Talbot to Antonio Bertoloni- MET DP202261",
+        "year": "1840",
+        "image": "art/talbot/x08.jpg",
+        "description": "From the work of William Henry Fox Talbot.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
       }
     ]
   },
@@ -1685,6 +2355,86 @@
         "description": "The granite domes seen across the valley floor and the Merced River, from one of Watkins's mammoth-plate surveys of Yosemite.",
         "series": null,
         "credit": "Public domain — Wikimedia Commons",
+        "mature": false
+      },
+      {
+        "id": "watkins-x1",
+        "title": "Attributed to Carleton Watkins",
+        "year": "",
+        "image": "art/watkins/x01.jpg",
+        "description": "From the work of Carleton Watkins.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "watkins-x2",
+        "title": "Carleton E. Watkins, Late George Cling Peaches, 1889, Albumen silver print, 32.8 x 50.3 cm",
+        "year": "1889",
+        "image": "art/watkins/x02.jpg",
+        "description": "From the work of Carleton Watkins.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "watkins-x3",
+        "title": "Carleton E. Watkins - Three Brothers, Yosemite, California",
+        "year": "1844",
+        "image": "art/watkins/x03.jpg",
+        "description": "From the work of Carleton Watkins.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "watkins-x4",
+        "title": "Carleton E. Watkins self-portrait, c. 1883, albumen silver print, from the National Portra",
+        "year": "1883",
+        "image": "art/watkins/x04.jpg",
+        "description": "From the work of Carleton Watkins.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
+      },
+      {
+        "id": "watkins-x5",
+        "title": "Carleton Watkins, Merced River, Yosemite Valley, California, ca. 1865",
+        "year": "1865",
+        "image": "art/watkins/x05.jpg",
+        "description": "From the work of Carleton Watkins.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "watkins-x6",
+        "title": "Carleton Watkins, Yosemite Valley, California, ca. 1865",
+        "year": "1865",
+        "image": "art/watkins/x06.jpg",
+        "description": "From the work of Carleton Watkins.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "watkins-x7",
+        "title": "Carleton Watkins (American - \"'On the Merced' Yo Semite\"",
+        "year": "1861",
+        "image": "art/watkins/x07.jpg",
+        "description": "From the work of Carleton Watkins.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "watkins-x8",
+        "title": "Carleton Watkins (American - \"View from the foot of the Upper Yo Semite Fall\"",
+        "year": "1861",
+        "image": "art/watkins/x08.jpg",
+        "description": "From the work of Carleton Watkins.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
         "mature": false
       }
     ]
@@ -1865,6 +2615,96 @@
         "description": "Figures gathered at a mountain spring, the soft-focus print fusing the human form with rock and water in characteristic visionary mood.",
         "series": null,
         "credit": "Public domain",
+        "mature": false
+      },
+      {
+        "id": "anne-brigman-x1",
+        "title": "'The Dying Cedar'",
+        "year": "1906",
+        "image": "art/anne-brigman/x01.jpg",
+        "description": "From the work of Anne Brigman.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "anne-brigman-x2",
+        "title": "059- Anne W. Brigman, c. 1915",
+        "year": "1915",
+        "image": "art/anne-brigman/x02.jpg",
+        "description": "From the work of Anne Brigman.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "anne-brigman-x3",
+        "title": "2020 NYR 18987 0009 000",
+        "year": "1910",
+        "image": "art/anne-brigman/x03.jpg",
+        "description": "From the work of Anne Brigman.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "anne-brigman-x4",
+        "title": "Anne W. Brigman - The Heart of the Storm",
+        "year": "1902",
+        "image": "art/anne-brigman/x04.jpg",
+        "description": "From the work of Anne Brigman.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "anne-brigman-x5",
+        "title": "Anne W. Brigman",
+        "year": "1908",
+        "image": "art/anne-brigman/x05.jpg",
+        "description": "From the work of Anne Brigman.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "anne-brigman-x6",
+        "title": "Anne brigman untitled 1912010542)",
+        "year": "2021",
+        "image": "art/anne-brigman/x06.jpg",
+        "description": "From the work of Anne Brigman.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "anne-brigman-x7",
+        "title": "Anne brigman untitled c 1910010617)",
+        "year": "1910",
+        "image": "art/anne-brigman/x07.jpg",
+        "description": "From the work of Anne Brigman.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "anne-brigman-x8",
+        "title": "Anne brigman untitled c 1910010629)",
+        "year": "1910",
+        "image": "art/anne-brigman/x08.jpg",
+        "description": "From the work of Anne Brigman.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "anne-brigman-x9",
+        "title": "Anne brigman untitled c 1910025412)",
+        "year": "1910",
+        "image": "art/anne-brigman/x09.jpg",
+        "description": "From the work of Anne Brigman.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
         "mature": false
       }
     ]
@@ -2185,6 +3025,86 @@
         "description": "From the work of F. Holland Day.",
         "series": null,
         "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "f-holland-day-x1",
+        "title": "-F. Holland Day- MET DP264342",
+        "year": "1898",
+        "image": "art/f-holland-day/x01.jpg",
+        "description": "From the work of F. Holland Day.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
+      },
+      {
+        "id": "f-holland-day-x2",
+        "title": "-Portrait of F. Holland Day with Male Nude- MET DT249909",
+        "year": "1902",
+        "image": "art/f-holland-day/x02.jpg",
+        "description": "From the work of F. Holland Day.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": true
+      },
+      {
+        "id": "f-holland-day-x3",
+        "title": "Day, Fred Holland - 1897 ca. - Ebony and ivory 1",
+        "year": "1897",
+        "image": "art/f-holland-day/x03.jpg",
+        "description": "From the work of F. Holland Day.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "f-holland-day-x4",
+        "title": "Day, Fred Holland - Nude boy in studio, crouching, profile",
+        "year": "1896",
+        "image": "art/f-holland-day/x04.jpg",
+        "description": "From the work of F. Holland Day.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": true
+      },
+      {
+        "id": "f-holland-day-x5",
+        "title": "Gertrude Käsebier. Portrait of F. Holland Day. c. 1900 | MoMA",
+        "year": "",
+        "image": "art/f-holland-day/x05.jpg",
+        "description": "From the work of F. Holland Day.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "f-holland-day-x6",
+        "title": "Spencer Alley: Clarence H. White and F. Holland Day",
+        "year": "",
+        "image": "art/f-holland-day/x06.jpg",
+        "description": "From the work of F. Holland Day.",
+        "series": null,
+        "credit": "Source: spenceralley.blogspot.com",
+        "mature": false
+      },
+      {
+        "id": "f-holland-day-x7",
+        "title": "F. Holland Day | National Museum of American History",
+        "year": "",
+        "image": "art/f-holland-day/x07.jpg",
+        "description": "From the work of F. Holland Day.",
+        "series": null,
+        "credit": "Source: americanhistory.si.edu",
+        "mature": false
+      },
+      {
+        "id": "f-holland-day-x8",
+        "title": "F. Holland Day - The West End Museum",
+        "year": "",
+        "image": "art/f-holland-day/x08.jpg",
+        "description": "From the work of F. Holland Day.",
+        "series": null,
+        "credit": "Source: thewestendmuseum.org",
         "mature": false
       }
     ]
