@@ -159,7 +159,10 @@ namespace CameraObscura
         /// <summary>A gallery bench (Meshy model only; skipped if unavailable).</summary>
         public static void Bench(Transform parent, Vector3 pos, float rotYDeg)
         {
-            ModelLibrary.Place(parent, "bench", pos, rotYDeg, 1.6f);
+            // Sized for the monumental hall (18 m walls, 14.5 m columns, ~7 m statuary):
+            // a human-scale 1.6 m bench read as a toy in here, so it's scaled up to a
+            // grand gallery settee that sits in proportion with the rest of the décor.
+            ModelLibrary.Place(parent, "bench", pos, rotYDeg, 2.6f);
         }
 
         public static void GlassRoof(Transform parent, float minX, float maxX, float half, float springY)

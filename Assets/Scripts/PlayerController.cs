@@ -29,6 +29,10 @@ namespace CameraObscura
         public const float EYE_HEIGHT = 1.7f;
         const float SPEED = 5.2f;
         const float LOOK_SENS = 2.2f;
+        // How far the crosshair can reach to "read" a work. The salon hang stacks
+        // works in rows up the 18 m walls, so a top-row piece sits ~13–14 m from the
+        // eye once you step back to see it — a 6 m reach left those unreadable.
+        const float REACH = 16f;
 
         public Camera Cam;
         public System.Collections.Generic.List<WalkRect> Walkables;
@@ -131,12 +135,13 @@ namespace CameraObscura
             {
                 Vector3 to = an.pos - eye;
                 float d = to.magnitude;
-                if (d > 6.0f || d < 0.05f) continue;
+                if (d > REACH || d < 0.05f) continue;
                 Vector3 dir = to / d;
                 float align = Vector3.Dot(look, dir);
                 if (align < best) continue;
-                // Must be looking at the front of the piece.
-                if (Vector3.Dot(an.facing, -dir) < 0.1f) continue;
+                // Must be on the front side of the piece (allows steep up-angles to
+                // high works; only rejects looking at the back through the wall).
+                if (Vector3.Dot(an.facing, -dir) < 0f) continue;
                 best = align;
                 pick = an;
             }

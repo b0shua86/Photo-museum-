@@ -144,7 +144,7 @@
         "image": "art/bayard/2.jpg",
         "description": "A still life of plaster figurines made to demonstrate his direct-positive paper process, among the earliest such studies in France.",
         "series": null,
-        "credit": "Public domain",
+        "credit": "Public domain — Wikimedia Commons",
         "mature": false
       },
       {
@@ -842,7 +842,7 @@
         "title": "Un clair de lune (Still Life / The Set Table)",
         "year": "c. 1827",
         "image": "art/niepce/2.jpg",
-        "description": "An early heliographic still life of a laid table, now known only through reproductions — one of his first attempts to fix an arranged scene.",
+        "description": "An early heliographic still life of a laid table — one of his first attempts to fix an arranged scene, known today through faithful reproductions.",
         "series": null,
         "credit": "Public domain",
         "mature": false
@@ -1089,12 +1089,12 @@
       },
       {
         "id": "watkins-e1",
-        "title": "Cathedral Rock by Carleton Watkins, 1861",
-        "year": "1861",
+        "title": "Distant View of the Domes, Yosemite Valley",
+        "year": "c. 1865",
         "image": "art/watkins/e27.jpg",
-        "description": "From the work of Carleton Watkins.",
+        "description": "The granite domes seen across the valley floor and the Merced River, from one of Watkins's mammoth-plate surveys of Yosemite.",
         "series": null,
-        "credit": "Wikimedia Commons · CC0",
+        "credit": "Public domain — Wikimedia Commons",
         "mature": false
       }
     ]
@@ -2519,12 +2519,12 @@
       },
       {
         "id": "jacob-riis-e2",
-        "title": "Bandits' Roost, 59 1-2 Mulberry Street by Jacob August Riis, 1888",
-        "year": "1888",
+        "title": "Bohemian Cigar-Makers at Work in Their Tenement",
+        "year": "c. 1890",
         "image": "art/jacob-riis/e29.jpg",
-        "description": "From the work of Jacob Riis.",
+        "description": "A family of immigrant cigar-makers labouring in their crowded tenement room, from How the Other Half Lives.",
         "series": null,
-        "credit": "Wikimedia Commons · Public domain",
+        "credit": "Public domain — Wikimedia Commons",
         "mature": false
       }
     ]
@@ -3163,10 +3163,10 @@
       },
       {
         "id": "fh-3",
-        "title": "Portrait Composition (Lore Krüger)",
-        "year": "1934",
+        "title": "Still Life with Mirror",
+        "year": "c. 1931",
         "image": "art/florence-henri/3.jpg",
-        "description": "A portrait split and recombined through mirrored planes, fracturing the sitter into overlapping modern facets.",
+        "description": "Spheres and a propped mirror multiply and re-frame one another on a tabletop — Henri's Bauhaus-trained play with reflection and constructed space.",
         "series": null,
         "credit": "© Galleria Martini & Ronchetti",
         "mature": false
