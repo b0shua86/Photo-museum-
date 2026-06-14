@@ -1,0 +1,50 @@
+[
+  {
+    "name": "bust_classical",
+    "ok": true,
+    "file": "bust_classical.glb",
+    "bytes": 9103788
+  },
+  {
+    "name": "statue_draped",
+    "ok": true,
+    "file": "statue_draped.glb",
+    "bytes": 7873316
+  },
+  {
+    "name": "statue_seated",
+    "ok": true,
+    "file": "statue_seated.glb",
+    "bytes": 10269596
+  },
+  {
+    "name": "fountain",
+    "ok": true,
+    "file": "fountain.glb",
+    "bytes": 14219732
+  },
+  {
+    "name": "column",
+    "ok": true,
+    "file": "column.glb",
+    "bytes": 8041168
+  },
+  {
+    "name": "chandelier",
+    "ok": true,
+    "file": "chandelier.glb",
+    "bytes": 10791488
+  },
+  {
+    "name": "urn",
+    "ok": true,
+    "file": "urn.glb",
+    "bytes": 8172956
+  },
+  {
+    "name": "bench",
+    "ok": true,
+    "file": "bench.glb",
+    "bytes": 10285424
+  }
+]

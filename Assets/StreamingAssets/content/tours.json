@@ -1,0 +1,65 @@
+[
+  {
+    "id": "all",
+    "name": "The Grand Survey",
+    "blurb": "Every wing, in chronological order.",
+    "artistIds": []
+  },
+  {
+    "id": "highlights",
+    "name": "Highlights",
+    "blurb": "A landmark from each era.",
+    "artistIds": [
+      "daguerre",
+      "cameron",
+      "edward-steichen",
+      "stieglitz",
+      "lange",
+      "robert-frank",
+      "eggleston",
+      "robert-adams",
+      "kyle-thompson"
+    ]
+  },
+  {
+    "id": "surrealism",
+    "name": "The Road to Surrealism",
+    "blurb": "How the staged, dreamlike photograph came to be — and led to Kyle Thompson.",
+    "artistIds": [
+      "atget",
+      "man-ray",
+      "claude-cahun",
+      "hans-bellmer",
+      "woodman",
+      "crewdson",
+      "kyle-thompson"
+    ]
+  },
+  {
+    "id": "american",
+    "name": "The American Century",
+    "blurb": "A nation pictured, from the Depression to the colour vernacular.",
+    "artistIds": [
+      "stieglitz",
+      "hine",
+      "lange",
+      "evans",
+      "robert-frank",
+      "diane-arbus",
+      "eggleston",
+      "stephen-shore"
+    ]
+  },
+  {
+    "id": "self-portrait",
+    "name": "The Self-Portrait",
+    "blurb": "The artist turns the camera on themselves, across 150 years.",
+    "artistIds": [
+      "cameron",
+      "woodman",
+      "sherman",
+      "claude-cahun",
+      "kyle-thompson"
+    ]
+  }
+]

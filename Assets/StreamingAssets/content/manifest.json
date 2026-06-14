@@ -1,0 +1,17 @@
+{
+  "title": "Camera Obscura",
+  "subtitle": "A walkable museum of the history of photography",
+  "artistCount": 131,
+  "movementCount": 8,
+  "populatedMovementIds": [
+    "origins",
+    "pictorialism",
+    "straight",
+    "documentary",
+    "street",
+    "color",
+    "topographics",
+    "staged"
+  ],
+  "source": "ported from the Camera Obscura web prototype (src/data)"
+}

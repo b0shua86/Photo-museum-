@@ -1,0 +1,77 @@
+[
+  {
+    "year": "c. 1500s",
+    "name": "Camera Obscura",
+    "blurb": "The optical principle the medium is named for — a darkened room or box projecting the world through a small hole. For centuries an artist's drawing aid; the image could be seen but not yet kept."
+  },
+  {
+    "year": "1826",
+    "name": "Heliography",
+    "blurb": "Nicéphore Niépce fixes the first surviving photograph, 'View from the Window at Le Gras', after an exposure of many hours on a pewter plate."
+  },
+  {
+    "year": "1839",
+    "name": "The Daguerreotype",
+    "blurb": "Louis Daguerre's process — a sharp, unique image on silvered copper — is announced in Paris and given to the world. Photography goes public."
+  },
+  {
+    "year": "1841",
+    "name": "The Calotype",
+    "blurb": "William Henry Fox Talbot patents the paper negative, allowing many positive prints from one exposure — the negative-positive principle behind all film."
+  },
+  {
+    "year": "1851",
+    "name": "Wet-Plate Collodion",
+    "blurb": "Sharp, detailed and cheap, but the glass plate had to be coated, exposed and developed within minutes — sending photographers out with portable darkrooms."
+  },
+  {
+    "year": "1871",
+    "name": "Gelatin Dry Plate",
+    "blurb": "Factory-made, storable plates free the photographer from the darkroom tent and, being faster, make the hand-held snapshot possible."
+  },
+  {
+    "year": "1888",
+    "name": "Kodak Roll Film",
+    "blurb": "'You press the button, we do the rest.' George Eastman's roll-film camera puts photography in everyone's hands and creates the snapshot."
+  },
+  {
+    "year": "1907",
+    "name": "Autochrome",
+    "blurb": "The Lumière brothers release the first practical colour process, a glass plate of dyed potato-starch grains giving soft, pointillist colour."
+  },
+  {
+    "year": "1925",
+    "name": "The Leica (35mm)",
+    "blurb": "A tiny, fast camera using movie film turns photography mobile and candid — the tool that made street photography and photojournalism."
+  },
+  {
+    "year": "1935",
+    "name": "Kodachrome",
+    "blurb": "Modern, fine-grained colour film arrives, eventually defining the look of 20th-century colour photography."
+  },
+  {
+    "year": "1948",
+    "name": "Instant & the Modern SLR",
+    "blurb": "Polaroid delivers a finished print in a minute; the era of the system single-lens reflex (Hasselblad, then Nikon) begins."
+  },
+  {
+    "year": "1975",
+    "name": "The First Digital Camera",
+    "blurb": "Kodak engineer Steven Sasson builds a prototype that records an image to a cassette tape — the seed of the digital revolution."
+  },
+  {
+    "year": "1990",
+    "name": "Photoshop",
+    "blurb": "Adobe Photoshop 1.0 ships, moving the darkroom onto the computer and reopening century-old questions about the manipulated image."
+  },
+  {
+    "year": "2000",
+    "name": "The Cameraphone",
+    "blurb": "The first commercial camera phones appear; within a decade nearly everyone carries a camera and billions of photographs are made daily."
+  },
+  {
+    "year": "2010s",
+    "name": "Mirrorless & Computational",
+    "blurb": "Mirrorless cameras and smartphone computational photography — HDR, multi-frame stacking, AI processing — redefine what a 'photograph' even is."
+  }
+]

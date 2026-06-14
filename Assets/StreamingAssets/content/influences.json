@@ -1,0 +1,134 @@
+[
+  {
+    "from": "origins",
+    "to": "pictorialism",
+    "kind": "movement",
+    "label": "matures into"
+  },
+  {
+    "from": "pictorialism",
+    "to": "straight",
+    "kind": "movement",
+    "label": "reaction against"
+  },
+  {
+    "from": "origins",
+    "to": "documentary",
+    "kind": "movement",
+    "label": "the camera as record"
+  },
+  {
+    "from": "straight",
+    "to": "documentary",
+    "kind": "movement",
+    "label": "sharp witness"
+  },
+  {
+    "from": "documentary",
+    "to": "street",
+    "kind": "movement",
+    "label": "into public space"
+  },
+  {
+    "from": "straight",
+    "to": "street",
+    "kind": "movement",
+    "label": "candid form"
+  },
+  {
+    "from": "street",
+    "to": "color",
+    "kind": "movement",
+    "label": "the everyday in colour"
+  },
+  {
+    "from": "documentary",
+    "to": "topographics",
+    "kind": "movement",
+    "label": "deadpan landscape"
+  },
+  {
+    "from": "color",
+    "to": "topographics",
+    "kind": "movement",
+    "label": "vernacular eye"
+  },
+  {
+    "from": "straight",
+    "to": "staged",
+    "kind": "movement",
+    "label": "the frame as construction"
+  },
+  {
+    "from": "color",
+    "to": "staged",
+    "kind": "movement",
+    "label": "cinematic colour"
+  },
+  {
+    "from": "cameron",
+    "to": "pictorialism",
+    "kind": "artist",
+    "label": "anticipates"
+  },
+  {
+    "from": "stieglitz",
+    "to": "straight",
+    "kind": "artist",
+    "label": "founds"
+  },
+  {
+    "from": "atget",
+    "to": "staged",
+    "kind": "artist",
+    "label": "inspires the surreal"
+  },
+  {
+    "from": "atget",
+    "to": "documentary",
+    "kind": "artist",
+    "label": "proto-documentary"
+  },
+  {
+    "from": "cartier-bresson",
+    "to": "street",
+    "kind": "artist",
+    "label": "decisive moment"
+  },
+  {
+    "from": "eggleston",
+    "to": "color",
+    "kind": "artist",
+    "label": "legitimises colour"
+  },
+  {
+    "from": "robert-adams",
+    "to": "topographics",
+    "kind": "artist",
+    "label": "defines"
+  },
+  {
+    "from": "sherman",
+    "to": "staged",
+    "kind": "artist",
+    "label": "constructs the self"
+  },
+  {
+    "from": "woodman",
+    "to": "kyle-thompson",
+    "kind": "artist",
+    "label": "ancestor"
+  },
+  {
+    "from": "crewdson",
+    "to": "kyle-thompson",
+    "kind": "artist",
+    "label": "cinematic staging"
+  },
+  {
+    "from": "staged",
+    "to": "kyle-thompson",
+    "kind": "artist",
+    "label": "contemporary heir"
+  }
+]

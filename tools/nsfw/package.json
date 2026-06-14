@@ -1,0 +1,1 @@
+{"name":"co-nsfw","type":"module","private":true,"dependencies":{"@tensorflow/tfjs-node":"^4.22.0","nsfwjs":"^4.3.0"}}

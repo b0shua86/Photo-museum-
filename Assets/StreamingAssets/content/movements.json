@@ -1,0 +1,119 @@
+[
+  {
+    "id": "origins",
+    "name": "Invention & Origins",
+    "period": "1826–1860",
+    "startYear": 1826,
+    "endYear": 1860,
+    "blurb": "From Niépce's first fixed image to the daguerreotype and the calotype — photography is invented and races to capture portraits, landscapes and the wider world.",
+    "color": "#8a7355",
+    "music": {
+      "youtubeId": "TmUBH7ZgMSk",
+      "title": "Chopin · Complete Nocturnes"
+    }
+  },
+  {
+    "id": "pictorialism",
+    "name": "Pictorialism",
+    "period": "c. 1885–1915",
+    "startYear": 1885,
+    "endYear": 1915,
+    "blurb": "The first movement to argue photography was fine art. Soft focus, hand-working of prints and painterly atmosphere aimed to rival painting and etching.",
+    "color": "#6b5b7b",
+    "music": {
+      "youtubeId": "5pyhBJzuixM",
+      "title": "Satie · Gymnopédies & Gnossiennes"
+    }
+  },
+  {
+    "id": "straight",
+    "name": "Straight Photography & Modernism",
+    "period": "c. 1916–1940",
+    "startYear": 1916,
+    "endYear": 1940,
+    "blurb": "A reaction against Pictorialism: sharp focus, full tonal range and the unmanipulated frame. Photography asserts its own modern, mechanical vision.",
+    "color": "#3f6f6f",
+    "music": {
+      "youtubeId": "NBESkoBs8iY",
+      "title": "Roaring Twenties · Jazz Age Instrumentals"
+    }
+  },
+  {
+    "id": "documentary",
+    "name": "Documentary & Social Realism",
+    "period": "c. 1890–1945",
+    "startYear": 1890,
+    "endYear": 1945,
+    "blurb": "The camera as witness and reformer — from Atget's vanishing Paris and Hine's child labourers to the Farm Security Administration's portrait of Depression-era America.",
+    "color": "#7a4f3a",
+    "music": {
+      "youtubeId": "2vWBUefNnes",
+      "title": "1930s Jazz Lounge"
+    }
+  },
+  {
+    "id": "street",
+    "name": "Street Photography",
+    "period": "c. 1940–1975",
+    "startYear": 1940,
+    "endYear": 1975,
+    "blurb": "The decisive moment in public space — candid, fast and intuitive, finding form and feeling in the unscripted life of the city.",
+    "color": "#4a5a6b",
+    "music": {
+      "youtubeId": "0kPctdr7duw",
+      "title": "1950s Cool Jazz Classics"
+    }
+  },
+  {
+    "id": "color",
+    "name": "The New Color",
+    "period": "c. 1960–1985",
+    "startYear": 1960,
+    "endYear": 1985,
+    "blurb": "Colour, long dismissed as commercial, is claimed for serious art — the saturated, deadpan vernacular of everyday America.",
+    "color": "#9a6b3f",
+    "music": {
+      "youtubeId": "HVtXITbkB5M",
+      "title": "1960s Bossa Nova Instrumentals"
+    }
+  },
+  {
+    "id": "topographics",
+    "name": "New Topographics",
+    "period": "1975–1985",
+    "startYear": 1975,
+    "endYear": 1985,
+    "blurb": "Stark, unromantic views of the man-altered landscape — parking lots, tract housing and industrial edges replace the sublime wilderness.",
+    "color": "#5f6f5a",
+    "music": {
+      "youtubeId": "vNwYtllyt3Q",
+      "title": "Brian Eno · Music for Airports (1978)"
+    }
+  },
+  {
+    "id": "staged",
+    "name": "Staged & Contemporary Surrealism",
+    "period": "c. 1980–present",
+    "startYear": 1980,
+    "endYear": null,
+    "blurb": "Photography as fiction — constructed, cinematic and psychological. Self-portraiture and elaborate set-building turn the frame into a dream or a stage.",
+    "color": "#5b4a63",
+    "music": {
+      "youtubeId": "fAhiAT1Je00",
+      "title": "Ambient · Downtempo Chillout"
+    }
+  },
+  {
+    "id": "contemporary",
+    "name": "Contemporary & Digital",
+    "period": "c. 2000–present",
+    "startYear": 2000,
+    "endYear": null,
+    "blurb": "The medium in the new century — large-format tableaux, the deadpan digital sublime, staged psychological fictions and the self-portrait reborn on the social web. Photography becomes vast, constructed and screen-native.",
+    "color": "#3f7d8c",
+    "music": {
+      "youtubeId": "",
+      "title": "Contemporary · Ambient"
+    }
+  }
+]
