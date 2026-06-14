@@ -2125,7 +2125,7 @@
         "description": "Railroad bridges crossing the Green River in Wyoming, with the bluff of Citadel Rock rising behind, from The Great West Illustrated.",
         "series": null,
         "credit": "Public domain",
-        "mature": true
+        "mature": false
       },
       {
         "id": "ar-3",
@@ -2815,7 +2815,7 @@
         "description": "A nude figure clinging within the splintered trunk of a lightning-struck pine — the body and the dying tree merged into a single elemental form.",
         "series": null,
         "credit": "Public domain",
-        "mature": false
+        "mature": true
       },
       {
         "id": "ab-2",
@@ -2825,7 +2825,7 @@
         "description": "A nude reclining against rock and reaching toward a translucent sphere, one of Brigman's allegories of the spirit set in the open landscape.",
         "series": null,
         "credit": "Public domain",
-        "mature": false
+        "mature": true
       },
       {
         "id": "ab-3",
@@ -3655,7 +3655,7 @@
         "description": "Two nude figures emerging from deep chiaroscuro, the negative scratched and worked until the photograph reads like an Old Master etching of the Fall.",
         "series": null,
         "credit": "The Metropolitan Museum of Art",
-        "mature": false
+        "mature": true
       },
       {
         "id": "fg-2",
@@ -4635,7 +4635,7 @@
         "description": "A nude figure twisting against a roughly worked ground, the gum surface scratched and brushed until photograph and drawing blur together.",
         "series": null,
         "credit": "The Metropolitan Museum of Art",
-        "mature": false
+        "mature": true
       },
       {
         "id": "rd-2",
@@ -4655,7 +4655,7 @@
         "description": "A ballet dancer waiting in the wings, modeled in soft gum tones — a favorite Degas-like motif of the Parisian Pictorialists.",
         "series": null,
         "credit": "Public domain",
-        "mature": true
+        "mature": false
       },
       {
         "id": "robert-demachy-x1",
@@ -5165,7 +5165,7 @@
         "description": "Hand-lettered signs and fish for sale — Evans's eye for the American vernacular of commerce and type.",
         "series": null,
         "credit": "Library of Congress, FSA/OWI",
-        "mature": true
+        "mature": false
       },
       {
         "id": "evans-x1",
@@ -5285,7 +5285,7 @@
         "description": "A worker curved around a great steam pump — Hine's monument to the dignity and strength of labour.",
         "series": null,
         "credit": "Public domain",
-        "mature": true
+        "mature": false
       },
       {
         "id": "hi-2",
@@ -5795,7 +5795,7 @@
         "description": "Immigrants packed into an unauthorized night lodging, paying five cents each for a place on the floor.",
         "series": null,
         "credit": "Public domain",
-        "mature": true
+        "mature": false
       },
       {
         "id": "jr-3",
@@ -6769,7 +6769,7 @@
         "description": "A rising moon over a village and its small white crosses, the sky printed almost black — Adams's most celebrated single image.",
         "series": null,
         "credit": "© The Ansel Adams Publishing Rights Trust",
-        "mature": true
+        "mature": false
       },
       {
         "id": "aa-2",
@@ -7199,7 +7199,7 @@
         "description": "A nude composed so that bent arm and knee resolve the body into a play of geometric angles and curves.",
         "series": null,
         "credit": "© Imogen Cunningham Trust",
-        "mature": false
+        "mature": true
       },
       {
         "id": "imogen-cunningham-x1",
@@ -8569,7 +8569,7 @@
         "description": "A cluster of tin funnels turned into a study of nested curves and reflected light, in the manner of his teacher Weston.",
         "series": null,
         "credit": "© Estate of Willard Van Dyke",
-        "mature": true
+        "mature": false
       },
       {
         "id": "willard-van-dyke-x1",
@@ -9049,7 +9049,7 @@
         "description": "A boy strides home proudly clutching two bottles of wine — the joy of the street caught whole.",
         "series": null,
         "credit": "© Henri Cartier-Bresson / Magnum",
-        "mature": true
+        "mature": false
       },
       {
         "id": "cartier-bresson-x1",
@@ -9099,7 +9099,7 @@
         "description": "A close, abstracted view of patterned tights, typical of Moriyama's fragmentary, high-contrast urban vision.",
         "series": null,
         "credit": "© Daido Moriyama Photo Foundation",
-        "mature": true
+        "mature": false
       },
       {
         "id": "dm-3",
@@ -9829,7 +9829,7 @@
         "description": "A heavyset woman reclines on the sand and grins straight at the camera — Model's most iconic image, an everyday goddess of the beach.",
         "series": null,
         "credit": "© The Lisette Model Foundation",
-        "mature": true
+        "mature": false
       },
       {
         "id": "lm-2",
@@ -10589,7 +10589,7 @@
         "description": "His wife washes at a basin in their rustic Provence home, light pouring through a shuttered window — a spontaneous, tender nude.",
         "series": null,
         "credit": "© Willy Ronis / Ministère de la Culture",
-        "mature": false
+        "mature": true
       },
       {
         "id": "wr-2",
@@ -11759,7 +11759,7 @@
         "description": "A charged domestic moment from \"The Ballad of Sexual Dependency\", the artist and her lover caught in flash-lit colour.",
         "series": null,
         "credit": "© Nan Goldin",
-        "mature": true
+        "mature": false
       },
       {
         "id": "ng-2",
@@ -14289,7 +14289,7 @@
         "description": "A poised figure suspended in a Technicolor period interior — a mood held in the moment before tears.",
         "series": null,
         "credit": "© Erwin Olaf",
-        "mature": false
+        "mature": true
       },
       {
         "id": "eo-2",
@@ -14299,7 +14299,7 @@
         "description": "A waiting figure in a styled mid-century room, gaze averted — anticipation rendered as immaculate stillness.",
         "series": null,
         "credit": "© Erwin Olaf",
-        "mature": false
+        "mature": true
       },
       {
         "id": "eo-3",
@@ -14309,7 +14309,7 @@
         "description": "A composed woman undone by a single tear in a hushed interior — sorrow staged with cinematic precision.",
         "series": null,
         "credit": "© Erwin Olaf",
-        "mature": false
+        "mature": true
       },
       {
         "id": "erwin-olaf-e1",
@@ -14329,7 +14329,7 @@
         "description": "From the staged, cinematic, often unsettling tableaux of Erwin Olaf — meticulous studio fictions of mood, period and the body.",
         "series": null,
         "credit": "© Erwin Olaf Estate",
-        "mature": false
+        "mature": true
       },
       {
         "id": "erwin-olaf-e3",
@@ -14339,7 +14339,7 @@
         "description": "From the staged, cinematic, often unsettling tableaux of Erwin Olaf — meticulous studio fictions of mood, period and the body.",
         "series": null,
         "credit": "© Erwin Olaf Estate",
-        "mature": false
+        "mature": true
       },
       {
         "id": "erwin-olaf-e4",
@@ -14369,7 +14369,7 @@
         "description": "From the staged, cinematic, often unsettling tableaux of Erwin Olaf — meticulous studio fictions of mood, period and the body.",
         "series": null,
         "credit": "© Erwin Olaf Estate",
-        "mature": false
+        "mature": true
       },
       {
         "id": "erwin-olaf-e7",
@@ -14379,7 +14379,7 @@
         "description": "From the staged, cinematic, often unsettling tableaux of Erwin Olaf — meticulous studio fictions of mood, period and the body.",
         "series": null,
         "credit": "© Erwin Olaf Estate",
-        "mature": false
+        "mature": true
       },
       {
         "id": "erwin-olaf-e8",
@@ -14389,7 +14389,7 @@
         "description": "From the staged, cinematic, often unsettling tableaux of Erwin Olaf — meticulous studio fictions of mood, period and the body.",
         "series": null,
         "credit": "© Erwin Olaf Estate",
-        "mature": false
+        "mature": true
       },
       {
         "id": "erwin-olaf-e9",
@@ -14399,7 +14399,7 @@
         "description": "From the staged, cinematic, often unsettling tableaux of Erwin Olaf — meticulous studio fictions of mood, period and the body.",
         "series": null,
         "credit": "© Erwin Olaf Estate",
-        "mature": false
+        "mature": true
       },
       {
         "id": "erwin-olaf-e10",
@@ -14409,7 +14409,7 @@
         "description": "From the staged, cinematic, often unsettling tableaux of Erwin Olaf — meticulous studio fictions of mood, period and the body.",
         "series": null,
         "credit": "© Erwin Olaf Estate",
-        "mature": false
+        "mature": true
       },
       {
         "id": "erwin-olaf-e11",
@@ -14419,7 +14419,7 @@
         "description": "From the staged, cinematic, often unsettling tableaux of Erwin Olaf — meticulous studio fictions of mood, period and the body.",
         "series": null,
         "credit": "© Erwin Olaf Estate",
-        "mature": false
+        "mature": true
       },
       {
         "id": "erwin-olaf-e12",
@@ -14449,7 +14449,7 @@
         "description": "From the staged, cinematic, often unsettling tableaux of Erwin Olaf — meticulous studio fictions of mood, period and the body.",
         "series": null,
         "credit": "© Erwin Olaf Estate",
-        "mature": false
+        "mature": true
       },
       {
         "id": "erwin-olaf-e15",
@@ -14469,7 +14469,7 @@
         "description": "From the staged, cinematic, often unsettling tableaux of Erwin Olaf — meticulous studio fictions of mood, period and the body.",
         "series": null,
         "credit": "© Erwin Olaf Estate",
-        "mature": false
+        "mature": true
       },
       {
         "id": "erwin-olaf-e17",
@@ -14479,7 +14479,7 @@
         "description": "From the staged, cinematic, often unsettling tableaux of Erwin Olaf — meticulous studio fictions of mood, period and the body.",
         "series": null,
         "credit": "© Erwin Olaf Estate",
-        "mature": false
+        "mature": true
       },
       {
         "id": "erwin-olaf-e18",
@@ -14489,7 +14489,7 @@
         "description": "From the staged, cinematic, often unsettling tableaux of Erwin Olaf — meticulous studio fictions of mood, period and the body.",
         "series": null,
         "credit": "© Erwin Olaf Estate",
-        "mature": false
+        "mature": true
       },
       {
         "id": "erwin-olaf-e19",
@@ -14509,7 +14509,7 @@
         "description": "From the staged, cinematic, often unsettling tableaux of Erwin Olaf — meticulous studio fictions of mood, period and the body.",
         "series": null,
         "credit": "© Erwin Olaf Estate",
-        "mature": false
+        "mature": true
       },
       {
         "id": "erwin-olaf-e21",
@@ -14519,7 +14519,7 @@
         "description": "From the staged, cinematic, often unsettling tableaux of Erwin Olaf — meticulous studio fictions of mood, period and the body.",
         "series": null,
         "credit": "© Erwin Olaf Estate",
-        "mature": false
+        "mature": true
       },
       {
         "id": "erwin-olaf-e22",
@@ -15559,7 +15559,7 @@
         "description": "From Outland: a figure entangled with wires and scrawled marks in a grimy room, reality staged as nightmare.",
         "series": null,
         "credit": "© Roger Ballen",
-        "mature": true
+        "mature": false
       },
       {
         "id": "rb-3",
@@ -15569,7 +15569,7 @@
         "description": "A claustrophobic cell of drawings, animals and props arranged into a dense, dreamlike tableau.",
         "series": null,
         "credit": "© Roger Ballen",
-        "mature": true
+        "mature": false
       },
       {
         "id": "roger-ballen-x1",
@@ -15649,7 +15649,7 @@
         "description": "A woman glancing into a mirror — identity staged, doubled and questioned.",
         "series": null,
         "credit": "© Cindy Sherman",
-        "mature": true
+        "mature": false
       },
       {
         "id": "sherman-x1",
@@ -15819,7 +15819,7 @@
         "description": "A great tree and its roots hover above a still lake — gravity quietly suspended through darkroom montage.",
         "series": null,
         "credit": "© The Estate of Jerry Uelsmann",
-        "mature": true
+        "mature": false
       },
       {
         "id": "ju-3",
@@ -15829,7 +15829,7 @@
         "description": "A brooding composite of figure, landscape and looming cloud — premonitory imagery assembled from many negatives.",
         "series": null,
         "credit": "© The Estate of Jerry Uelsmann",
-        "mature": true
+        "mature": false
       },
       {
         "id": "uelsmann-x1",
