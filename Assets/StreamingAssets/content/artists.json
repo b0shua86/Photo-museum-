@@ -106,6 +106,36 @@
         "series": null,
         "credit": "Wikimedia Commons · Public domain",
         "mature": false
+      },
+      {
+        "id": "atkins-x1",
+        "title": "Anna Atkins, Ferns. Specimen of Cyanotype, 1840s, NGA 136477",
+        "year": "1840",
+        "image": "art/atkins/x01.jpg",
+        "description": "From the work of Anna Atkins.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
+      },
+      {
+        "id": "atkins-x2",
+        "title": "Anna Atkins - Asplenium Braziliense, S. America",
+        "year": "1854",
+        "image": "art/atkins/x02.jpg",
+        "description": "From the work of Anna Atkins.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "atkins-x3",
+        "title": "Anna Atkins - Carix",
+        "year": "1848",
+        "image": "art/atkins/x03.jpg",
+        "description": "From the work of Anna Atkins.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
       }
     ]
   },
@@ -155,6 +185,96 @@
         "description": "A view of the windmills that still stood on the hill of Montmartre, one of his early outdoor paper photographs of Paris.",
         "series": null,
         "credit": "Public domain",
+        "mature": false
+      },
+      {
+        "id": "bayard-x1",
+        "title": "Bayard, Hippolyte - An der Rue Brey",
+        "year": "1845",
+        "image": "art/bayard/x01.jpg",
+        "description": "From the work of Hippolyte Bayard.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "bayard-x2",
+        "title": "Bayard, Hippolyte - Bildnis der Mlle X.",
+        "year": "1847",
+        "image": "art/bayard/x02.jpg",
+        "description": "From the work of Hippolyte Bayard.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "bayard-x3",
+        "title": "Bayard, Hippolyte - Bildnis eines jungen Mädchens",
+        "year": "1845",
+        "image": "art/bayard/x03.jpg",
+        "description": "From the work of Hippolyte Bayard.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "bayard-x4",
+        "title": "Bayard, Hippolyte - Bildnis eines unbekannten jungen Mannes",
+        "year": "1847",
+        "image": "art/bayard/x04.jpg",
+        "description": "From the work of Hippolyte Bayard.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "bayard-x5",
+        "title": "Bayard, Hippolyte - Brunnen am Square Notre-Dame",
+        "year": "1847",
+        "image": "art/bayard/x05.jpg",
+        "description": "From the work of Hippolyte Bayard.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "bayard-x6",
+        "title": "Bayard, Hippolyte - Cartes de visite aus dem Atelier Bayard und Bertall",
+        "year": "1855",
+        "image": "art/bayard/x06.jpg",
+        "description": "From the work of Hippolyte Bayard.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "bayard-x7",
+        "title": "Bayard, Hippolyte - Cartes de visite aus dem Atelier Bayard und Bertall",
+        "year": "1855",
+        "image": "art/bayard/x07.jpg",
+        "description": "From the work of Hippolyte Bayard.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "bayard-x8",
+        "title": "Bayard, Hippolyte - Cartes de visite aus dem Atelier Bayard und Bertall",
+        "year": "1855",
+        "image": "art/bayard/x08.jpg",
+        "description": "From the work of Hippolyte Bayard.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "bayard-x9",
+        "title": "Bayard, Hippolyte - Cartes de visite aus dem Atelier Bayard und Bertall",
+        "year": "1855",
+        "image": "art/bayard/x09.jpg",
+        "description": "From the work of Hippolyte Bayard.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
         "mature": false
       }
     ]
@@ -212,6 +332,86 @@
         "title": "Felice Beato Palanquin",
         "year": "1863",
         "image": "art/beato/e02.jpg",
+        "description": "From the work of Felice Beato.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "beato-x1",
+        "title": "'Street- Inside Sacred Tank Area', by Felice Beato, Amritsar, ca.1858",
+        "year": "1858",
+        "image": "art/beato/x01.jpg",
+        "description": "From the work of Felice Beato.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "beato-x2",
+        "title": "2nd Punjab Cavalry Sowars, India, possibly by Felice Beato, ca.1858–59",
+        "year": "1858",
+        "image": "art/beato/x02.jpg",
+        "description": "From the work of Felice Beato.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "beato-x3",
+        "title": "A veteran Akali-Nihang, by Felice Beato, Delhi, November or December 1858",
+        "year": "1858",
+        "image": "art/beato/x03.jpg",
+        "description": "From the work of Felice Beato.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "beato-x4",
+        "title": "Ayliner Vivian attributed to Felice Beato",
+        "year": "1858",
+        "image": "art/beato/x04.jpg",
+        "description": "From the work of Felice Beato.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "beato-x5",
+        "title": "Captain Bushby attributed to Felice Beato",
+        "year": "1858",
+        "image": "art/beato/x05.jpg",
+        "description": "From the work of Felice Beato.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "beato-x6",
+        "title": "Captain C. Chamberlain attributed to Felice Beato",
+        "year": "1858",
+        "image": "art/beato/x06.jpg",
+        "description": "From the work of Felice Beato.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "beato-x7",
+        "title": "Captain J. Chamberlain attributed to Felice Beato",
+        "year": "1858",
+        "image": "art/beato/x07.jpg",
+        "description": "From the work of Felice Beato.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "beato-x8",
+        "title": "Captain MacAndrew, Commissioner in Oudh attributed to Felice Beato",
+        "year": "1858",
+        "image": "art/beato/x08.jpg",
         "description": "From the work of Felice Beato.",
         "series": null,
         "credit": "Wikimedia Commons · Public domain",
@@ -276,6 +476,86 @@
         "series": null,
         "credit": "Wikimedia Commons · Public domain",
         "mature": false
+      },
+      {
+        "id": "bisson-freres-x1",
+        "title": "Album photographique Bisson frères & Cie - Reproduction d'anciennes planches - btv1b847894",
+        "year": "1850",
+        "image": "art/bisson-freres/x01.jpg",
+        "description": "From the work of Bisson Frères.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "bisson-freres-x2",
+        "title": "Album photographique Bisson frères & Cie - Reproduction d'anciennes planches - btv1b847894",
+        "year": "1850",
+        "image": "art/bisson-freres/x02.jpg",
+        "description": "From the work of Bisson Frères.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "bisson-freres-x3",
+        "title": "Album photographique Bisson frères & Cie - Reproduction d'anciennes planches - btv1b847894",
+        "year": "1850",
+        "image": "art/bisson-freres/x03.jpg",
+        "description": "From the work of Bisson Frères.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "bisson-freres-x4",
+        "title": "Album photographique Bisson frères & Cie - Vues pittoresques. Localités diverses - btv1b53",
+        "year": "1854",
+        "image": "art/bisson-freres/x04.jpg",
+        "description": "From the work of Bisson Frères.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "bisson-freres-x5",
+        "title": "Album photographique Bisson frères & Cie - Vues pittoresques. Localités diverses - btv1b53",
+        "year": "1854",
+        "image": "art/bisson-freres/x05.jpg",
+        "description": "From the work of Bisson Frères.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "bisson-freres-x6",
+        "title": "Album photographique Bisson frères & Cie - Vues pittoresques. Localités diverses - btv1b53",
+        "year": "1854",
+        "image": "art/bisson-freres/x06.jpg",
+        "description": "From the work of Bisson Frères.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "bisson-freres-x7",
+        "title": "Bisson Frères, Entrance to the Imperial Library, the Louvre Palace, Paris, about 1858",
+        "year": "1858",
+        "image": "art/bisson-freres/x07.jpg",
+        "description": "From the work of Bisson Frères.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "bisson-freres-x8",
+        "title": "Bisson Frères, Hotel de Ville, Paris, 1859",
+        "year": "1859",
+        "image": "art/bisson-freres/x08.jpg",
+        "description": "From the work of Bisson Frères.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
       }
     ]
   },
@@ -332,6 +612,86 @@
         "title": "Brady Mathew grave",
         "year": "2008",
         "image": "art/brady/e04.jpg",
+        "description": "From the work of Mathew Brady.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "brady-x1",
+        "title": "Brady, Mathew B. - Abraham Lincoln",
+        "year": "1861",
+        "image": "art/brady/x01.jpg",
+        "description": "From the work of Mathew Brady.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "brady-x2",
+        "title": "Brady, Mathew B. - Andrew Johnson",
+        "year": "",
+        "image": "art/brady/x02.jpg",
+        "description": "From the work of Mathew Brady.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "brady-x3",
+        "title": "Brady, Mathew B. - Brady's photographisches Feldquartier",
+        "year": "1864",
+        "image": "art/brady/x03.jpg",
+        "description": "From the work of Mathew Brady.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "brady-x4",
+        "title": "Brady, Mathew B. - Bradys mobile Dunkelkammer; die »Dingsda«",
+        "year": "1864",
+        "image": "art/brady/x04.jpg",
+        "description": "From the work of Mathew Brady.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "brady-x5",
+        "title": "Brady, Mathew B. - Bradys photographisches Hauptquartier bei Petersburg",
+        "year": "1865",
+        "image": "art/brady/x05.jpg",
+        "description": "From the work of Mathew Brady.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "brady-x6",
+        "title": "Brady, Mathew B. - Eine Feldspitalszene",
+        "year": "1862",
+        "image": "art/brady/x06.jpg",
+        "description": "From the work of Mathew Brady.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "brady-x7",
+        "title": "Brady, Mathew B. - Feldtelegraphstation",
+        "year": "",
+        "image": "art/brady/x07.jpg",
+        "description": "From the work of Mathew Brady.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "brady-x8",
+        "title": "Brady, Mathew B. - Konföderierte Kanone",
+        "year": "1862",
+        "image": "art/brady/x08.jpg",
         "description": "From the work of Mathew Brady.",
         "series": null,
         "credit": "Wikimedia Commons · Public domain",
@@ -402,6 +762,76 @@
         "title": "Henry Taylor, by Julia Margaret Cameron, M198111190001",
         "year": "2006",
         "image": "art/cameron/e03.jpg",
+        "description": "From the work of Julia Margaret Cameron.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "cameron-x1",
+        "title": "Alfred Tennyson, by Julia Margaret Cameron",
+        "year": "1866",
+        "image": "art/cameron/x01.jpg",
+        "description": "From the work of Julia Margaret Cameron.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "cameron-x2",
+        "title": "Alfred Tennyson by Julia Margaret Cameron",
+        "year": "1869",
+        "image": "art/cameron/x02.jpg",
+        "description": "From the work of Julia Margaret Cameron.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "cameron-x3",
+        "title": "Cameron, Julia Margaret - The Rosebud Garden of Girls",
+        "year": "1868",
+        "image": "art/cameron/x03.jpg",
+        "description": "From the work of Julia Margaret Cameron.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "cameron-x4",
+        "title": "Charles Darwin by Julia Margaret Cameron, c. 1868",
+        "year": "1868",
+        "image": "art/cameron/x04.jpg",
+        "description": "From the work of Julia Margaret Cameron.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "cameron-x5",
+        "title": "Charles Darwin by Julia Margaret Cameron, c. 1868 - Original",
+        "year": "1868",
+        "image": "art/cameron/x05.jpg",
+        "description": "From the work of Julia Margaret Cameron.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "cameron-x6",
+        "title": "Charles Darwin photograph by Julia Margaret Cameron, 1868",
+        "year": "1868",
+        "image": "art/cameron/x06.jpg",
+        "description": "From the work of Julia Margaret Cameron.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "cameron-x7",
+        "title": "Charles Hay Cameron, by Julia Margaret Cameron",
+        "year": "1864",
+        "image": "art/cameron/x07.jpg",
         "description": "From the work of Julia Margaret Cameron.",
         "series": null,
         "credit": "Wikimedia Commons · Public domain",
@@ -522,6 +952,86 @@
         "title": "Du Camp Louvre RF938",
         "year": "2010",
         "image": "art/du-camp/e01.jpg",
+        "description": "From the work of Maxime Du Camp.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "du-camp-x1",
+        "title": "-Maxime Du Camp's Camp- MET DP-388-002",
+        "year": "1850",
+        "image": "art/du-camp/x01.jpg",
+        "description": "From the work of Maxime Du Camp.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
+      },
+      {
+        "id": "du-camp-x2",
+        "title": "2 albums contenant 170 phot. du voyage en Egypte, en Nubie et en Syrie de Maxime Du Camp e",
+        "year": "1849",
+        "image": "art/du-camp/x02.jpg",
+        "description": "From the work of Maxime Du Camp.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "du-camp-x3",
+        "title": "2 albums contenant 170 phot. du voyage en Egypte, en Nubie et en Syrie de Maxime Du Camp e",
+        "year": "1849",
+        "image": "art/du-camp/x03.jpg",
+        "description": "From the work of Maxime Du Camp.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "du-camp-x4",
+        "title": "2 albums contenant 170 phot. du voyage en Egypte, en Nubie et en Syrie de Maxime Du Camp e",
+        "year": "1849",
+        "image": "art/du-camp/x04.jpg",
+        "description": "From the work of Maxime Du Camp.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "du-camp-x5",
+        "title": "2 albums contenant 170 phot. du voyage en Egypte, en Nubie et en Syrie de Maxime Du Camp e",
+        "year": "1849",
+        "image": "art/du-camp/x05.jpg",
+        "description": "From the work of Maxime Du Camp.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "du-camp-x6",
+        "title": "2 albums contenant 170 phot. du voyage en Egypte, en Nubie et en Syrie de Maxime Du Camp e",
+        "year": "1849",
+        "image": "art/du-camp/x06.jpg",
+        "description": "From the work of Maxime Du Camp.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "du-camp-x7",
+        "title": "2 albums contenant 170 phot. du voyage en Egypte, en Nubie et en Syrie de Maxime Du Camp e",
+        "year": "1849",
+        "image": "art/du-camp/x07.jpg",
+        "description": "From the work of Maxime Du Camp.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "du-camp-x8",
+        "title": "2 albums contenant 170 phot. du voyage en Egypte, en Nubie et en Syrie de Maxime Du Camp e",
+        "year": "1849",
+        "image": "art/du-camp/x08.jpg",
         "description": "From the work of Maxime Du Camp.",
         "series": null,
         "credit": "Wikimedia Commons · Public domain",
@@ -862,6 +1372,86 @@
         "title": "Nicéphore Niépce Oldest Photograph 1825",
         "year": "1825",
         "image": "art/niepce/e03.jpg",
+        "description": "From the work of Nicéphore Niépce.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "niepce-x1",
+        "title": "Busts - Musée Nicéphore Niépce - DSC06049",
+        "year": "2011",
+        "image": "art/niepce/x01.jpg",
+        "description": "From the work of Nicéphore Niépce.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "niepce-x2",
+        "title": "Camera given to Niépce by Daguerre, 1829 - Musée Nicéphore Niépce - DSC06033",
+        "year": "2011",
+        "image": "art/niepce/x02.jpg",
+        "description": "From the work of Nicéphore Niépce.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "niepce-x3",
+        "title": "Chalon-sur-Saône - Statue de Nicéphore Niépce",
+        "year": "2025",
+        "image": "art/niepce/x03.jpg",
+        "description": "From the work of Nicéphore Niépce.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC BY-SA 4.0",
+        "mature": false
+      },
+      {
+        "id": "niepce-x4",
+        "title": "Draisienne - Musée Nicéphore Niépce - DSC06044",
+        "year": "2011",
+        "image": "art/niepce/x04.jpg",
+        "description": "From the work of Nicéphore Niépce.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "niepce-x5",
+        "title": "Draisienne built by Niépce, 1818 - Musée Nicéphore Niépce - DSC06041",
+        "year": "2011",
+        "image": "art/niepce/x05.jpg",
+        "description": "From the work of Nicéphore Niépce.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "niepce-x6",
+        "title": "Exhibit - Musée Nicéphore Niépce - DSC05952",
+        "year": "2011",
+        "image": "art/niepce/x06.jpg",
+        "description": "From the work of Nicéphore Niépce.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "niepce-x7",
+        "title": "Exhibit - Musée Nicéphore Niépce - DSC05982",
+        "year": "2011",
+        "image": "art/niepce/x07.jpg",
+        "description": "From the work of Nicéphore Niépce.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "niepce-x8",
+        "title": "Exhibit - Musée Nicéphore Niépce - DSC05983",
+        "year": "2011",
+        "image": "art/niepce/x08.jpg",
         "description": "From the work of Nicéphore Niépce.",
         "series": null,
         "credit": "Wikimedia Commons · Public domain",
