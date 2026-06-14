@@ -23,6 +23,8 @@ ONLY = set(ARGS[ARGS.index("--only") + 1].split(",")) if "--only" in ARGS else N
 WORKERS = int(ARGS[ARGS.index("--workers") + 1]) if "--workers" in ARGS else 8
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+# Wikimedia asks for a descriptive UA with contact; it gets gentler rate-limiting.
+COMMONS_UA = "CameraObscuraMuseum/1.0 (educational photography-museum build; contact: wearethelegion@gmail.com)"
 NUDE_RE = re.compile(r"\b(nude|nudes|naked|akt|desnudo|undressed|torso)\b", re.I)
 BLOCK_RE = re.compile(r"\b(signature|autograph|grave|tomb|tombe|plaque|monument|\bmap\b|stamp|postage|"
                       r"envelope|coin|medal|logo|coat of arms|historical marker|book ?cover|title ?page|"
@@ -51,7 +53,8 @@ def http(url, binary=False, tries=5, timeout=50, ref=None):
     delay = 2
     for i in range(tries):
         try:
-            h = {"User-Agent": UA, "Accept-Encoding": "identity", "Accept-Language": "en-US,en;q=0.9"}
+            ua = COMMONS_UA if "wikimedia.org" in url else UA
+            h = {"User-Agent": ua, "Accept-Encoding": "identity", "Accept-Language": "en-US,en;q=0.9"}
             if ref:
                 h["Referer"] = ref
             with urllib.request.urlopen(urllib.request.Request(url, headers=h), timeout=timeout) as r:
@@ -199,7 +202,9 @@ def process(a, idx, ntotal):
             except Exception:
                 pass
 
-    cands = (commons(a["name"]) + ddg(a["name"])) if rights == "public-domain" else ddg(a["name"])
+    # Public-domain wings fill from Commons alone (no slow DDG round-trips); living
+    # artists draw only from the web (auction/museum) sources.
+    cands = commons(a["name"]) if rights == "public-domain" else ddg(a["name"])
     cands.sort(key=lambda c: 0 if c["src"] == "commons" else (1 if STRONG_DOM.search(c.get("page", "") + c["url"]) else 2))
 
     chosen = []
@@ -280,6 +285,12 @@ def main():
     global _data
     _data = json.load(open(CJSON))
     todo = [a for a in _data if (ONLY is None or a["id"] in ONLY) and TARGET - len(a.get("artworks", [])) > 0]
+    # Interleave Commons (public-domain) and web (copyright) wings so the two rate-
+    # limited sources are exercised concurrently rather than back-to-back.
+    from itertools import zip_longest
+    pd = [a for a in todo if (a.get("rights") or "").lower() == "public-domain"]
+    cp = [a for a in todo if (a.get("rights") or "").lower() != "public-domain"]
+    todo = [x for pair in zip_longest(pd, cp) for x in pair if x is not None]
     out(f"\n=== expand start: {len(todo)} wings need work, TARGET={TARGET}, workers={WORKERS} ===")
     n = len(todo)
     total = 0
