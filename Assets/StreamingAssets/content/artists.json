@@ -536,16 +536,6 @@
         "series": null,
         "credit": "Wikimedia Commons · Public domain",
         "mature": false
-      },
-      {
-        "id": "bisson-freres-x8",
-        "title": "Bisson Frères, Hotel de Ville, Paris, 1859",
-        "year": "1859",
-        "image": "art/bisson-freres/x08.jpg",
-        "description": "From the work of Bisson Frères.",
-        "series": null,
-        "credit": "Wikimedia Commons · Public domain",
-        "mature": false
       }
     ]
   },
@@ -2172,16 +2162,6 @@
         "title": "Andrew J. Russell - Church Buttes, 1868",
         "year": "1868",
         "image": "art/russell/x04.jpg",
-        "description": "From the work of Andrew J. Russell.",
-        "series": null,
-        "credit": "Wikimedia Commons · Public domain",
-        "mature": false
-      },
-      {
-        "id": "russell-x5",
-        "title": "Andrew joseph russell magazine wharf city point virginia january 1865104324)",
-        "year": "2022",
-        "image": "art/russell/x05.jpg",
         "description": "From the work of Andrew J. Russell.",
         "series": null,
         "credit": "Wikimedia Commons · Public domain",
@@ -4976,6 +4956,56 @@
         "series": null,
         "credit": "Source: www.sothebys.com",
         "mature": false
+      },
+      {
+        "id": "robert-capa-x6",
+        "title": "Spanish Civil War",
+        "year": "",
+        "image": "art/robert-capa/x06.jpg",
+        "description": "From the work of Robert Capa.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "robert-capa-x7",
+        "title": "Robert Capa: The Hungarian American Legendary War Photographer",
+        "year": "",
+        "image": "art/robert-capa/x07.jpg",
+        "description": "From the work of Robert Capa.",
+        "series": null,
+        "credit": "Source: www.flatpackfilms.com",
+        "mature": false
+      },
+      {
+        "id": "robert-capa-x8",
+        "title": "Robert Capa: Legendary War Photographer",
+        "year": "",
+        "image": "art/robert-capa/x08.jpg",
+        "description": "From the work of Robert Capa.",
+        "series": null,
+        "credit": "Source: proedu.com",
+        "mature": false
+      },
+      {
+        "id": "robert-capa-x9",
+        "title": "Robert Capa | The Photographers Gallery",
+        "year": "",
+        "image": "art/robert-capa/x09.jpg",
+        "description": "From the work of Robert Capa.",
+        "series": null,
+        "credit": "Source: thephotographersgallery.org.uk",
+        "mature": false
+      },
+      {
+        "id": "robert-capa-x10",
+        "title": "Robert Capas Leben und Werk als Fotograf",
+        "year": "",
+        "image": "art/robert-capa/x10.jpg",
+        "description": "From the work of Robert Capa.",
+        "series": null,
+        "credit": "Source: www.typothek.de",
+        "mature": false
       }
     ]
   },
@@ -5616,6 +5646,46 @@
         "series": null,
         "credit": "Source: www.mutualart.com",
         "mature": false
+      },
+      {
+        "id": "mary-ellen-mark-x6",
+        "title": "Mary Ellen Mark: Encounters - Exibart Street",
+        "year": "",
+        "image": "art/mary-ellen-mark/x06.jpg",
+        "description": "From the work of Mary Ellen Mark.",
+        "series": null,
+        "credit": "Source: www.exibartstreet.com",
+        "mature": false
+      },
+      {
+        "id": "mary-ellen-mark-x7",
+        "title": "Mary Ellen Mark: A Seattle Family | Isabella Stewart Gardner Museum ...",
+        "year": "",
+        "image": "art/mary-ellen-mark/x07.jpg",
+        "description": "From the work of Mary Ellen Mark.",
+        "series": null,
+        "credit": "Source: museemagazine.com",
+        "mature": false
+      },
+      {
+        "id": "mary-ellen-mark-x8",
+        "title": "Exploring Mary Ellen Mark's Photography- Capturing the Marginalized ...",
+        "year": "",
+        "image": "art/mary-ellen-mark/x08.jpg",
+        "description": "From the work of Mary Ellen Mark.",
+        "series": null,
+        "credit": "Source: magazine.urth.co",
+        "mature": false
+      },
+      {
+        "id": "mary-ellen-mark-x9",
+        "title": "Mary Ellen Mark : Parcours, œuvres Et Héritage Intemporel",
+        "year": "",
+        "image": "art/mary-ellen-mark/x09.jpg",
+        "description": "From the work of Mary Ellen Mark.",
+        "series": null,
+        "credit": "Source: ericcanto.com",
+        "mature": false
       }
     ]
   },
@@ -6226,6 +6296,66 @@
         "series": null,
         "credit": "© Sebastião Salgado / Amazonas Images",
         "mature": false
+      },
+      {
+        "id": "sebastiao-salgado-x1",
+        "title": "ICP",
+        "year": "",
+        "image": "art/sebastiao-salgado/x01.jpg",
+        "description": "From the work of Sebastião Salgado.",
+        "series": null,
+        "credit": "Source: www.icp.org",
+        "mature": false
+      },
+      {
+        "id": "sebastiao-salgado-x2",
+        "title": "Dicas para ...",
+        "year": "",
+        "image": "art/sebastiao-salgado/x02.jpg",
+        "description": "From the work of Sebastião Salgado.",
+        "series": null,
+        "credit": "Source: www.epics.com.br",
+        "mature": false
+      },
+      {
+        "id": "sebastiao-salgado-x5",
+        "title": "Sebastião Salgado's impressive photos: This was Brazil's largest & most ...",
+        "year": "",
+        "image": "art/sebastiao-salgado/x05.jpg",
+        "description": "From the work of Sebastião Salgado.",
+        "series": null,
+        "credit": "Source: publicdelivery.org",
+        "mature": false
+      },
+      {
+        "id": "sebastiao-salgado-x6",
+        "title": "INFINITE: Fotografia: Sebastião Salgado",
+        "year": "",
+        "image": "art/sebastiao-salgado/x06.jpg",
+        "description": "From the work of Sebastião Salgado.",
+        "series": null,
+        "credit": "Source: infiniteduciel.blogspot.com",
+        "mature": false
+      },
+      {
+        "id": "sebastiao-salgado-x7",
+        "title": "Dicas para ...",
+        "year": "",
+        "image": "art/sebastiao-salgado/x07.jpg",
+        "description": "From the work of Sebastião Salgado.",
+        "series": null,
+        "credit": "Source: www.epics.com.br",
+        "mature": false
+      },
+      {
+        "id": "sebastiao-salgado-x9",
+        "title": "Sebastiao Salgado",
+        "year": "",
+        "image": "art/sebastiao-salgado/x09.jpg",
+        "description": "From the work of Sebastião Salgado.",
+        "series": null,
+        "credit": "Source: www.britannica.com",
+        "mature": false
       }
     ]
   },
@@ -6346,6 +6476,26 @@
         "series": null,
         "credit": "Source: www.moma.org",
         "mature": false
+      },
+      {
+        "id": "august-sander-x9",
+        "title": "August Sander. Unemployed Man. 1928 | MoMA",
+        "year": "",
+        "image": "art/august-sander/x09.jpg",
+        "description": "From the work of August Sander.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "august-sander-x10",
+        "title": "Konditor",
+        "year": "",
+        "image": "art/august-sander/x10.jpg",
+        "description": "From the work of August Sander.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
       }
     ]
   },
@@ -6455,6 +6605,36 @@
         "description": "From the work of Weegee.",
         "series": null,
         "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "weegee-x8",
+        "title": "Fandom",
+        "year": "",
+        "image": "art/weegee/x08.jpg",
+        "description": "From the work of Weegee.",
+        "series": null,
+        "credit": "Source: officialweegeechroniclesdatabase.fandom.com",
+        "mature": false
+      },
+      {
+        "id": "weegee-x9",
+        "title": "Magnum Photos",
+        "year": "",
+        "image": "art/weegee/x09.jpg",
+        "description": "From the work of Weegee.",
+        "series": null,
+        "credit": "Source: www.magnumphotos.com",
+        "mature": false
+      },
+      {
+        "id": "weegee-x10",
+        "title": "SpongeBob New Fanon Wiki",
+        "year": "",
+        "image": "art/weegee/x10.jpg",
+        "description": "From the work of Weegee.",
+        "series": null,
+        "credit": "Source: spongebob-new-fanon.fandom.com",
         "mature": false
       }
     ]
@@ -6658,16 +6838,6 @@
         "mature": false
       },
       {
-        "id": "berenice-abbott-x2",
-        "title": "Mapping Berenice Abbott's New York - The Metropolitan Museum of Art",
-        "year": "",
-        "image": "art/berenice-abbott/x02.jpg",
-        "description": "From the work of Berenice Abbott.",
-        "series": null,
-        "credit": "Source: www.metmuseum.org",
-        "mature": false
-      },
-      {
         "id": "berenice-abbott-x3",
         "title": "Berenice Abbott | MoMA",
         "year": "",
@@ -6675,16 +6845,6 @@
         "description": "From the work of Berenice Abbott.",
         "series": null,
         "credit": "Source: www.moma.org",
-        "mature": false
-      },
-      {
-        "id": "berenice-abbott-x4",
-        "title": "Filming Berenice Abbott - The Metropolitan Museum of Art",
-        "year": "",
-        "image": "art/berenice-abbott/x04.jpg",
-        "description": "From the work of Berenice Abbott.",
-        "series": null,
-        "credit": "Source: www.metmuseum.org",
         "mature": false
       },
       {
@@ -6819,6 +6979,56 @@
         "description": "From the work of Ansel Adams.",
         "series": null,
         "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "ansel-adams-x4",
+        "title": "Ansel Adams most famous photographs",
+        "year": "",
+        "image": "art/ansel-adams/x04.jpg",
+        "description": "From the work of Ansel Adams.",
+        "series": null,
+        "credit": "Source: www.darindeveau.com",
+        "mature": false
+      },
+      {
+        "id": "ansel-adams-x5",
+        "title": "Ansel Adams in his own words - memorable quotes from the world's most ...",
+        "year": "",
+        "image": "art/ansel-adams/x05.jpg",
+        "description": "From the work of Ansel Adams.",
+        "series": null,
+        "credit": "Source: www.digitalcameraworld.com",
+        "mature": false
+      },
+      {
+        "id": "ansel-adams-x6",
+        "title": "The Tetons and the Snake River by Ansel Adams - Artchive",
+        "year": "",
+        "image": "art/ansel-adams/x06.jpg",
+        "description": "From the work of Ansel Adams.",
+        "series": null,
+        "credit": "Source: www.artchive.com",
+        "mature": false
+      },
+      {
+        "id": "ansel-adams-x7",
+        "title": "Photographer Ansel Adams Was at Annalisa Hanley blog",
+        "year": "",
+        "image": "art/ansel-adams/x07.jpg",
+        "description": "From the work of Ansel Adams.",
+        "series": null,
+        "credit": "Source: storage.googleapis.com",
+        "mature": false
+      },
+      {
+        "id": "ansel-adams-x9",
+        "title": "Denver Botanic Gardens",
+        "year": "",
+        "image": "art/ansel-adams/x09.jpg",
+        "description": "From the work of Ansel Adams.",
+        "series": null,
+        "credit": "Source: www.botanicgardens.org",
         "mature": false
       }
     ]
@@ -7009,6 +7219,36 @@
         "description": "From the work of Margaret Bourke-White.",
         "series": null,
         "credit": "Source: www.groganco.com",
+        "mature": false
+      },
+      {
+        "id": "margaret-bourke-white-x7",
+        "title": "Lot - Margaret Bourke-White. Public Square (The Terminal Tower ...",
+        "year": "",
+        "image": "art/margaret-bourke-white/x07.jpg",
+        "description": "From the work of Margaret Bourke-White.",
+        "series": null,
+        "credit": "Source: www.swanngalleries.com",
+        "mature": false
+      },
+      {
+        "id": "margaret-bourke-white-x8",
+        "title": "Sold at Auction: Margaret Bourke-White, MARGARET BOURKE-WHITE - Street ...",
+        "year": "",
+        "image": "art/margaret-bourke-white/x08.jpg",
+        "description": "From the work of Margaret Bourke-White.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "margaret-bourke-white-x9",
+        "title": "Lot - MARGARET BOURKE-WHITE",
+        "year": "",
+        "image": "art/margaret-bourke-white/x09.jpg",
+        "description": "From the work of Margaret Bourke-White.",
+        "series": null,
+        "credit": "Source: www.selkirkauctions.com",
         "mature": false
       }
     ]
@@ -7370,6 +7610,66 @@
         "series": null,
         "credit": "Source: www.mutualart.com",
         "mature": false
+      },
+      {
+        "id": "florence-henri-x5",
+        "title": "Florence Henri: Reflecting Bauhaus - 1854 Photography",
+        "year": "",
+        "image": "art/florence-henri/x05.jpg",
+        "description": "From the work of Florence Henri.",
+        "series": null,
+        "credit": "Source: www.1854.photography",
+        "mature": false
+      },
+      {
+        "id": "florence-henri-x6",
+        "title": "Florence Henri: Reflecting Bauhaus - 1854 Photography",
+        "year": "",
+        "image": "art/florence-henri/x06.jpg",
+        "description": "From the work of Florence Henri.",
+        "series": null,
+        "credit": "Source: www.1854.photography",
+        "mature": false
+      },
+      {
+        "id": "florence-henri-x7",
+        "title": "Florence Henri - Archives of Women Artists, Research and Exhibitions",
+        "year": "",
+        "image": "art/florence-henri/x07.jpg",
+        "description": "From the work of Florence Henri.",
+        "series": null,
+        "credit": "Source: awarewomenartists.com",
+        "mature": false
+      },
+      {
+        "id": "florence-henri-x8",
+        "title": "Florence Henri Self-portrait in a mirror - Art Blart art and cultural ...",
+        "year": "",
+        "image": "art/florence-henri/x08.jpg",
+        "description": "From the work of Florence Henri.",
+        "series": null,
+        "credit": "Source: artblart.com",
+        "mature": false
+      },
+      {
+        "id": "florence-henri-x9",
+        "title": "Florence Henri - INSIDEART",
+        "year": "",
+        "image": "art/florence-henri/x09.jpg",
+        "description": "From the work of Florence Henri.",
+        "series": null,
+        "credit": "Source: insideart.eu",
+        "mature": false
+      },
+      {
+        "id": "florence-henri-x10",
+        "title": "Meet Florence Henri, The Under-Acknowledged Queen Of Surrealist ...",
+        "year": "",
+        "image": "art/florence-henri/x10.jpg",
+        "description": "From the work of Florence Henri.",
+        "series": null,
+        "credit": "Source: www.huffpost.com",
+        "mature": false
       }
     ]
   },
@@ -7580,6 +7880,76 @@
         "series": null,
         "credit": "Source: www.moma.org",
         "mature": false
+      },
+      {
+        "id": "tina-modotti-x3",
+        "title": "TINA MODOTTI - fhochdrei",
+        "year": "",
+        "image": "art/tina-modotti/x03.jpg",
+        "description": "From the work of Tina Modotti.",
+        "series": null,
+        "credit": "Source: fhochdrei.org",
+        "mature": false
+      },
+      {
+        "id": "tina-modotti-x4",
+        "title": "Tina Modotti Famous Works | Tina Modotti Photos - RDZM",
+        "year": "",
+        "image": "art/tina-modotti/x04.jpg",
+        "description": "From the work of Tina Modotti.",
+        "series": null,
+        "credit": "Source: light.menstar.org",
+        "mature": false
+      },
+      {
+        "id": "tina-modotti-x5",
+        "title": "Tina Modotti at the Cerralbo Museum. One of the great photographers of ...",
+        "year": "",
+        "image": "art/tina-modotti/x05.jpg",
+        "description": "From the work of Tina Modotti.",
+        "series": null,
+        "credit": "Source: www.metalocus.es",
+        "mature": false
+      },
+      {
+        "id": "tina-modotti-x6",
+        "title": "Tina Modotti - Italian American Photographer - Hundred Heroines",
+        "year": "",
+        "image": "art/tina-modotti/x06.jpg",
+        "description": "From the work of Tina Modotti.",
+        "series": null,
+        "credit": "Source: hundredheroines.org",
+        "mature": false
+      },
+      {
+        "id": "tina-modotti-x7",
+        "title": "tina modotti - Art Blart art and cultural memory archive",
+        "year": "",
+        "image": "art/tina-modotti/x07.jpg",
+        "description": "From the work of Tina Modotti.",
+        "series": null,
+        "credit": "Source: artblart.com",
+        "mature": false
+      },
+      {
+        "id": "tina-modotti-x8",
+        "title": "Sky TG24",
+        "year": "",
+        "image": "art/tina-modotti/x08.jpg",
+        "description": "From the work of Tina Modotti.",
+        "series": null,
+        "credit": "Source: tg24.sky.it",
+        "mature": false
+      },
+      {
+        "id": "tina-modotti-x9",
+        "title": "Tina Modotti in a scene from The Tiger's Coat, work by, Tina Modotti ...",
+        "year": "",
+        "image": "art/tina-modotti/x09.jpg",
+        "description": "From the work of Tina Modotti.",
+        "series": null,
+        "credit": "Source: artsupp.com",
+        "mature": false
       }
     ]
   },
@@ -7699,6 +8069,26 @@
         "description": "From the work of László Moholy-Nagy.",
         "series": null,
         "credit": "Source: www.wikiart.org",
+        "mature": false
+      },
+      {
+        "id": "laszlo-moholy-nagy-x8",
+        "title": "Pneumatik - Laszlo Moholy-Nagy - WikiArt.org - encyclopedia of visual arts",
+        "year": "",
+        "image": "art/laszlo-moholy-nagy/x08.jpg",
+        "description": "From the work of László Moholy-Nagy.",
+        "series": null,
+        "credit": "Source: www.wikiart.org",
+        "mature": false
+      },
+      {
+        "id": "laszlo-moholy-nagy-x9",
+        "title": "László Moholy-Nagy. Untitled. 1925 | MoMA",
+        "year": "",
+        "image": "art/laszlo-moholy-nagy/x09.jpg",
+        "description": "From the work of László Moholy-Nagy.",
+        "series": null,
+        "credit": "Source: www.moma.org",
         "mature": false
       }
     ]
@@ -8249,6 +8639,16 @@
         "description": "From the work of Charles Sheeler.",
         "series": null,
         "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "charles-sheeler-x9",
+        "title": "Obelisk Art History",
+        "year": "",
+        "image": "art/charles-sheeler/x09.jpg",
+        "description": "From the work of Charles Sheeler.",
+        "series": null,
+        "credit": "Source: www.arthistoryproject.com",
         "mature": false
       }
     ]
@@ -9000,6 +9400,96 @@
         "series": "Time of Change",
         "credit": "© Bruce Davidson / Magnum Photos",
         "mature": false
+      },
+      {
+        "id": "bruce-davidson-x1",
+        "title": "Bruce Davidson: Life, Work and Street Photography",
+        "year": "",
+        "image": "art/bruce-davidson/x01.jpg",
+        "description": "From the work of Bruce Davidson.",
+        "series": null,
+        "credit": "Source: www.iphotography.com",
+        "mature": false
+      },
+      {
+        "id": "bruce-davidson-x2",
+        "title": "Bruce Davidson: Life, Work and Street Photography",
+        "year": "",
+        "image": "art/bruce-davidson/x02.jpg",
+        "description": "From the work of Bruce Davidson.",
+        "series": null,
+        "credit": "Source: www.iphotography.com",
+        "mature": false
+      },
+      {
+        "id": "bruce-davidson-x3",
+        "title": "These Important Photos by Bruce Davidson are Previously Unseen",
+        "year": "",
+        "image": "art/bruce-davidson/x03.jpg",
+        "description": "From the work of Bruce Davidson.",
+        "series": null,
+        "credit": "Source: www.thephoblographer.com",
+        "mature": false
+      },
+      {
+        "id": "bruce-davidson-x4",
+        "title": "International Photography Hall of Fame ...",
+        "year": "",
+        "image": "art/bruce-davidson/x04.jpg",
+        "description": "From the work of Bruce Davidson.",
+        "series": null,
+        "credit": "Source: www.iphf.org",
+        "mature": false
+      },
+      {
+        "id": "bruce-davidson-x5",
+        "title": "Bruce Davidson",
+        "year": "",
+        "image": "art/bruce-davidson/x05.jpg",
+        "description": "From the work of Bruce Davidson.",
+        "series": null,
+        "credit": "Source: store.magnumphotos.com",
+        "mature": false
+      },
+      {
+        "id": "bruce-davidson-x6",
+        "title": "CNN",
+        "year": "",
+        "image": "art/bruce-davidson/x06.jpg",
+        "description": "From the work of Bruce Davidson.",
+        "series": null,
+        "credit": "Source: www.cnn.com",
+        "mature": false
+      },
+      {
+        "id": "bruce-davidson-x7",
+        "title": "Bruce Davidson - Huxley-Parlour Gallery",
+        "year": "",
+        "image": "art/bruce-davidson/x07.jpg",
+        "description": "From the work of Bruce Davidson.",
+        "series": null,
+        "credit": "Source: huxleyparlour.com",
+        "mature": false
+      },
+      {
+        "id": "bruce-davidson-x8",
+        "title": "2018 ICP Infinity Awards: Lifetime Achievement - Bruce Davidson ...",
+        "year": "",
+        "image": "art/bruce-davidson/x08.jpg",
+        "description": "From the work of Bruce Davidson.",
+        "series": null,
+        "credit": "Source: www.mediastorm.com",
+        "mature": false
+      },
+      {
+        "id": "bruce-davidson-x9",
+        "title": "Bruce Davidson",
+        "year": "",
+        "image": "art/bruce-davidson/x09.jpg",
+        "description": "From the work of Bruce Davidson.",
+        "series": null,
+        "credit": "Source: store.magnumphotos.com",
+        "mature": false
       }
     ]
   },
@@ -9059,6 +9549,76 @@
         "description": "From the work of Henri Cartier-Bresson.",
         "series": null,
         "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "cartier-bresson-x2",
+        "title": "Henri Cartier-Bresson: Principles of a Practice • Magnum Photos",
+        "year": "",
+        "image": "art/cartier-bresson/x02.jpg",
+        "description": "From the work of Henri Cartier-Bresson.",
+        "series": null,
+        "credit": "Source: www.magnumphotos.com",
+        "mature": false
+      },
+      {
+        "id": "cartier-bresson-x3",
+        "title": "Henri Cartier-Bresson • Photographer Profile • Magnum Photos",
+        "year": "",
+        "image": "art/cartier-bresson/x03.jpg",
+        "description": "From the work of Henri Cartier-Bresson.",
+        "series": null,
+        "credit": "Source: www.magnumphotos.com",
+        "mature": false
+      },
+      {
+        "id": "cartier-bresson-x4",
+        "title": "Iconic Photos of Henri Cartier-Bresson & Their Fame",
+        "year": "",
+        "image": "art/cartier-bresson/x04.jpg",
+        "description": "From the work of Henri Cartier-Bresson.",
+        "series": null,
+        "credit": "Source: 121clicks.com",
+        "mature": false
+      },
+      {
+        "id": "cartier-bresson-x5",
+        "title": "Henri Cartier-Bresson and Italy - Exibart Street",
+        "year": "",
+        "image": "art/cartier-bresson/x05.jpg",
+        "description": "From the work of Henri Cartier-Bresson.",
+        "series": null,
+        "credit": "Source: www.exibartstreet.com",
+        "mature": false
+      },
+      {
+        "id": "cartier-bresson-x6",
+        "title": "Henri Cartier Bresson Analyse Photo",
+        "year": "",
+        "image": "art/cartier-bresson/x06.jpg",
+        "description": "From the work of Henri Cartier-Bresson.",
+        "series": null,
+        "credit": "Source: qaqooking.wiki",
+        "mature": false
+      },
+      {
+        "id": "cartier-bresson-x8",
+        "title": "Henri Cartier-Bresson",
+        "year": "",
+        "image": "art/cartier-bresson/x08.jpg",
+        "description": "From the work of Henri Cartier-Bresson.",
+        "series": null,
+        "credit": "Source: deepai.org",
+        "mature": false
+      },
+      {
+        "id": "cartier-bresson-x9",
+        "title": "Shanghai durch die Linse von Henri Cartier-Bresson",
+        "year": "",
+        "image": "art/cartier-bresson/x09.jpg",
+        "description": "From the work of Henri Cartier-Bresson.",
+        "series": null,
+        "credit": "Source: www.singulart.com",
         "mature": false
       }
     ]
@@ -9169,6 +9729,26 @@
         "description": "From the work of Daido Moriyama.",
         "series": null,
         "credit": "Source: www.1stdibs.com",
+        "mature": false
+      },
+      {
+        "id": "daido-moriyama-x7",
+        "title": "Daido Moriyama, Farewell Photography, from the portfolio Farewell ...",
+        "year": "",
+        "image": "art/daido-moriyama/x07.jpg",
+        "description": "From the work of Daido Moriyama.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
+        "mature": false
+      },
+      {
+        "id": "daido-moriyama-x8",
+        "title": "Daido Moriyama, Farewell Photography, from the portfolio Farewell ...",
+        "year": "",
+        "image": "art/daido-moriyama/x08.jpg",
+        "description": "From the work of Daido Moriyama.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
         "mature": false
       }
     ]
@@ -9660,6 +10240,56 @@
         "series": null,
         "credit": "Source: www.invaluable.com",
         "mature": false
+      },
+      {
+        "id": "joel-meyerowitz-x3",
+        "title": "Joel Meyerowitz: Master of Color and Light in Street Photography ...",
+        "year": "",
+        "image": "art/joel-meyerowitz/x03.jpg",
+        "description": "From the work of Joel Meyerowitz.",
+        "series": null,
+        "credit": "Source: aboutphotography.blog",
+        "mature": false
+      },
+      {
+        "id": "joel-meyerowitz-x4",
+        "title": "Joel Meyerowitz: Color Pioneer in Street Photography",
+        "year": "",
+        "image": "art/joel-meyerowitz/x04.jpg",
+        "description": "From the work of Joel Meyerowitz.",
+        "series": null,
+        "credit": "Source: proedu.com",
+        "mature": false
+      },
+      {
+        "id": "joel-meyerowitz-x5",
+        "title": "Joel Meyerowitz: Temporal Aspects - NSU Art Museum Fort Lauderdale",
+        "year": "",
+        "image": "art/joel-meyerowitz/x05.jpg",
+        "description": "From the work of Joel Meyerowitz.",
+        "series": null,
+        "credit": "Source: nsuartmuseum.org",
+        "mature": false
+      },
+      {
+        "id": "joel-meyerowitz-x6",
+        "title": "Joel Meyerowitz: Master of Color and Light in Street Photography ...",
+        "year": "",
+        "image": "art/joel-meyerowitz/x06.jpg",
+        "description": "From the work of Joel Meyerowitz.",
+        "series": null,
+        "credit": "Source: aboutphotography.blog",
+        "mature": false
+      },
+      {
+        "id": "joel-meyerowitz-x8",
+        "title": "Joel Meyerowitz: Master of Color and Light in Street Photography ...",
+        "year": "",
+        "image": "art/joel-meyerowitz/x08.jpg",
+        "description": "From the work of Joel Meyerowitz.",
+        "series": null,
+        "credit": "Source: aboutphotography.blog",
+        "mature": false
       }
     ]
   },
@@ -9930,6 +10560,16 @@
         "series": null,
         "credit": "Source: www.moma.org",
         "mature": false
+      },
+      {
+        "id": "lisette-model-x9",
+        "title": "Lisette Model - Alchetron, The Free Social Encyclopedia",
+        "year": "",
+        "image": "art/lisette-model/x09.jpg",
+        "description": "From the work of Lisette Model.",
+        "series": null,
+        "credit": "Source: alchetron.com",
+        "mature": false
       }
     ]
   },
@@ -9999,6 +10639,76 @@
         "description": "From the work of Vivian Maier.",
         "series": null,
         "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "maier-x3",
+        "title": "ArcheoRoma",
+        "year": "",
+        "image": "art/maier/x03.jpg",
+        "description": "From the work of Vivian Maier.",
+        "series": null,
+        "credit": "Source: www.archeoroma.org",
+        "mature": false
+      },
+      {
+        "id": "maier-x4",
+        "title": "Vivian Maier - Unseen - Exhibition at Fotografiska New York ...",
+        "year": "",
+        "image": "art/maier/x04.jpg",
+        "description": "From the work of Vivian Maier.",
+        "series": null,
+        "credit": "Source: newyork.fotografiska.com",
+        "mature": false
+      },
+      {
+        "id": "maier-x5",
+        "title": "Vivian Maier: The Secret Street Photographer",
+        "year": "",
+        "image": "art/maier/x05.jpg",
+        "description": "From the work of Vivian Maier.",
+        "series": null,
+        "credit": "Source: proedu.com",
+        "mature": false
+      },
+      {
+        "id": "maier-x6",
+        "title": "Reporters sans frontières présente l'œuvre de Vivian Maier, figure ...",
+        "year": "",
+        "image": "art/maier/x06.jpg",
+        "description": "From the work of Vivian Maier.",
+        "series": null,
+        "credit": "Source: chicinparis.fr",
+        "mature": false
+      },
+      {
+        "id": "maier-x7",
+        "title": "La vie de l'école",
+        "year": "",
+        "image": "art/maier/x07.jpg",
+        "description": "From the work of Vivian Maier.",
+        "series": null,
+        "credit": "Source: laviedelecole.blogs.laclasse.com",
+        "mature": false
+      },
+      {
+        "id": "maier-x8",
+        "title": "The Unveiling of a Hidden Talent: The Story of Vivian Maier and Her ...",
+        "year": "",
+        "image": "art/maier/x08.jpg",
+        "description": "From the work of Vivian Maier.",
+        "series": null,
+        "credit": "Source: aboutphotography.blog",
+        "mature": false
+      },
+      {
+        "id": "maier-x9",
+        "title": "Vivian Maier Photography: The Enigmatic Eye Behind the Frame",
+        "year": "",
+        "image": "art/maier/x09.jpg",
+        "description": "From the work of Vivian Maier.",
+        "series": null,
+        "credit": "Source: photographyzilla.com",
         "mature": false
       }
     ]
@@ -10070,6 +10780,66 @@
         "series": null,
         "credit": "Source: www.invaluable.com",
         "mature": false
+      },
+      {
+        "id": "mario-giacomelli-x3",
+        "title": "Artribune",
+        "year": "",
+        "image": "art/mario-giacomelli/x03.jpg",
+        "description": "From the work of Mario Giacomelli.",
+        "series": null,
+        "credit": "Source: www.artribune.com",
+        "mature": false
+      },
+      {
+        "id": "mario-giacomelli-x4",
+        "title": "Mario Giacomelli es el fotógrafo italiano que, más que otros, se ...",
+        "year": "",
+        "image": "art/mario-giacomelli/x04.jpg",
+        "description": "From the work of Mario Giacomelli.",
+        "series": null,
+        "credit": "Source: www.finestresullarte.info",
+        "mature": false
+      },
+      {
+        "id": "mario-giacomelli-x5",
+        "title": "Mario Giacomelli es el fotógrafo italiano que, más que otros, se ...",
+        "year": "",
+        "image": "art/mario-giacomelli/x05.jpg",
+        "description": "From the work of Mario Giacomelli.",
+        "series": null,
+        "credit": "Source: www.finestresullarte.info",
+        "mature": false
+      },
+      {
+        "id": "mario-giacomelli-x6",
+        "title": "Mario Giacomelli is the Italian photographer who more than any other ...",
+        "year": "",
+        "image": "art/mario-giacomelli/x06.jpg",
+        "description": "From the work of Mario Giacomelli.",
+        "series": null,
+        "credit": "Source: www.finestresullarte.info",
+        "mature": false
+      },
+      {
+        "id": "mario-giacomelli-x7",
+        "title": "Paris Photo XXV - Fotografia.it",
+        "year": "",
+        "image": "art/mario-giacomelli/x07.jpg",
+        "description": "From the work of Mario Giacomelli.",
+        "series": null,
+        "credit": "Source: www.fotografia.it",
+        "mature": false
+      },
+      {
+        "id": "mario-giacomelli-x9",
+        "title": "Mario Giacomelli es el fotógrafo italiano que, más que otros, se ...",
+        "year": "",
+        "image": "art/mario-giacomelli/x09.jpg",
+        "description": "From the work of Mario Giacomelli.",
+        "series": null,
+        "credit": "Source: www.finestresullarte.info",
+        "mature": false
       }
     ]
   },
@@ -10139,6 +10909,66 @@
         "description": "From the work of Robert Doisneau.",
         "series": null,
         "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "robert-doisneau-x3",
+        "title": "about photography",
+        "year": "",
+        "image": "art/robert-doisneau/x03.jpg",
+        "description": "From the work of Robert Doisneau.",
+        "series": null,
+        "credit": "Source: aboutphotography.blog",
+        "mature": false
+      },
+      {
+        "id": "robert-doisneau-x4",
+        "title": "Robert Doisneau, the wartime years: Paris show hails photographer's ...",
+        "year": "",
+        "image": "art/robert-doisneau/x04.jpg",
+        "description": "From the work of Robert Doisneau.",
+        "series": null,
+        "credit": "Source: www.france24.com",
+        "mature": false
+      },
+      {
+        "id": "robert-doisneau-x5",
+        "title": "Robert Doisneau - le Pays d'Yveline",
+        "year": "",
+        "image": "art/robert-doisneau/x05.jpg",
+        "description": "From the work of Robert Doisneau.",
+        "series": null,
+        "credit": "Source: yveline.org",
+        "mature": false
+      },
+      {
+        "id": "robert-doisneau-x6",
+        "title": "#864 - Robert Doisneau | Peter Fetterman Gallery",
+        "year": "",
+        "image": "art/robert-doisneau/x06.jpg",
+        "description": "From the work of Robert Doisneau.",
+        "series": null,
+        "credit": "Source: www.peterfetterman.com",
+        "mature": false
+      },
+      {
+        "id": "robert-doisneau-x7",
+        "title": "Premium AI Image",
+        "year": "",
+        "image": "art/robert-doisneau/x07.jpg",
+        "description": "From the work of Robert Doisneau.",
+        "series": null,
+        "credit": "Source: www.freepik.com",
+        "mature": false
+      },
+      {
+        "id": "robert-doisneau-x9",
+        "title": "about photography",
+        "year": "",
+        "image": "art/robert-doisneau/x09.jpg",
+        "description": "From the work of Robert Doisneau.",
+        "series": null,
+        "credit": "Source: aboutphotography.blog",
         "mature": false
       }
     ]
@@ -10470,6 +11300,96 @@
         "series": null,
         "credit": "© Tony Ray-Jones / National Science and Media Museum",
         "mature": false
+      },
+      {
+        "id": "tony-ray-jones-x1",
+        "title": "Os Gênios da Fotografia Documental Britânica: Tony Ray-Jones e Martin Parr",
+        "year": "",
+        "image": "art/tony-ray-jones/x01.jpg",
+        "description": "From the work of Tony Ray-Jones.",
+        "series": null,
+        "credit": "Source: instaarts.com",
+        "mature": false
+      },
+      {
+        "id": "tony-ray-jones-x2",
+        "title": "The Arts Desk",
+        "year": "",
+        "image": "art/tony-ray-jones/x02.jpg",
+        "description": "From the work of Tony Ray-Jones.",
+        "series": null,
+        "credit": "Source: theartsdesk.com",
+        "mature": false
+      },
+      {
+        "id": "tony-ray-jones-x3",
+        "title": "The English Seen by Tony Ray-Jones - Exibart Street",
+        "year": "",
+        "image": "art/tony-ray-jones/x03.jpg",
+        "description": "From the work of Tony Ray-Jones.",
+        "series": null,
+        "credit": "Source: www.exibartstreet.com",
+        "mature": false
+      },
+      {
+        "id": "tony-ray-jones-x4",
+        "title": "LensCulture",
+        "year": "",
+        "image": "art/tony-ray-jones/x04.jpg",
+        "description": "From the work of Tony Ray-Jones.",
+        "series": null,
+        "credit": "Source: www.lensculture.com",
+        "mature": false
+      },
+      {
+        "id": "tony-ray-jones-x5",
+        "title": "LensCulture",
+        "year": "",
+        "image": "art/tony-ray-jones/x05.jpg",
+        "description": "From the work of Tony Ray-Jones.",
+        "series": null,
+        "credit": "Source: www.lensculture.com",
+        "mature": false
+      },
+      {
+        "id": "tony-ray-jones-x6",
+        "title": "Oscar en Fotos",
+        "year": "",
+        "image": "art/tony-ray-jones/x06.jpg",
+        "description": "From the work of Tony Ray-Jones.",
+        "series": null,
+        "credit": "Source: oscarenfotos.com",
+        "mature": false
+      },
+      {
+        "id": "tony-ray-jones-x7",
+        "title": "Amateur Photographer",
+        "year": "",
+        "image": "art/tony-ray-jones/x07.jpg",
+        "description": "From the work of Tony Ray-Jones.",
+        "series": null,
+        "credit": "Source: amateurphotographer.com",
+        "mature": false
+      },
+      {
+        "id": "tony-ray-jones-x8",
+        "title": "LensCulture",
+        "year": "",
+        "image": "art/tony-ray-jones/x08.jpg",
+        "description": "From the work of Tony Ray-Jones.",
+        "series": null,
+        "credit": "Source: www.lensculture.com",
+        "mature": false
+      },
+      {
+        "id": "tony-ray-jones-x9",
+        "title": "The English Seen by Tony Ray-Jones - Exibart Street",
+        "year": "",
+        "image": "art/tony-ray-jones/x09.jpg",
+        "description": "From the work of Tony Ray-Jones.",
+        "series": null,
+        "credit": "Source: www.exibartstreet.com",
+        "mature": false
       }
     ]
   },
@@ -10559,6 +11479,46 @@
         "description": "From the work of William Klein.",
         "series": null,
         "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "william-klein-x5",
+        "title": "Surrealist Group and Models, Paris",
+        "year": "",
+        "image": "art/william-klein/x05.jpg",
+        "description": "From the work of William Klein.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "william-klein-x6",
+        "title": "The Independent Photographer",
+        "year": "",
+        "image": "art/william-klein/x06.jpg",
+        "description": "From the work of William Klein.",
+        "series": null,
+        "credit": "Source: independent-photo.com",
+        "mature": false
+      },
+      {
+        "id": "william-klein-x7",
+        "title": "William Klein, le 10 foto più belle fra moda e street photography",
+        "year": "",
+        "image": "art/william-klein/x07.jpg",
+        "description": "From the work of William Klein.",
+        "series": null,
+        "credit": "Source: www.thingsiliketoday.com",
+        "mature": false
+      },
+      {
+        "id": "william-klein-x9",
+        "title": "Photographer William Klein to Get Major Show at ICP",
+        "year": "",
+        "image": "art/william-klein/x09.jpg",
+        "description": "From the work of William Klein.",
+        "series": null,
+        "credit": "Source: wwd.com",
         "mature": false
       }
     ]
@@ -10749,6 +11709,96 @@
         "description": "A complex street tableau from Webb's Mexican work, compressing several actions into a single saturated frame.",
         "series": null,
         "credit": "© Alex Webb / Magnum Photos",
+        "mature": false
+      },
+      {
+        "id": "alex-webb-x1",
+        "title": "Tehuantepec, Mexico, 1985",
+        "year": "",
+        "image": "art/alex-webb/x01.jpg",
+        "description": "From the work of Alex Webb.",
+        "series": null,
+        "credit": "Source: photomail.org",
+        "mature": false
+      },
+      {
+        "id": "alex-webb-x2",
+        "title": "Alex Webb: Mastering Visual Storytelling",
+        "year": "",
+        "image": "art/alex-webb/x02.jpg",
+        "description": "From the work of Alex Webb.",
+        "series": null,
+        "credit": "Source: proedu.com",
+        "mature": false
+      },
+      {
+        "id": "alex-webb-x3",
+        "title": "Alex Webb on How Color Photography Changes His Way of Seeing",
+        "year": "",
+        "image": "art/alex-webb/x03.jpg",
+        "description": "From the work of Alex Webb.",
+        "series": null,
+        "credit": "Source: aperture.org",
+        "mature": false
+      },
+      {
+        "id": "alex-webb-x4",
+        "title": "Alex Webb on How Color Photography Changes His Way of Seeing",
+        "year": "",
+        "image": "art/alex-webb/x04.jpg",
+        "description": "From the work of Alex Webb.",
+        "series": null,
+        "credit": "Source: aperture.org",
+        "mature": false
+      },
+      {
+        "id": "alex-webb-x5",
+        "title": "Alex Webb, el fotógrafo de las vibrantes tragedias a color ⋆ Fotonistas",
+        "year": "",
+        "image": "art/alex-webb/x05.jpg",
+        "description": "From the work of Alex Webb.",
+        "series": null,
+        "credit": "Source: fotonistas.com",
+        "mature": false
+      },
+      {
+        "id": "alex-webb-x6",
+        "title": "Alex Webb, Ajijic, Jalisco, Mexico, 1983 | Robert Klein Gallery",
+        "year": "",
+        "image": "art/alex-webb/x06.jpg",
+        "description": "From the work of Alex Webb.",
+        "series": null,
+        "credit": "Source: www.robertkleingallery.com",
+        "mature": false
+      },
+      {
+        "id": "alex-webb-x7",
+        "title": "Alex Webb on How Color Photography Changes His Way of Seeing",
+        "year": "",
+        "image": "art/alex-webb/x07.jpg",
+        "description": "From the work of Alex Webb.",
+        "series": null,
+        "credit": "Source: aperture.org",
+        "mature": false
+      },
+      {
+        "id": "alex-webb-x8",
+        "title": "about ...",
+        "year": "",
+        "image": "art/alex-webb/x08.jpg",
+        "description": "From the work of Alex Webb.",
+        "series": null,
+        "credit": "Source: aboutphotography.blog",
+        "mature": false
+      },
+      {
+        "id": "alex-webb-x9",
+        "title": "Andrei Kovalev's Midlibrary 2.0",
+        "year": "",
+        "image": "art/alex-webb/x09.jpg",
+        "description": "From the work of Alex Webb.",
+        "series": null,
+        "credit": "Source: midlibrary.io",
         "mature": false
       }
     ]
@@ -11020,6 +12070,16 @@
         "series": null,
         "credit": "Source: www.mutualart.com",
         "mature": false
+      },
+      {
+        "id": "ernst-haas-x9",
+        "title": "Ernst Haas | ERNST HAAS | MutualArt",
+        "year": "",
+        "image": "art/ernst-haas/x09.jpg",
+        "description": "From the work of Ernst Haas.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
       }
     ]
   },
@@ -11130,6 +12190,36 @@
         "series": null,
         "credit": "Source: www.swanngalleries.com",
         "mature": false
+      },
+      {
+        "id": "eve-sonneman-x7",
+        "title": "Eve Sonneman - Large Diptych \"Deep runners\" Photograph Signed ...",
+        "year": "",
+        "image": "art/eve-sonneman/x07.jpg",
+        "description": "From the work of Eve Sonneman.",
+        "series": null,
+        "credit": "Source: www.1stdibs.com",
+        "mature": false
+      },
+      {
+        "id": "eve-sonneman-x8",
+        "title": "Signed Eve Sonneman, 'Sailboats and UFO's'. Watercolor on Paper, circa ...",
+        "year": "",
+        "image": "art/eve-sonneman/x08.jpg",
+        "description": "From the work of Eve Sonneman.",
+        "series": null,
+        "credit": "Source: www.1stdibs.com",
+        "mature": false
+      },
+      {
+        "id": "eve-sonneman-x9",
+        "title": "Eve Sonneman - Large Diptych \"Deep runners\" Photograph Signed ...",
+        "year": "",
+        "image": "art/eve-sonneman/x09.jpg",
+        "description": "From the work of Eve Sonneman.",
+        "series": null,
+        "credit": "Source: www.1stdibs.com",
+        "mature": false
       }
     ]
   },
@@ -11180,6 +12270,86 @@
         "series": null,
         "credit": "© Estate of Fred Herzog",
         "mature": false
+      },
+      {
+        "id": "fred-herzog-x1",
+        "title": "Chinatown in Focus: Fred Herzog In and Around Chinatown - Capture ...",
+        "year": "",
+        "image": "art/fred-herzog/x01.jpg",
+        "description": "From the work of Fred Herzog.",
+        "series": null,
+        "credit": "Source: capturephotofest.com",
+        "mature": false
+      },
+      {
+        "id": "fred-herzog-x2",
+        "title": "Fred Herzog, Vancouver Photographs by Fred Herzog, Signed Edition For ...",
+        "year": "",
+        "image": "art/fred-herzog/x02.jpg",
+        "description": "From the work of Fred Herzog.",
+        "series": null,
+        "credit": "Source: www.1stdibs.com",
+        "mature": false
+      },
+      {
+        "id": "fred-herzog-x3",
+        "title": "Fred Herzog - Modern Color - Exhibitions - Laurence Miller Gallery",
+        "year": "",
+        "image": "art/fred-herzog/x03.jpg",
+        "description": "From the work of Fred Herzog.",
+        "series": null,
+        "credit": "Source: www.laurencemillergallery.com",
+        "mature": false
+      },
+      {
+        "id": "fred-herzog-x4",
+        "title": "Fred Herzog - fotograf kanadyjski, prekursor fotografii ...",
+        "year": "",
+        "image": "art/fred-herzog/x04.jpg",
+        "description": "From the work of Fred Herzog.",
+        "series": null,
+        "credit": "Source: foto-info.pl",
+        "mature": false
+      },
+      {
+        "id": "fred-herzog-x5",
+        "title": "D.A.P.",
+        "year": "",
+        "image": "art/fred-herzog/x05.jpg",
+        "description": "From the work of Fred Herzog.",
+        "series": null,
+        "credit": "Source: www.artbook.com",
+        "mature": false
+      },
+      {
+        "id": "fred-herzog-x6",
+        "title": "Stephen Waddell \"Fred Herzog Photographs\" - Pêle ...",
+        "year": "",
+        "image": "art/fred-herzog/x06.jpg",
+        "description": "From the work of Fred Herzog.",
+        "series": null,
+        "credit": "Source: online.pele-mele.be",
+        "mature": false
+      },
+      {
+        "id": "fred-herzog-x7",
+        "title": "Photographs - Wolf Books",
+        "year": "",
+        "image": "art/fred-herzog/x07.jpg",
+        "description": "From the work of Fred Herzog.",
+        "series": null,
+        "credit": "Source: www.wolf-books.com",
+        "mature": false
+      },
+      {
+        "id": "fred-herzog-x9",
+        "title": "Fred Herzog: Photographing Yesterday Past - Capture Photography Festival",
+        "year": "",
+        "image": "art/fred-herzog/x09.jpg",
+        "description": "From the work of Fred Herzog.",
+        "series": null,
+        "credit": "Source: capturephotofest.com",
+        "mature": false
       }
     ]
   },
@@ -11229,6 +12399,96 @@
         "description": "An American scene from the early 1980s, the artificial colour and light of the West filtered through Gruyaert's painterly eye.",
         "series": null,
         "credit": "© Harry Gruyaert / Magnum Photos",
+        "mature": false
+      },
+      {
+        "id": "harry-gruyaert-x1",
+        "title": "Photographer",
+        "year": "",
+        "image": "art/harry-gruyaert/x01.jpg",
+        "description": "From the work of Harry Gruyaert.",
+        "series": null,
+        "credit": "Source: www.all-about-photo.com",
+        "mature": false
+      },
+      {
+        "id": "harry-gruyaert-x2",
+        "title": "HARRY GRUYAERT - ACUMEN 35",
+        "year": "",
+        "image": "art/harry-gruyaert/x02.jpg",
+        "description": "From the work of Harry Gruyaert.",
+        "series": null,
+        "credit": "Source: galeriejoseph.com",
+        "mature": false
+      },
+      {
+        "id": "harry-gruyaert-x3",
+        "title": "In Harry Gruyaert's Radical Street Photography, Color is the Defining ...",
+        "year": "",
+        "image": "art/harry-gruyaert/x03.jpg",
+        "description": "From the work of Harry Gruyaert.",
+        "series": null,
+        "credit": "Source: aperture.org",
+        "mature": false
+      },
+      {
+        "id": "harry-gruyaert-x4",
+        "title": "Photo Article",
+        "year": "",
+        "image": "art/harry-gruyaert/x04.jpg",
+        "description": "From the work of Harry Gruyaert.",
+        "series": null,
+        "credit": "Source: www.all-about-photo.com",
+        "mature": false
+      },
+      {
+        "id": "harry-gruyaert-x5",
+        "title": "Eminence grise van de kleurenfotografie",
+        "year": "",
+        "image": "art/harry-gruyaert/x05.jpg",
+        "description": "From the work of Harry Gruyaert.",
+        "series": null,
+        "credit": "Source: cultuurcocktail.eu",
+        "mature": false
+      },
+      {
+        "id": "harry-gruyaert-x6",
+        "title": "Photographer",
+        "year": "",
+        "image": "art/harry-gruyaert/x06.jpg",
+        "description": "From the work of Harry Gruyaert.",
+        "series": null,
+        "credit": "Source: www.all-about-photo.com",
+        "mature": false
+      },
+      {
+        "id": "harry-gruyaert-x7",
+        "title": "Rivages • Harry Gruyaert • Magnum Photos",
+        "year": "",
+        "image": "art/harry-gruyaert/x07.jpg",
+        "description": "From the work of Harry Gruyaert.",
+        "series": null,
+        "credit": "Source: www.magnumphotos.com",
+        "mature": false
+      },
+      {
+        "id": "harry-gruyaert-x8",
+        "title": "Photographer",
+        "year": "",
+        "image": "art/harry-gruyaert/x08.jpg",
+        "description": "From the work of Harry Gruyaert.",
+        "series": null,
+        "credit": "Source: www.all-about-photo.com",
+        "mature": false
+      },
+      {
+        "id": "harry-gruyaert-x9",
+        "title": "India by Harry Gruyaert",
+        "year": "",
+        "image": "art/harry-gruyaert/x09.jpg",
+        "description": "From the work of Harry Gruyaert.",
+        "series": null,
+        "credit": "Source: www.artdoc.photo",
         "mature": false
       }
     ]
@@ -11359,6 +12619,16 @@
         "description": "From the work of Jan Groover.",
         "series": null,
         "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "jan-groover-x11",
+        "title": "Untitled, 1978 JG70.4 Edition # 2/3",
+        "year": "",
+        "image": "art/jan-groover/x11.jpg",
+        "description": "From the work of Jan Groover.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
         "mature": false
       }
     ]
@@ -11580,6 +12850,56 @@
         "series": null,
         "credit": "Source: www.mutualart.com",
         "mature": false
+      },
+      {
+        "id": "leiter-x5",
+        "title": "Saul Leiter: An Unfinished World - MK Gallery",
+        "year": "",
+        "image": "art/leiter/x05.jpg",
+        "description": "From the work of Saul Leiter.",
+        "series": null,
+        "credit": "Source: mkgallery.org",
+        "mature": false
+      },
+      {
+        "id": "leiter-x6",
+        "title": "Saul Leiter Jean PearsonArt Blart art and cultural memory archive",
+        "year": "",
+        "image": "art/leiter/x06.jpg",
+        "description": "From the work of Saul Leiter.",
+        "series": null,
+        "credit": "Source: artblart.com",
+        "mature": false
+      },
+      {
+        "id": "leiter-x7",
+        "title": "Saul Leiter: The photographer who changed the way the world saw New ...",
+        "year": "",
+        "image": "art/leiter/x07.jpg",
+        "description": "From the work of Saul Leiter.",
+        "series": null,
+        "credit": "Source: edition.cnn.com",
+        "mature": false
+      },
+      {
+        "id": "leiter-x8",
+        "title": "Saul Leiter: The photographer who changed the way the world saw New ...",
+        "year": "",
+        "image": "art/leiter/x08.jpg",
+        "description": "From the work of Saul Leiter.",
+        "series": null,
+        "credit": "Source: edition.cnn.com",
+        "mature": false
+      },
+      {
+        "id": "leiter-x9",
+        "title": "Master Photographer Saul Leiter: A Visionary in Color and Composition",
+        "year": "",
+        "image": "art/leiter/x09.jpg",
+        "description": "From the work of Saul Leiter.",
+        "series": null,
+        "credit": "Source: 121clicks.com",
+        "mature": false
       }
     ]
   },
@@ -11629,6 +12949,96 @@
         "description": "A tightly framed view from Ghirri's travels, a meditation on landscape, edge and the act of looking.",
         "series": null,
         "credit": "© Eredi di Luigi Ghirri",
+        "mature": false
+      },
+      {
+        "id": "luigi-ghirri-x1",
+        "title": "Luigi Ghirri. Lucerna. 1971 | MoMA",
+        "year": "",
+        "image": "art/luigi-ghirri/x01.jpg",
+        "description": "From the work of Luigi Ghirri.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "luigi-ghirri-x2",
+        "title": "Luigi Ghirri. Cardboard Landscapes. 1971-73 | MoMA",
+        "year": "",
+        "image": "art/luigi-ghirri/x02.jpg",
+        "description": "From the work of Luigi Ghirri.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "luigi-ghirri-x3",
+        "title": "Luigi Ghirri | LUIGI GHIRRI - Modena, 1972 | MutualArt",
+        "year": "",
+        "image": "art/luigi-ghirri/x03.jpg",
+        "description": "From the work of Luigi Ghirri.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "luigi-ghirri-x4",
+        "title": "Luigi Ghirri, photographe au-delà du réel",
+        "year": "",
+        "image": "art/luigi-ghirri/x04.jpg",
+        "description": "From the work of Luigi Ghirri.",
+        "series": null,
+        "credit": "Source: www.lemonde.fr",
+        "mature": false
+      },
+      {
+        "id": "luigi-ghirri-x5",
+        "title": "Project, Exercises ...",
+        "year": "",
+        "image": "art/luigi-ghirri/x05.jpg",
+        "description": "From the work of Luigi Ghirri.",
+        "series": null,
+        "credit": "Source: www.itinerarinellarte.it",
+        "mature": false
+      },
+      {
+        "id": "luigi-ghirri-x6",
+        "title": "Luigi Ghirri, biografia e mostre",
+        "year": "",
+        "image": "art/luigi-ghirri/x06.jpg",
+        "description": "From the work of Luigi Ghirri.",
+        "series": null,
+        "credit": "Source: www.itinerarinellarte.it",
+        "mature": false
+      },
+      {
+        "id": "luigi-ghirri-x7",
+        "title": "Collater.al",
+        "year": "",
+        "image": "art/luigi-ghirri/x07.jpg",
+        "description": "From the work of Luigi Ghirri.",
+        "series": null,
+        "credit": "Source: www.collater.al",
+        "mature": false
+      },
+      {
+        "id": "luigi-ghirri-x8",
+        "title": "The Independent Photographer",
+        "year": "",
+        "image": "art/luigi-ghirri/x08.jpg",
+        "description": "From the work of Luigi Ghirri.",
+        "series": null,
+        "credit": "Source: independent-photo.com",
+        "mature": false
+      },
+      {
+        "id": "luigi-ghirri-x9",
+        "title": "Fotografia",
+        "year": "",
+        "image": "art/luigi-ghirri/x09.jpg",
+        "description": "From the work of Luigi Ghirri.",
+        "series": null,
+        "credit": "Source: www.finarte.it",
         "mature": false
       }
     ]
@@ -11680,6 +13090,76 @@
         "series": null,
         "credit": "Source: news.artnet.com",
         "mature": false
+      },
+      {
+        "id": "martin-parr-x2",
+        "title": "Fotografiska Shanghai",
+        "year": "",
+        "image": "art/martin-parr/x02.jpg",
+        "description": "From the work of Martin Parr.",
+        "series": null,
+        "credit": "Source: shanghai.fotografiska.com",
+        "mature": false
+      },
+      {
+        "id": "martin-parr-x3",
+        "title": "Andrei Kovalev's Midlibrary 2.0",
+        "year": "",
+        "image": "art/martin-parr/x03.jpg",
+        "description": "From the work of Martin Parr.",
+        "series": null,
+        "credit": "Source: midlibrary.io",
+        "mature": false
+      },
+      {
+        "id": "martin-parr-x5",
+        "title": "Martin Parr | epo.org",
+        "year": "",
+        "image": "art/martin-parr/x05.jpg",
+        "description": "From the work of Martin Parr.",
+        "series": null,
+        "credit": "Source: www.epo.org",
+        "mature": false
+      },
+      {
+        "id": "martin-parr-x6",
+        "title": "Fotografer Inggris Terkenal, Martin Parr, Meninggal Dunia pada Usia 73 ...",
+        "year": "",
+        "image": "art/martin-parr/x06.jpg",
+        "description": "From the work of Martin Parr.",
+        "series": null,
+        "credit": "Source: bisnisupdate.com",
+        "mature": false
+      },
+      {
+        "id": "martin-parr-x7",
+        "title": "Neues Museum Nürnberg: Martin Parr - Grand Hotel - Das FotoPortal",
+        "year": "",
+        "image": "art/martin-parr/x07.jpg",
+        "description": "From the work of Martin Parr.",
+        "series": null,
+        "credit": "Source: www.dasfotoportal.de",
+        "mature": false
+      },
+      {
+        "id": "martin-parr-x8",
+        "title": "[FEUTEU]",
+        "year": "",
+        "image": "art/martin-parr/x08.jpg",
+        "description": "From the work of Martin Parr.",
+        "series": null,
+        "credit": "Source: www.feuteu.com",
+        "mature": false
+      },
+      {
+        "id": "martin-parr-x10",
+        "title": "Martin Parr, 1952-2025",
+        "year": "",
+        "image": "art/martin-parr/x10.jpg",
+        "description": "From the work of Martin Parr.",
+        "series": null,
+        "credit": "Source: artasiapacific.com",
+        "mature": false
       }
     ]
   },
@@ -11729,6 +13209,96 @@
         "description": "A scene from Epstein's extended work in India, the daily life and colour of the subcontinent seen by a colour pioneer abroad.",
         "series": null,
         "credit": "© Mitch Epstein",
+        "mature": false
+      },
+      {
+        "id": "mitch-epstein-x1",
+        "title": "Photography exhibition \"Mitch Epstein. American Nature\" in Turin ...",
+        "year": "",
+        "image": "art/mitch-epstein/x01.jpg",
+        "description": "From the work of Mitch Epstein.",
+        "series": null,
+        "credit": "Source: gallerieditalia.com",
+        "mature": false
+      },
+      {
+        "id": "mitch-epstein-x2",
+        "title": "Mitch Epstein: American Nature - International Center of Photography",
+        "year": "",
+        "image": "art/mitch-epstein/x02.jpg",
+        "description": "From the work of Mitch Epstein.",
+        "series": null,
+        "credit": "Source: shop.icp.org",
+        "mature": false
+      },
+      {
+        "id": "mitch-epstein-x3",
+        "title": "Mitch Epstein Artist in Residence - Friends of Pando",
+        "year": "",
+        "image": "art/mitch-epstein/x03.jpg",
+        "description": "From the work of Mitch Epstein.",
+        "series": null,
+        "credit": "Source: www.friendsofpando.org",
+        "mature": false
+      },
+      {
+        "id": "mitch-epstein-x4",
+        "title": "Mitch Epstein - Old Growth - Exhibitions - Yancey Richardson",
+        "year": "",
+        "image": "art/mitch-epstein/x04.jpg",
+        "description": "From the work of Mitch Epstein.",
+        "series": null,
+        "credit": "Source: www.yanceyrichardson.com",
+        "mature": false
+      },
+      {
+        "id": "mitch-epstein-x5",
+        "title": "Mitch Epstein: foto, guida, recensione mostra Gallerie d'Italia Torino ...",
+        "year": "",
+        "image": "art/mitch-epstein/x05.jpg",
+        "description": "From the work of Mitch Epstein.",
+        "series": null,
+        "credit": "Source: style.corriere.it",
+        "mature": false
+      },
+      {
+        "id": "mitch-epstein-x6",
+        "title": "Photography exhibition \"Mitch Epstein. American Nature\" in Turin ...",
+        "year": "",
+        "image": "art/mitch-epstein/x06.jpg",
+        "description": "From the work of Mitch Epstein.",
+        "series": null,
+        "credit": "Source: gallerieditalia.com",
+        "mature": false
+      },
+      {
+        "id": "mitch-epstein-x7",
+        "title": "Photography exhibition \"Mitch Epstein. American Nature\" in Turin ...",
+        "year": "",
+        "image": "art/mitch-epstein/x07.jpg",
+        "description": "From the work of Mitch Epstein.",
+        "series": null,
+        "credit": "Source: gallerieditalia.com",
+        "mature": false
+      },
+      {
+        "id": "mitch-epstein-x8",
+        "title": "In 'Old Growth,' Mitch Epstein Travels the U.S. to Capture Monumental ...",
+        "year": "",
+        "image": "art/mitch-epstein/x08.jpg",
+        "description": "From the work of Mitch Epstein.",
+        "series": null,
+        "credit": "Source: www.thisiscolossal.com",
+        "mature": false
+      },
+      {
+        "id": "mitch-epstein-x9",
+        "title": "Mitch Epstein: Recreation - Exibart Street",
+        "year": "",
+        "image": "art/mitch-epstein/x09.jpg",
+        "description": "From the work of Mitch Epstein.",
+        "series": null,
+        "credit": "Source: www.exibartstreet.com",
         "mature": false
       }
     ]
@@ -11960,6 +13530,36 @@
         "series": null,
         "credit": "Source: www.artsy.net",
         "mature": false
+      },
+      {
+        "id": "stephen-shore-x7",
+        "title": "Stephen Shore - - GALLERY EXHIBITIONS - 303 Gallery",
+        "year": "",
+        "image": "art/stephen-shore/x07.jpg",
+        "description": "From the work of Stephen Shore.",
+        "series": null,
+        "credit": "Source: www.303gallery.com",
+        "mature": false
+      },
+      {
+        "id": "stephen-shore-x8",
+        "title": "Andrei Kovalev's Midlibrary 2.0",
+        "year": "",
+        "image": "art/stephen-shore/x08.jpg",
+        "description": "From the work of Stephen Shore.",
+        "series": null,
+        "credit": "Source: www.midlibrary.io",
+        "mature": false
+      },
+      {
+        "id": "stephen-shore-x9",
+        "title": "Buy Stephen Shore photography books and photography prints online ...",
+        "year": "",
+        "image": "art/stephen-shore/x09.jpg",
+        "description": "From the work of Stephen Shore.",
+        "series": null,
+        "credit": "Source: www.setantabooks.com",
+        "mature": false
       }
     ]
   },
@@ -12169,6 +13769,76 @@
         "description": "From the work of Andreas Gursky.",
         "series": null,
         "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "andreas-gursky-x4",
+        "title": "Andreas Gursky, rue de Castiglione, Paris, June 5-August 30, 2025 ...",
+        "year": "",
+        "image": "art/andreas-gursky/x04.jpg",
+        "description": "From the work of Andreas Gursky.",
+        "series": null,
+        "credit": "Source: gagosian.com",
+        "mature": false
+      },
+      {
+        "id": "andreas-gursky-x5",
+        "title": "Rhine II by Andreas Gursky - Artchive",
+        "year": "",
+        "image": "art/andreas-gursky/x05.jpg",
+        "description": "From the work of Andreas Gursky.",
+        "series": null,
+        "credit": "Source: www.artchive.com",
+        "mature": false
+      },
+      {
+        "id": "andreas-gursky-x6",
+        "title": "Andreas Gursky: Revolutionizing Photography",
+        "year": "",
+        "image": "art/andreas-gursky/x06.jpg",
+        "description": "From the work of Andreas Gursky.",
+        "series": null,
+        "credit": "Source: proedu.com",
+        "mature": false
+      },
+      {
+        "id": "andreas-gursky-x7",
+        "title": "Quand le photographe Andreas Gursky revient, trente-deux ans plus tard ...",
+        "year": "",
+        "image": "art/andreas-gursky/x07.jpg",
+        "description": "From the work of Andreas Gursky.",
+        "series": null,
+        "credit": "Source: www.lemonde.fr",
+        "mature": false
+      },
+      {
+        "id": "andreas-gursky-x8",
+        "title": "CNN",
+        "year": "",
+        "image": "art/andreas-gursky/x08.jpg",
+        "description": "From the work of Andreas Gursky.",
+        "series": null,
+        "credit": "Source: edition.cnn.com",
+        "mature": false
+      },
+      {
+        "id": "andreas-gursky-x9",
+        "title": "Gagosian",
+        "year": "",
+        "image": "art/andreas-gursky/x09.jpg",
+        "description": "From the work of Andreas Gursky.",
+        "series": null,
+        "credit": "Source: gagosian.com",
+        "mature": false
+      },
+      {
+        "id": "andreas-gursky-x10",
+        "title": "Artribune",
+        "year": "",
+        "image": "art/andreas-gursky/x10.jpg",
+        "description": "From the work of Andreas Gursky.",
+        "series": null,
+        "credit": "Source: www.artribune.com",
         "mature": false
       }
     ]
@@ -12382,16 +14052,6 @@
         "mature": false
       },
       {
-        "id": "candida-hofer-x3",
-        "title": "Magazine Barnebys",
-        "year": "",
-        "image": "art/candida-hofer/x03.jpg",
-        "description": "From the work of Candida Höfer.",
-        "series": null,
-        "credit": "Source: www.barnebys.fr",
-        "mature": false
-      },
-      {
         "id": "candida-hofer-x4",
         "title": "At Auction: Candida Hofer, Candida Höfer: Naturhistorisches Museum Basel",
         "year": "",
@@ -12399,6 +14059,56 @@
         "description": "From the work of Candida Höfer.",
         "series": null,
         "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "candida-hofer-x5",
+        "title": "At Auction: Candida Hofer, CANDIDA HÖFER - 'THE METROPOLITAN MUSEUM OF ...",
+        "year": "",
+        "image": "art/candida-hofer/x05.jpg",
+        "description": "From the work of Candida Höfer.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "candida-hofer-x6",
+        "title": "Candida Höfer - Santiago LLobet Photography",
+        "year": "",
+        "image": "art/candida-hofer/x06.jpg",
+        "description": "From the work of Candida Höfer.",
+        "series": null,
+        "credit": "Source: milestones.es",
+        "mature": false
+      },
+      {
+        "id": "candida-hofer-x7",
+        "title": "Candida Höfer - Yuka Tsuruno Gallery",
+        "year": "",
+        "image": "art/candida-hofer/x07.jpg",
+        "description": "From the work of Candida Höfer.",
+        "series": null,
+        "credit": "Source: yukatsuruno.com",
+        "mature": false
+      },
+      {
+        "id": "candida-hofer-x8",
+        "title": "Internationalphotomag",
+        "year": "",
+        "image": "art/candida-hofer/x08.jpg",
+        "description": "From the work of Candida Höfer.",
+        "series": null,
+        "credit": "Source: internationalphotomag.com",
+        "mature": false
+      },
+      {
+        "id": "candida-hofer-x9",
+        "title": "Candida Höfer - Artists - Sean Kelly Gallery",
+        "year": "",
+        "image": "art/candida-hofer/x09.jpg",
+        "description": "From the work of Candida Höfer.",
+        "series": null,
+        "credit": "Source: www.skny.com",
         "mature": false
       }
     ]
@@ -12459,6 +14169,86 @@
         "description": "From the work of Edward Burtynsky.",
         "series": null,
         "credit": "Source: news.artnet.com",
+        "mature": false
+      },
+      {
+        "id": "edward-burtynsky-x2",
+        "title": "Saw Mills #1, Lagos, Nigeria",
+        "year": "",
+        "image": "art/edward-burtynsky/x02.jpg",
+        "description": "From the work of Edward Burtynsky.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "edward-burtynsky-x3",
+        "title": "EDWARD BURTYNSKY , Shipbreaking #2, Chittagong, Bangladesh ...",
+        "year": "",
+        "image": "art/edward-burtynsky/x03.jpg",
+        "description": "From the work of Edward Burtynsky.",
+        "series": null,
+        "credit": "Source: www.christies.com.cn",
+        "mature": false
+      },
+      {
+        "id": "edward-burtynsky-x4",
+        "title": "International Photography Hall of Fame ...",
+        "year": "",
+        "image": "art/edward-burtynsky/x04.jpg",
+        "description": "From the work of Edward Burtynsky.",
+        "series": null,
+        "credit": "Source: www.iphf.org",
+        "mature": false
+      },
+      {
+        "id": "edward-burtynsky-x5",
+        "title": "EVENTS",
+        "year": "",
+        "image": "art/edward-burtynsky/x05.jpg",
+        "description": "From the work of Edward Burtynsky.",
+        "series": null,
+        "credit": "Source: www.edwardburtynsky.com",
+        "mature": false
+      },
+      {
+        "id": "edward-burtynsky-x6",
+        "title": "In Italia la più grande mostra di sempre di Edward Burtynsky, il ...",
+        "year": "",
+        "image": "art/edward-burtynsky/x06.jpg",
+        "description": "From the work of Edward Burtynsky.",
+        "series": null,
+        "credit": "Source: www.finestresullarte.info",
+        "mature": false
+      },
+      {
+        "id": "edward-burtynsky-x7",
+        "title": "Edward Burtynsky: Water — Minnesota Marine Art Museum",
+        "year": "",
+        "image": "art/edward-burtynsky/x07.jpg",
+        "description": "From the work of Edward Burtynsky.",
+        "series": null,
+        "credit": "Source: mmam.org",
+        "mature": false
+      },
+      {
+        "id": "edward-burtynsky-x8",
+        "title": "Spanning Four Decades, Edward Burtynsky's Photos Document the ...",
+        "year": "",
+        "image": "art/edward-burtynsky/x08.jpg",
+        "description": "From the work of Edward Burtynsky.",
+        "series": null,
+        "credit": "Source: www.thisiscolossal.com",
+        "mature": false
+      },
+      {
+        "id": "edward-burtynsky-x9",
+        "title": "The Independent Photographer",
+        "year": "",
+        "image": "art/edward-burtynsky/x09.jpg",
+        "description": "From the work of Edward Burtynsky.",
+        "series": null,
+        "credit": "Source: independent-photo.com",
         "mature": false
       }
     ]
@@ -12829,6 +14619,56 @@
         "description": "From the work of Joe Deal.",
         "series": null,
         "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "joe-deal-x5",
+        "title": "Joe Deal | RISD Museum",
+        "year": "",
+        "image": "art/joe-deal/x05.jpg",
+        "description": "From the work of Joe Deal.",
+        "series": null,
+        "credit": "Source: risdmuseum.org",
+        "mature": false
+      },
+      {
+        "id": "joe-deal-x6",
+        "title": "Joe Deal: Southern California Photographs, 1976-86 Signed First Edition ...",
+        "year": "",
+        "image": "art/joe-deal/x06.jpg",
+        "description": "From the work of Joe Deal.",
+        "series": null,
+        "credit": "Source: www.jhbooks.com",
+        "mature": false
+      },
+      {
+        "id": "joe-deal-x7",
+        "title": "Light Gallery - Joe Deal, 1978 | Maker: Light Gallery Born: … | Flickr",
+        "year": "",
+        "image": "art/joe-deal/x07.jpg",
+        "description": "From the work of Joe Deal.",
+        "series": null,
+        "credit": "Source: www.flickr.com",
+        "mature": false
+      },
+      {
+        "id": "joe-deal-x8",
+        "title": "Joe Deal | RISD Museum",
+        "year": "",
+        "image": "art/joe-deal/x08.jpg",
+        "description": "From the work of Joe Deal.",
+        "series": null,
+        "credit": "Source: risdmuseum.org",
+        "mature": false
+      },
+      {
+        "id": "joe-deal-x9",
+        "title": "Art Blart",
+        "year": "",
+        "image": "art/joe-deal/x09.jpg",
+        "description": "From the work of Joe Deal.",
+        "series": null,
+        "credit": "Source: artblart.com",
         "mature": false
       }
     ]
@@ -13462,16 +15302,6 @@
         "mature": false
       },
       {
-        "id": "richard-misrach-x3",
-        "title": "Deep Dive - Richard Misrach | Fraenkel Gallery",
-        "year": "",
-        "image": "art/richard-misrach/x03.jpg",
-        "description": "From the work of Richard Misrach.",
-        "series": null,
-        "credit": "Source: fraenkelgallery.com",
-        "mature": false
-      },
-      {
         "id": "richard-misrach-x4",
         "title": "Golden Gate Bridge, 2.16.98 4:36PM, 1998 by Richard Misrach - Paper ...",
         "year": "",
@@ -13506,16 +15336,6 @@
         "title": "Richard Misrach | Fraenkel Gallery",
         "year": "",
         "image": "art/richard-misrach/x07.jpg",
-        "description": "From the work of Richard Misrach.",
-        "series": null,
-        "credit": "Source: fraenkelgallery.com",
-        "mature": false
-      },
-      {
-        "id": "richard-misrach-x8",
-        "title": "Deep Dive - Richard Misrach | Fraenkel Gallery",
-        "year": "",
-        "image": "art/richard-misrach/x08.jpg",
         "description": "From the work of Richard Misrach.",
         "series": null,
         "credit": "Source: fraenkelgallery.com",
@@ -13759,6 +15579,56 @@
         "description": "From the work of Thomas Ruff.",
         "series": null,
         "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "thomas-ruff-x5",
+        "title": "Nudes hl 13",
+        "year": "",
+        "image": "art/thomas-ruff/x05.jpg",
+        "description": "From the work of Thomas Ruff.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": true
+      },
+      {
+        "id": "thomas-ruff-x6",
+        "title": "Kunstsammlung NRW",
+        "year": "",
+        "image": "art/thomas-ruff/x06.jpg",
+        "description": "From the work of Thomas Ruff.",
+        "series": null,
+        "credit": "Source: www.kunstsammlung.de",
+        "mature": false
+      },
+      {
+        "id": "thomas-ruff-x7",
+        "title": "Art Posters Thomas Ruff at Patrick Guinn blog",
+        "year": "",
+        "image": "art/thomas-ruff/x07.jpg",
+        "description": "From the work of Thomas Ruff.",
+        "series": null,
+        "credit": "Source: storage.googleapis.com",
+        "mature": false
+      },
+      {
+        "id": "thomas-ruff-x8",
+        "title": "Thomas Ruff Do at Sienna Drew blog",
+        "year": "",
+        "image": "art/thomas-ruff/x08.jpg",
+        "description": "From the work of Thomas Ruff.",
+        "series": null,
+        "credit": "Source: storage.googleapis.com",
+        "mature": false
+      },
+      {
+        "id": "thomas-ruff-x9",
+        "title": "kunsthaus nrw kornelimünster",
+        "year": "",
+        "image": "art/thomas-ruff/x09.jpg",
+        "description": "From the work of Thomas Ruff.",
+        "series": null,
+        "credit": "Source: www.kunsthaus.nrw",
         "mature": false
       }
     ]
@@ -14150,6 +16020,36 @@
         "series": null,
         "credit": "Source: www.mutualart.com",
         "mature": false
+      },
+      {
+        "id": "crewdson-x8",
+        "title": "Gregory Crewdson Has Been Making Photographs for Almost 4 Decades. Now ...",
+        "year": "",
+        "image": "art/crewdson/x08.jpg",
+        "description": "From the work of Gregory Crewdson.",
+        "series": null,
+        "credit": "Source: thefincheranalyst.com",
+        "mature": false
+      },
+      {
+        "id": "crewdson-x9",
+        "title": "Andrei Kovalev's Midlibrary",
+        "year": "",
+        "image": "art/crewdson/x09.jpg",
+        "description": "From the work of Gregory Crewdson.",
+        "series": null,
+        "credit": "Source: midlibrary.io",
+        "mature": false
+      },
+      {
+        "id": "crewdson-x10",
+        "title": "GREGORY CREWDSON - Kunstmuseum Bonn",
+        "year": "",
+        "image": "art/crewdson/x10.jpg",
+        "description": "From the work of Gregory Crewdson.",
+        "series": null,
+        "credit": "Source: www.kunstmuseum-bonn.de",
+        "mature": false
       }
     ]
   },
@@ -14259,6 +16159,36 @@
         "description": "From the work of Duane Michals.",
         "series": null,
         "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "duane-michals-x7",
+        "title": "This Photograph Is My Proof",
+        "year": "",
+        "image": "art/duane-michals/x07.jpg",
+        "description": "From the work of Duane Michals.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "duane-michals-x8",
+        "title": "Duane Michals - High Museum of Art",
+        "year": "",
+        "image": "art/duane-michals/x08.jpg",
+        "description": "From the work of Duane Michals.",
+        "series": null,
+        "credit": "Source: high.org",
+        "mature": false
+      },
+      {
+        "id": "duane-michals-x9",
+        "title": "Duane Michals - Duane Photographs Anthony Red [Duane Michals and ...",
+        "year": "",
+        "image": "art/duane-michals/x09.jpg",
+        "description": "From the work of Duane Michals.",
+        "series": null,
+        "credit": "Source: www.1stdibs.com",
         "mature": false
       }
     ]
@@ -14730,6 +16660,86 @@
         "series": null,
         "credit": "Source: www.moma.org",
         "mature": false
+      },
+      {
+        "id": "jeff-wall-x2",
+        "title": "Jeff Wall: The Space of Photography | Gagosian Quarterly",
+        "year": "",
+        "image": "art/jeff-wall/x02.jpg",
+        "description": "From the work of Jeff Wall.",
+        "series": null,
+        "credit": "Source: gagosian.com",
+        "mature": false
+      },
+      {
+        "id": "jeff-wall-x3",
+        "title": "Jeff Wall, The Thinker, 1986. © Jeff Wall. Courtesy White Cube - FAD ...",
+        "year": "",
+        "image": "art/jeff-wall/x03.jpg",
+        "description": "From the work of Jeff Wall.",
+        "series": null,
+        "credit": "Source: fadmagazine.com",
+        "mature": false
+      },
+      {
+        "id": "jeff-wall-x4",
+        "title": "Exploring the Enigma of Jeff Wall's \"The Destroyed Room\"",
+        "year": "",
+        "image": "art/jeff-wall/x04.jpg",
+        "description": "From the work of Jeff Wall.",
+        "series": null,
+        "credit": "Source: www.singulart.com",
+        "mature": false
+      },
+      {
+        "id": "jeff-wall-x5",
+        "title": "Gallerie d ...",
+        "year": "",
+        "image": "art/jeff-wall/x05.jpg",
+        "description": "From the work of Jeff Wall.",
+        "series": null,
+        "credit": "Source: gallerieditalia.com",
+        "mature": false
+      },
+      {
+        "id": "jeff-wall-x6",
+        "title": "Frieze",
+        "year": "",
+        "image": "art/jeff-wall/x06.jpg",
+        "description": "From the work of Jeff Wall.",
+        "series": null,
+        "credit": "Source: www.frieze.com",
+        "mature": false
+      },
+      {
+        "id": "jeff-wall-x7",
+        "title": "Art Canada Institute",
+        "year": "",
+        "image": "art/jeff-wall/x07.jpg",
+        "description": "From the work of Jeff Wall.",
+        "series": null,
+        "credit": "Source: www.aci-iac.ca",
+        "mature": false
+      },
+      {
+        "id": "jeff-wall-x8",
+        "title": "Expo : Jeff Wall en 5 photos renversantes à la Fondation Beyeler",
+        "year": "",
+        "image": "art/jeff-wall/x08.jpg",
+        "description": "From the work of Jeff Wall.",
+        "series": null,
+        "credit": "Source: numero.com",
+        "mature": false
+      },
+      {
+        "id": "jeff-wall-x9",
+        "title": "Renowned Vancouver artist Jeff Walls holds first home show in 14 years ...",
+        "year": "",
+        "image": "art/jeff-wall/x09.jpg",
+        "description": "From the work of Jeff Wall.",
+        "series": null,
+        "credit": "Source: vancouversun.com",
+        "mature": false
       }
     ]
   },
@@ -15149,16 +17159,6 @@
         "description": "A model's upturned eyes with round glass beads for tears — grief staged and crystallised into surreal artifice.",
         "series": null,
         "credit": "© Man Ray Trust / ADAGP",
-        "mature": false
-      },
-      {
-        "id": "man-ray-x1",
-        "title": "Barnebys Magazine",
-        "year": "",
-        "image": "art/man-ray/x01.jpg",
-        "description": "From the work of Man Ray.",
-        "series": null,
-        "credit": "Source: www.barnebys.com",
         "mature": false
       },
       {
@@ -15600,6 +17600,56 @@
         "series": null,
         "credit": "Source: www.sfmoma.org",
         "mature": false
+      },
+      {
+        "id": "roger-ballen-x4",
+        "title": "Photographer Roger Ballen's Theatre of the Mind - ABC Radio National",
+        "year": "",
+        "image": "art/roger-ballen/x04.jpg",
+        "description": "From the work of Roger Ballen.",
+        "series": null,
+        "credit": "Source: www.abc.net.au",
+        "mature": false
+      },
+      {
+        "id": "roger-ballen-x5",
+        "title": "Roger Ballen apresenta ratos humanóides assustadores em exposição ...",
+        "year": "",
+        "image": "art/roger-ballen/x05.jpg",
+        "description": "From the work of Roger Ballen.",
+        "series": null,
+        "credit": "Source: dasartes.com.br",
+        "mature": false
+      },
+      {
+        "id": "roger-ballen-x6",
+        "title": "Roger Ballen - Abandoned Flower - Roger Ballen, Black and White, Staged ...",
+        "year": "",
+        "image": "art/roger-ballen/x06.jpg",
+        "description": "From the work of Roger Ballen.",
+        "series": null,
+        "credit": "Source: www.1stdibs.com",
+        "mature": false
+      },
+      {
+        "id": "roger-ballen-x7",
+        "title": "Bird In ...",
+        "year": "",
+        "image": "art/roger-ballen/x07.jpg",
+        "description": "From the work of Roger Ballen.",
+        "series": null,
+        "credit": "Source: birdinflight.com",
+        "mature": false
+      },
+      {
+        "id": "roger-ballen-x9",
+        "title": "Shadow of the Mind",
+        "year": "",
+        "image": "art/roger-ballen/x09.jpg",
+        "description": "From the work of Roger Ballen.",
+        "series": null,
+        "credit": "Source: www.artdoc.photo",
+        "mature": false
       }
     ]
   },
@@ -15700,6 +17750,46 @@
         "series": null,
         "credit": "Source: news.artnet.com",
         "mature": false
+      },
+      {
+        "id": "sherman-x6",
+        "title": "FOMU",
+        "year": "",
+        "image": "art/sherman/x06.jpg",
+        "description": "From the work of Cindy Sherman.",
+        "series": null,
+        "credit": "Source: fomu.be",
+        "mature": false
+      },
+      {
+        "id": "sherman-x7",
+        "title": "GalleriesNow",
+        "year": "",
+        "image": "art/sherman/x07.jpg",
+        "description": "From the work of Cindy Sherman.",
+        "series": null,
+        "credit": "Source: www.galleriesnow.net",
+        "mature": false
+      },
+      {
+        "id": "sherman-x8",
+        "title": "Dazed",
+        "year": "",
+        "image": "art/sherman/x08.jpg",
+        "description": "From the work of Cindy Sherman.",
+        "series": null,
+        "credit": "Source: www.dazeddigital.com",
+        "mature": false
+      },
+      {
+        "id": "sherman-x9",
+        "title": "Cindy Sherman: A Master of Disguise and Self-Portraiture in Fine Art ...",
+        "year": "",
+        "image": "art/sherman/x09.jpg",
+        "description": "From the work of Cindy Sherman.",
+        "series": null,
+        "credit": "Source: aboutphotography.blog",
+        "mature": false
       }
     ]
   },
@@ -15789,6 +17879,56 @@
         "description": "From the work of Sandy Skoglund.",
         "series": null,
         "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "skoglund-x5",
+        "title": "Colossal",
+        "year": "",
+        "image": "art/skoglund/x05.jpg",
+        "description": "From the work of Sandy Skoglund.",
+        "series": null,
+        "credit": "Source: www.thisiscolossal.com",
+        "mature": false
+      },
+      {
+        "id": "skoglund-x6",
+        "title": "Sandy Skoglund / FOTO SAN TELMO",
+        "year": "",
+        "image": "art/skoglund/x06.jpg",
+        "description": "From the work of Sandy Skoglund.",
+        "series": null,
+        "credit": "Source: fotosantelmo.com",
+        "mature": false
+      },
+      {
+        "id": "skoglund-x7",
+        "title": "ART 206 Peoples UFA",
+        "year": "",
+        "image": "art/skoglund/x07.jpg",
+        "description": "From the work of Sandy Skoglund.",
+        "series": null,
+        "credit": "Source: sites.lafayette.edu",
+        "mature": false
+      },
+      {
+        "id": "skoglund-x8",
+        "title": "Sandy Skoglund - la Mostra Visioni Ibride a Camera Torino",
+        "year": "",
+        "image": "art/skoglund/x08.jpg",
+        "description": "From the work of Sandy Skoglund.",
+        "series": null,
+        "credit": "Source: www.lorenzotaccioli.it",
+        "mature": false
+      },
+      {
+        "id": "skoglund-x9",
+        "title": "Sandy Skoglund / FOTO SAN TELMO",
+        "year": "",
+        "image": "art/skoglund/x09.jpg",
+        "description": "From the work of Sandy Skoglund.",
+        "series": null,
+        "credit": "Source: fotosantelmo.com",
         "mature": false
       }
     ]
@@ -16029,6 +18169,46 @@
         "description": "From the work of Francesca Woodman.",
         "series": null,
         "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "woodman-x6",
+        "title": "Untitled, Rome, Italy",
+        "year": "",
+        "image": "art/woodman/x06.jpg",
+        "description": "From the work of Francesca Woodman.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "woodman-x7",
+        "title": "SELF PORTRAIT WITH LIZA, PROVIDENCE, RHODE ISLAND ...",
+        "year": "",
+        "image": "art/woodman/x07.jpg",
+        "description": "From the work of Francesca Woodman.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "woodman-x8",
+        "title": "Tate",
+        "year": "",
+        "image": "art/woodman/x08.jpg",
+        "description": "From the work of Francesca Woodman.",
+        "series": null,
+        "credit": "Source: www.tate.org.uk",
+        "mature": false
+      },
+      {
+        "id": "woodman-x9",
+        "title": "Gagosian",
+        "year": "",
+        "image": "art/woodman/x09.jpg",
+        "description": "From the work of Francesca Woodman.",
+        "series": null,
+        "credit": "Source: gagosian.com",
         "mature": false
       }
     ]

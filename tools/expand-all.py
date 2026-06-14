@@ -21,6 +21,7 @@ ARGS = sys.argv[1:]
 TARGET = int(ARGS[0]) if ARGS and ARGS[0].isdigit() else 12
 ONLY = set(ARGS[ARGS.index("--only") + 1].split(",")) if "--only" in ARGS else None
 WORKERS = int(ARGS[ARGS.index("--workers") + 1]) if "--workers" in ARGS else 8
+RELAX = "--relax" in ARGS   # widen copyright sources to all credible art domains
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 # Wikimedia asks for a descriptive UA with contact; it gets gentler rate-limiting.
@@ -43,7 +44,9 @@ CREDIBLE = re.compile(r"(wikimedia|wikipedia|moma\.org|metmuseum|artic\.edu|gett
                       r"mfa\.org|lacma|whitney\.org|icp\.org|christies|sothebys|phillips|bonhams|swanngalleries|"
                       r"artsy|mutualart|artnet|wikiart|fraenkelgallery|howardgreenberg|americansuburbx|"
                       r"1854\.photography|clevelandart|harvard|yale\.edu|princeton|nationalmediamuseum|britannica|"
-                      r"royalacademy|npg\.org|degruyter|fondationhcb|henricartierbresson|magnumphotos)", re.I)
+                      r"royalacademy|npg\.org|degruyter|fondationhcb|henricartierbresson|magnumphotos|"
+                      r"aperture|lensculture|mocp\.org|widewalls|monovisions|artblart|vivianmaier|"
+                      r"thephotographersgallery|fraenkelgallery|atgetphotography|americansuburbx)", re.I)
 STRONG_DOM = re.compile(r"(artsy|mutualart|artnet|christie|sotheby|phillips|bonhams|swann|wikiart|"
                         r"invaluable|artprice|barnebys|fraenkel|howardgreenberg|"
                         r"moma\.org|metmuseum|tate\.org|guggenheim|sfmoma|artic\.edu)", re.I)
@@ -228,7 +231,10 @@ def process(a, idx, ntotal):
             if rights == "public-domain":
                 if not ((first and first in c["hay"]) or CREDIBLE.search(where)):
                     continue
-            else:
+            elif RELAX:  # living artist, widened: any credible art domain or full name
+                if not (CREDIBLE.search(where) or (first and first in c["hay"])):
+                    continue
+            else:  # living artist: only single-work auction/gallery pages
                 if not STRONG_DOM.search(where):
                     continue
         if BLOCK_RE.search(c["text"]):
