@@ -19,12 +19,13 @@ namespace CameraObscura
 
     public static class Placement
     {
-        public const float ROW_H = 3.2f;        // uniform display height for every work
+        public const float ROW_H = 2.8f;        // uniform display height for every work
         public const float MAXW = 4.4f;         // widest a (landscape) work may render
         public const float GAP = 1.2f;          // clear gap between cells
         public const float CELL = MAXW + GAP;   // centre-to-centre spacing in a row
         public const float EDGE = 1.6f;         // horizontal inset from room corners
-        public const float CENTER_Y = 3.2f;     // common centre-line — same height everywhere
+        public const float CENTER_Y = 2.4f;     // common centre-line — same comfortable
+                                                // eye-height for every work, museum-wide
 
         public static List<PlacedArtwork> Place(RoomLayout room)
         {
