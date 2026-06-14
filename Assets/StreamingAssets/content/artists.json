@@ -478,16 +478,6 @@
         "mature": false
       },
       {
-        "id": "bisson-freres-x1",
-        "title": "Album photographique Bisson frères & Cie - Reproduction d'anciennes planches - btv1b847894",
-        "year": "1850",
-        "image": "art/bisson-freres/x01.jpg",
-        "description": "From the work of Bisson Frères.",
-        "series": null,
-        "credit": "Wikimedia Commons · Public domain",
-        "mature": false
-      },
-      {
         "id": "bisson-freres-x2",
         "title": "Album photographique Bisson frères & Cie - Reproduction d'anciennes planches - btv1b847894",
         "year": "1850",
@@ -5176,6 +5166,96 @@
         "series": null,
         "credit": "Library of Congress, FSA/OWI",
         "mature": true
+      },
+      {
+        "id": "evans-x1",
+        "title": "2023 AHL All-Star Classic Game - Sammy Walker, Ryker Evans, and Lukáš Dostál",
+        "year": "2023",
+        "image": "art/evans/x01.jpg",
+        "description": "From the work of Walker Evans.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC BY 2.0",
+        "mature": false
+      },
+      {
+        "id": "evans-x2",
+        "title": "A chart of magnetic curves of equal variation - by Frederick J. Evans... ; engraved by J. ",
+        "year": "1859",
+        "image": "art/evans/x02.jpg",
+        "description": "From the work of Walker Evans.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "evans-x3",
+        "title": "A walker on the sea wall, Porthcawl - geograph.org.uk - 7013606",
+        "year": "2021",
+        "image": "art/evans/x03.jpg",
+        "description": "From the work of Walker Evans.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC BY-SA 2.0",
+        "mature": false
+      },
+      {
+        "id": "evans-x4",
+        "title": "Another walker on the Coast Path - geograph.org.uk - 7308568",
+        "year": "2022",
+        "image": "art/evans/x04.jpg",
+        "description": "From the work of Walker Evans.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC BY-SA 2.0",
+        "mature": false
+      },
+      {
+        "id": "evans-x5",
+        "title": "Bethlehem graveyard and steel mill, Pennsylvania by Walker Evans",
+        "year": "2013",
+        "image": "art/evans/x05.jpg",
+        "description": "From the work of Walker Evans.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "evans-x6",
+        "title": "Coca-Cola shack in Alabama by Walker Evans",
+        "year": "1935",
+        "image": "art/evans/x06.jpg",
+        "description": "From the work of Walker Evans.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "evans-x7",
+        "title": "Dog walker on Whitesands beach - geograph.org.uk - 7287227",
+        "year": "2022",
+        "image": "art/evans/x07.jpg",
+        "description": "From the work of Walker Evans.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC BY-SA 2.0",
+        "mature": false
+      },
+      {
+        "id": "evans-x8",
+        "title": "Fairchild House, Waveland, Mississippi by Walker Evans crop",
+        "year": "1935",
+        "image": "art/evans/x08.jpg",
+        "description": "From the work of Walker Evans.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "evans-x9",
+        "title": "Frame house Charleston Walker Evans",
+        "year": "1936",
+        "image": "art/evans/x09.jpg",
+        "description": "From the work of Walker Evans.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
       }
     ]
   },
@@ -5865,6 +5945,96 @@
         "description": "Figures crossing the parched Oklahoma plains during Rothstein's Dust Bowl assignment for the Resettlement Administration.",
         "series": null,
         "credit": "Library of Congress, FSA/OWI",
+        "mature": false
+      },
+      {
+        "id": "arthur-rothstein-x1",
+        "title": "A Boat On A River With Rolling Hills In The Background In The Kiangsu Province Or Yunnan P",
+        "year": "1946",
+        "image": "art/arthur-rothstein/x01.jpg",
+        "description": "From the work of Arthur Rothstein.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "arthur-rothstein-x2",
+        "title": "Aerial View Of Terraced Fields & Roadway With A Military Vehicle In A Mountainous Region O",
+        "year": "1946",
+        "image": "art/arthur-rothstein/x02.jpg",
+        "description": "From the work of Arthur Rothstein.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC BY 2.0",
+        "mature": false
+      },
+      {
+        "id": "arthur-rothstein-x3",
+        "title": "Arthur Rothstein, FSA photographer LCCN2017723736",
+        "year": "1938",
+        "image": "art/arthur-rothstein/x03.jpg",
+        "description": "From the work of Arthur Rothstein.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "arthur-rothstein-x4",
+        "title": "Arthur Rothstein, FSA photographer LCCN2017723736",
+        "year": "1938",
+        "image": "art/arthur-rothstein/x04.jpg",
+        "description": "From the work of Arthur Rothstein.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "arthur-rothstein-x5",
+        "title": "Arthur Rothstein, Night view, downtown Dallas, Texas, 1942",
+        "year": "1942",
+        "image": "art/arthur-rothstein/x05.jpg",
+        "description": "From the work of Arthur Rothstein.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "arthur-rothstein-x6",
+        "title": "Arthur Rothstein - Chinese mother with children ppmsca.07798",
+        "year": "1946",
+        "image": "art/arthur-rothstein/x06.jpg",
+        "description": "From the work of Arthur Rothstein.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "arthur-rothstein-x7",
+        "title": "Arthur Rothstein - Rice distribution during Chinese famine ppmsca.07586",
+        "year": "1946",
+        "image": "art/arthur-rothstein/x07.jpg",
+        "description": "From the work of Arthur Rothstein.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "arthur-rothstein-x8",
+        "title": "Arthur Rothstein - marching Chinese troops ppmsca.07799",
+        "year": "1946",
+        "image": "art/arthur-rothstein/x08.jpg",
+        "description": "From the work of Arthur Rothstein.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "arthur-rothstein-x9",
+        "title": "Arthur Rothstein 8a22587r",
+        "year": "1938",
+        "image": "art/arthur-rothstein/x09.jpg",
+        "description": "From the work of Arthur Rothstein.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
         "mature": false
       }
     ]
@@ -6716,6 +6886,16 @@
         "title": "Karl Blossfeldt. Cucurbita, 1928",
         "year": "1928",
         "image": "art/karl-blossfeldt/e02.jpg",
+        "description": "From the work of Karl Blossfeldt.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "karl-blossfeldt-x1",
+        "title": "Blossfeldt - Urformen der Kunst, 1928",
+        "year": "1928",
+        "image": "art/karl-blossfeldt/x01.jpg",
         "description": "From the work of Karl Blossfeldt.",
         "series": null,
         "credit": "Wikimedia Commons · Public domain",
@@ -8130,6 +8310,86 @@
         "series": null,
         "credit": "Public domain",
         "mature": false
+      },
+      {
+        "id": "stieglitz-x1",
+        "title": "029- Alfred Stieglitz, c.1900",
+        "year": "1900",
+        "image": "art/stieglitz/x01.jpg",
+        "description": "From the work of Alfred Stieglitz.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "stieglitz-x2",
+        "title": "Alfred Stieglitz, \"Georgia O'Keeffe\" 2016 20v1",
+        "year": "1918",
+        "image": "art/stieglitz/x02.jpg",
+        "description": "From the work of Alfred Stieglitz.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC0",
+        "mature": false
+      },
+      {
+        "id": "stieglitz-x3",
+        "title": "Alfred Stieglitz, Georgia O'Keeffe",
+        "year": "1918",
+        "image": "art/stieglitz/x03.jpg",
+        "description": "From the work of Alfred Stieglitz.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "stieglitz-x4",
+        "title": "Alfred Stieglitz, Jan 2 1939",
+        "year": "1939",
+        "image": "art/stieglitz/x04.jpg",
+        "description": "From the work of Alfred Stieglitz.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "stieglitz-x5",
+        "title": "Alfred Stieglitz, Spring Showers, New York, Artic",
+        "year": "1900",
+        "image": "art/stieglitz/x05.jpg",
+        "description": "From the work of Alfred Stieglitz.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "stieglitz-x6",
+        "title": "Alfred Stieglitz, cropped",
+        "year": "1902",
+        "image": "art/stieglitz/x06.jpg",
+        "description": "From the work of Alfred Stieglitz.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "stieglitz-x7",
+        "title": "Alfred Stieglitz",
+        "year": "1902",
+        "image": "art/stieglitz/x07.jpg",
+        "description": "From the work of Alfred Stieglitz.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "stieglitz-x8",
+        "title": "Alfred Stieglitz",
+        "year": "2008",
+        "image": "art/stieglitz/x08.jpg",
+        "description": "From the work of Alfred Stieglitz.",
+        "series": null,
+        "credit": "Wikimedia Commons · No restrictions",
+        "mature": false
       }
     ]
   },
@@ -8196,6 +8456,76 @@
         "title": "Paul Strand by Alfred Stieglitz 1917",
         "year": "1917",
         "image": "art/paul-strand/e11.jpg",
+        "description": "From the work of Paul Strand.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "paul-strand-x1",
+        "title": "1940 - Strand Theater Ad - 3 Oct MC - Allentown PA",
+        "year": "",
+        "image": "art/paul-strand/x01.jpg",
+        "description": "From the work of Paul Strand.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "paul-strand-x2",
+        "title": "Akeley Motion Picture Camera, New York, 1922",
+        "year": "1922",
+        "image": "art/paul-strand/x02.jpg",
+        "description": "From the work of Paul Strand.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "paul-strand-x3",
+        "title": "Akeley Motion Picture Camera, Paul Strand, 1922",
+        "year": "1922",
+        "image": "art/paul-strand/x03.jpg",
+        "description": "From the work of Paul Strand.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "paul-strand-x4",
+        "title": "Bowls, by Paul Strand, 1916",
+        "year": "1916",
+        "image": "art/paul-strand/x04.jpg",
+        "description": "From the work of Paul Strand.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "paul-strand-x5",
+        "title": "Gammel Strand by Paul Fischer 01",
+        "year": "1890",
+        "image": "art/paul-strand/x05.jpg",
+        "description": "From the work of Paul Strand.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "paul-strand-x6",
+        "title": "New York 1915 by Paul Strand",
+        "year": "1915",
+        "image": "art/paul-strand/x06.jpg",
+        "description": "From the work of Paul Strand.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "paul-strand-x7",
+        "title": "New York LCCN90710539",
+        "year": "1916",
+        "image": "art/paul-strand/x07.jpg",
         "description": "From the work of Paul Strand.",
         "series": null,
         "credit": "Wikimedia Commons · Public domain",
@@ -9520,6 +9850,86 @@
         "series": "Reflections",
         "credit": "© The Lisette Model Foundation",
         "mature": false
+      },
+      {
+        "id": "lisette-model-x1",
+        "title": "Gjon Mili, New York",
+        "year": "",
+        "image": "art/lisette-model/x01.jpg",
+        "description": "From the work of Lisette Model.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "lisette-model-x2",
+        "title": "Lot - Lisette Model. Sailor and Girl. Circa 1940; printed 1979.",
+        "year": "",
+        "image": "art/lisette-model/x02.jpg",
+        "description": "From the work of Lisette Model.",
+        "series": null,
+        "credit": "Source: www.swanngalleries.com",
+        "mature": false
+      },
+      {
+        "id": "lisette-model-x3",
+        "title": "Henry Miller, San Francisco",
+        "year": "",
+        "image": "art/lisette-model/x03.jpg",
+        "description": "From the work of Lisette Model.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "lisette-model-x4",
+        "title": "Lisette Model: \"A History of Street Photography\" - AMERICAN SUBURB X",
+        "year": "",
+        "image": "art/lisette-model/x04.jpg",
+        "description": "From the work of Lisette Model.",
+        "series": null,
+        "credit": "Source: americansuburbx.com",
+        "mature": false
+      },
+      {
+        "id": "lisette-model-x5",
+        "title": "Lisette Model: \"A History of Street Photography\" - AMERICAN SUBURB X",
+        "year": "",
+        "image": "art/lisette-model/x05.jpg",
+        "description": "From the work of Lisette Model.",
+        "series": null,
+        "credit": "Source: americansuburbx.com",
+        "mature": false
+      },
+      {
+        "id": "lisette-model-x6",
+        "title": "Henry Miller, San Francisco",
+        "year": "",
+        "image": "art/lisette-model/x06.jpg",
+        "description": "From the work of Lisette Model.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "lisette-model-x7",
+        "title": "A SELECTION OF 10 PHOTOGRAPHS FROM PORTFOLIO 'TWELVE ...",
+        "year": "",
+        "image": "art/lisette-model/x07.jpg",
+        "description": "From the work of Lisette Model.",
+        "series": null,
+        "credit": "Source: www.sothebys.com",
+        "mature": false
+      },
+      {
+        "id": "lisette-model-x8",
+        "title": "Lisette Model. Window Reflections. 1940 | MoMA",
+        "year": "",
+        "image": "art/lisette-model/x08.jpg",
+        "description": "From the work of Lisette Model.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
       }
     ]
   },
@@ -9640,6 +10050,26 @@
         "series": "Verrà la morte e avrà i tuoi occhi",
         "credit": "© Archivio Mario Giacomelli",
         "mature": false
+      },
+      {
+        "id": "mario-giacomelli-x1",
+        "title": "Omaggio a Spoon River",
+        "year": "",
+        "image": "art/mario-giacomelli/x01.jpg",
+        "description": "From the work of Mario Giacomelli.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "mario-giacomelli-x2",
+        "title": "At Auction: Mario Giacomelli, Mario Giacomelli, silver gelatin photograph",
+        "year": "",
+        "image": "art/mario-giacomelli/x02.jpg",
+        "description": "From the work of Mario Giacomelli.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
       }
     ]
   },
@@ -9689,6 +10119,26 @@
         "description": "Two small boys run together down a Paris street, an early image of the working-class childhood Doisneau returned to throughout his life.",
         "series": null,
         "credit": "© Atelier Robert Doisneau",
+        "mature": false
+      },
+      {
+        "id": "robert-doisneau-x1",
+        "title": "Sold at Auction: Robert Doisneau, ROBERT DOISNEAU Pêcheur à ...",
+        "year": "",
+        "image": "art/robert-doisneau/x01.jpg",
+        "description": "From the work of Robert Doisneau.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "robert-doisneau-x2",
+        "title": "Robert Doisneau | ROBERT DOISNEAU Courtoisie and Simca 5 ...",
+        "year": "",
+        "image": "art/robert-doisneau/x02.jpg",
+        "description": "From the work of Robert Doisneau.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
         "mature": false
       }
     ]
@@ -9740,6 +10190,96 @@
         "series": "The Americans",
         "credit": "© Robert Frank / Estate of Robert Frank",
         "mature": false
+      },
+      {
+        "id": "robert-frank-x1",
+        "title": "Photographs ...",
+        "year": "",
+        "image": "art/robert-frank/x01.jpg",
+        "description": "From the work of Robert Frank.",
+        "series": null,
+        "credit": "Source: www.sothebys.com",
+        "mature": false
+      },
+      {
+        "id": "robert-frank-x2",
+        "title": "Robert Frank | MoMA",
+        "year": "",
+        "image": "art/robert-frank/x02.jpg",
+        "description": "From the work of Robert Frank.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "robert-frank-x3",
+        "title": "Photographs ...",
+        "year": "",
+        "image": "art/robert-frank/x03.jpg",
+        "description": "From the work of Robert Frank.",
+        "series": null,
+        "credit": "Source: www.sothebys.com",
+        "mature": false
+      },
+      {
+        "id": "robert-frank-x4",
+        "title": "Photographs ...",
+        "year": "",
+        "image": "art/robert-frank/x04.jpg",
+        "description": "From the work of Robert Frank.",
+        "series": null,
+        "credit": "Source: www.sothebys.com",
+        "mature": false
+      },
+      {
+        "id": "robert-frank-x5",
+        "title": "'New Jersey' (1961 ...",
+        "year": "",
+        "image": "art/robert-frank/x05.jpg",
+        "description": "From the work of Robert Frank.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "robert-frank-x6",
+        "title": "Robert Frank. Detroit. 1955 | MoMA",
+        "year": "",
+        "image": "art/robert-frank/x06.jpg",
+        "description": "From the work of Robert Frank.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "robert-frank-x7",
+        "title": "Robert Frank. Couple, Paris. 1952 | MoMA",
+        "year": "",
+        "image": "art/robert-frank/x07.jpg",
+        "description": "From the work of Robert Frank.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "robert-frank-x8",
+        "title": "Photographs ...",
+        "year": "",
+        "image": "art/robert-frank/x08.jpg",
+        "description": "From the work of Robert Frank.",
+        "series": null,
+        "credit": "Source: www.sothebys.com",
+        "mature": false
+      },
+      {
+        "id": "robert-frank-x9",
+        "title": "Photographs ...",
+        "year": "",
+        "image": "art/robert-frank/x09.jpg",
+        "description": "From the work of Robert Frank.",
+        "series": null,
+        "credit": "Source: www.sothebys.com",
+        "mature": false
       }
     ]
   },
@@ -9779,6 +10319,106 @@
         "description": "A corroded wristwatch frozen at the moment of the bombing, recovered from the ruins of Nagasaki.",
         "series": "11:02 Nagasaki",
         "credit": "© Shomei Tomatsu – INTERFACE",
+        "mature": false
+      },
+      {
+        "id": "shomei-tomatsu-x1",
+        "title": "Shomei Tomatsu · SFMOMA",
+        "year": "",
+        "image": "art/shomei-tomatsu/x01.jpg",
+        "description": "From the work of Shomei Tomatsu.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
+        "mature": false
+      },
+      {
+        "id": "shomei-tomatsu-x2",
+        "title": "At Auction: Shomei Tomatsu, Shomei Tomatsu \"Untitled\" Print.",
+        "year": "",
+        "image": "art/shomei-tomatsu/x02.jpg",
+        "description": "From the work of Shomei Tomatsu.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "shomei-tomatsu-x3",
+        "title": "Shomei Tomatsu. Psychic Medium, Aomori. 1959 | MoMA",
+        "year": "",
+        "image": "art/shomei-tomatsu/x03.jpg",
+        "description": "From the work of Shomei Tomatsu.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "shomei-tomatsu-x4",
+        "title": "Shomei Tomatsu. Sandwich Men, Tokyo. 1962 | MoMA",
+        "year": "",
+        "image": "art/shomei-tomatsu/x04.jpg",
+        "description": "From the work of Shomei Tomatsu.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "shomei-tomatsu-x5",
+        "title": "Shomei Tomatsu. Sandwich Men, Tokyo. 1962 | MoMA",
+        "year": "",
+        "image": "art/shomei-tomatsu/x05.jpg",
+        "description": "From the work of Shomei Tomatsu.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "shomei-tomatsu-x6",
+        "title": "Shomei Tomatsu. Sandwich Men, Tokyo. 1962 | MoMA",
+        "year": "",
+        "image": "art/shomei-tomatsu/x06.jpg",
+        "description": "From the work of Shomei Tomatsu.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "shomei-tomatsu-x7",
+        "title": "Shomei Tomatsu. Hibakusha Fukuda Sumako, Nagasaki. 1961 | MoMA",
+        "year": "",
+        "image": "art/shomei-tomatsu/x07.jpg",
+        "description": "From the work of Shomei Tomatsu.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "shomei-tomatsu-x8",
+        "title": "Steel Helmet with Skull Bone Fused by Atomic Bomb ...",
+        "year": "",
+        "image": "art/shomei-tomatsu/x08.jpg",
+        "description": "From the work of Shomei Tomatsu.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "shomei-tomatsu-x9",
+        "title": "Shomei Tomatsu, Untitled, from the series Protest, Tokyo, 1969, printed ...",
+        "year": "",
+        "image": "art/shomei-tomatsu/x09.jpg",
+        "description": "From the work of Shomei Tomatsu.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
+        "mature": false
+      },
+      {
+        "id": "shomei-tomatsu-x10",
+        "title": "At Auction: Shomei Tomatsu, Shomei Tomatsu \"Farmer and Plane\" Print",
+        "year": "",
+        "image": "art/shomei-tomatsu/x10.jpg",
+        "description": "From the work of Shomei Tomatsu.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
         "mature": false
       }
     ]
@@ -9880,6 +10520,46 @@
         "series": "Life Is Good and Good for You in New York",
         "credit": "© William Klein",
         "mature": false
+      },
+      {
+        "id": "william-klein-x1",
+        "title": "William Klein | WILLIAM KLEIN 1926-2022 | MutualArt",
+        "year": "",
+        "image": "art/william-klein/x01.jpg",
+        "description": "From the work of William Klein.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "william-klein-x2",
+        "title": "William Klein | WILLIAM KLEIN 1926-2022 | MutualArt",
+        "year": "",
+        "image": "art/william-klein/x02.jpg",
+        "description": "From the work of William Klein.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "william-klein-x3",
+        "title": "Selected Images",
+        "year": "",
+        "image": "art/william-klein/x03.jpg",
+        "description": "From the work of William Klein.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "william-klein-x4",
+        "title": "Sold at Auction: William Klein, WILLIAM KLEIN",
+        "year": "",
+        "image": "art/william-klein/x04.jpg",
+        "description": "From the work of William Klein.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
       }
     ]
   },
@@ -9929,6 +10609,96 @@
         "description": "A boy runs down a street clutching a baguette nearly as big as himself, a quintessential image of Parisian childhood.",
         "series": null,
         "credit": "© Willy Ronis / Ministère de la Culture",
+        "mature": false
+      },
+      {
+        "id": "willy-ronis-x1",
+        "title": "Paris",
+        "year": "",
+        "image": "art/willy-ronis/x01.jpg",
+        "description": "From the work of Willy Ronis.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "willy-ronis-x2",
+        "title": "Sold Price: Willy RONIS 1910 - 2009 Les Halles, fin de marché - Paris ...",
+        "year": "",
+        "image": "art/willy-ronis/x02.jpg",
+        "description": "From the work of Willy Ronis.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "willy-ronis-x3",
+        "title": "Sold Price: Willy RONIS 1910 - 2009 Voyage en RDA, 1967 - Jeunes ...",
+        "year": "",
+        "image": "art/willy-ronis/x03.jpg",
+        "description": "From the work of Willy Ronis.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "willy-ronis-x4",
+        "title": "Lot - WILLY RONIS Quai Malaquais, Paris.",
+        "year": "",
+        "image": "art/willy-ronis/x04.jpg",
+        "description": "From the work of Willy Ronis.",
+        "series": null,
+        "credit": "Source: www.swanngalleries.com",
+        "mature": false
+      },
+      {
+        "id": "willy-ronis-x5",
+        "title": "1er Mai Faubourg Saint-Antoine, Paris, 1951",
+        "year": "",
+        "image": "art/willy-ronis/x05.jpg",
+        "description": "From the work of Willy Ronis.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "willy-ronis-x6",
+        "title": "Place Vendôme",
+        "year": "",
+        "image": "art/willy-ronis/x06.jpg",
+        "description": "From the work of Willy Ronis.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "willy-ronis-x7",
+        "title": "PLACE VENDÔME",
+        "year": "",
+        "image": "art/willy-ronis/x07.jpg",
+        "description": "From the work of Willy Ronis.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "willy-ronis-x8",
+        "title": "Paris La Peniche aux Enfants",
+        "year": "",
+        "image": "art/willy-ronis/x08.jpg",
+        "description": "From the work of Willy Ronis.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "willy-ronis-x9",
+        "title": "Paris Portfolio by Willy Ronis on artnet Auctions",
+        "year": "",
+        "image": "art/willy-ronis/x09.jpg",
+        "description": "From the work of Willy Ronis.",
+        "series": null,
+        "credit": "Source: www.artnet.com",
         "mature": false
       }
     ]
@@ -10030,6 +10800,96 @@
         "series": null,
         "credit": "© Eggleston Artistic Trust",
         "mature": false
+      },
+      {
+        "id": "eggleston-x1",
+        "title": "Untitled (yellow car",
+        "year": "",
+        "image": "art/eggleston/x01.jpg",
+        "description": "From the work of William Eggleston.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "eggleston-x2",
+        "title": "CNN",
+        "year": "",
+        "image": "art/eggleston/x02.jpg",
+        "description": "From the work of William Eggleston.",
+        "series": null,
+        "credit": "Source: www.cnn.com",
+        "mature": false
+      },
+      {
+        "id": "eggleston-x3",
+        "title": "CNN",
+        "year": "",
+        "image": "art/eggleston/x03.jpg",
+        "description": "From the work of William Eggleston.",
+        "series": null,
+        "credit": "Source: www.cnn.com",
+        "mature": false
+      },
+      {
+        "id": "eggleston-x4",
+        "title": "William Eggleston. Untitled. c. 1975 | MoMA",
+        "year": "",
+        "image": "art/eggleston/x04.jpg",
+        "description": "From the work of William Eggleston.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "eggleston-x5",
+        "title": "Untitled (blue ceiling",
+        "year": "",
+        "image": "art/eggleston/x05.jpg",
+        "description": "From the work of William Eggleston.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "eggleston-x6",
+        "title": "William Eggleston. Near Greenwood, Mississippi. 1972 | MoMA",
+        "year": "",
+        "image": "art/eggleston/x06.jpg",
+        "description": "From the work of William Eggleston.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "eggleston-x7",
+        "title": "William Eggleston. Environs of New Orleans. 1972 | MoMA",
+        "year": "",
+        "image": "art/eggleston/x07.jpg",
+        "description": "From the work of William Eggleston.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "eggleston-x8",
+        "title": "CNN",
+        "year": "",
+        "image": "art/eggleston/x08.jpg",
+        "description": "From the work of William Eggleston.",
+        "series": null,
+        "credit": "Source: edition.cnn.com",
+        "mature": false
+      },
+      {
+        "id": "eggleston-x9",
+        "title": "Sold at Auction: William Eggleston, William Eggleston, Untitled",
+        "year": "",
+        "image": "art/eggleston/x09.jpg",
+        "description": "From the work of William Eggleston.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
       }
     ]
   },
@@ -10080,6 +10940,86 @@
         "series": null,
         "credit": "© Ernst Haas Estate",
         "mature": false
+      },
+      {
+        "id": "ernst-haas-x1",
+        "title": "Traffic reflection",
+        "year": "",
+        "image": "art/ernst-haas/x01.jpg",
+        "description": "From the work of Ernst Haas.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "ernst-haas-x2",
+        "title": "Traffic",
+        "year": "",
+        "image": "art/ernst-haas/x02.jpg",
+        "description": "From the work of Ernst Haas.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "ernst-haas-x3",
+        "title": "Traffic in motion",
+        "year": "",
+        "image": "art/ernst-haas/x03.jpg",
+        "description": "From the work of Ernst Haas.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "ernst-haas-x4",
+        "title": "Route 66",
+        "year": "",
+        "image": "art/ernst-haas/x04.jpg",
+        "description": "From the work of Ernst Haas.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "ernst-haas-x5",
+        "title": "Ernst Haas | MoMA",
+        "year": "",
+        "image": "art/ernst-haas/x05.jpg",
+        "description": "From the work of Ernst Haas.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "ernst-haas-x6",
+        "title": "Ernst Haas | MoMA",
+        "year": "",
+        "image": "art/ernst-haas/x06.jpg",
+        "description": "From the work of Ernst Haas.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "ernst-haas-x7",
+        "title": "Albert Einstein at home in his garden, Princeton",
+        "year": "",
+        "image": "art/ernst-haas/x07.jpg",
+        "description": "From the work of Ernst Haas.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "ernst-haas-x8",
+        "title": "Times Square Reflection, NYC.",
+        "year": "",
+        "image": "art/ernst-haas/x08.jpg",
+        "description": "From the work of Ernst Haas.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
       }
     ]
   },
@@ -10129,6 +11069,66 @@
         "description": "An urban pairing from the period of \"Mirrors and Windows\", Sonneman's quietly conceptual approach to colour and time.",
         "series": null,
         "credit": "© Eve Sonneman",
+        "mature": false
+      },
+      {
+        "id": "eve-sonneman-x1",
+        "title": "Eve Sonneman, Traps, Paris, 1977 · SFMOMA",
+        "year": "",
+        "image": "art/eve-sonneman/x01.jpg",
+        "description": "From the work of Eve Sonneman.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
+        "mature": false
+      },
+      {
+        "id": "eve-sonneman-x2",
+        "title": "Vintage 20X24 Large Format Polaroid Signed Surrealist ...",
+        "year": "",
+        "image": "art/eve-sonneman/x02.jpg",
+        "description": "From the work of Eve Sonneman.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "eve-sonneman-x3",
+        "title": "Vintage 20X24 Large Format Polaroid Signed Surrealist ...",
+        "year": "",
+        "image": "art/eve-sonneman/x03.jpg",
+        "description": "From the work of Eve Sonneman.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "eve-sonneman-x4",
+        "title": "Vintage 20X24 Large Format Polaroid Signed Surrealist ...",
+        "year": "",
+        "image": "art/eve-sonneman/x04.jpg",
+        "description": "From the work of Eve Sonneman.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "eve-sonneman-x5",
+        "title": "Sold Price: Eve Sonneman, Golf on Solar Eclipse, Polaroid Photograph ...",
+        "year": "",
+        "image": "art/eve-sonneman/x05.jpg",
+        "description": "From the work of Eve Sonneman.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "eve-sonneman-x6",
+        "title": "Lot - EVE SONNEMAN Acrobat and Seal on Jupiter.",
+        "year": "",
+        "image": "art/eve-sonneman/x06.jpg",
+        "description": "From the work of Eve Sonneman.",
+        "series": null,
+        "credit": "Source: www.swanngalleries.com",
         "mature": false
       }
     ]
@@ -10260,6 +11260,106 @@
         "series": null,
         "credit": "© Estate of Jan Groover",
         "mature": false
+      },
+      {
+        "id": "jan-groover-x1",
+        "title": "Jan Groover | MoMA",
+        "year": "",
+        "image": "art/jan-groover/x01.jpg",
+        "description": "From the work of Jan Groover.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "jan-groover-x2",
+        "title": "Still Life #103.2",
+        "year": "",
+        "image": "art/jan-groover/x02.jpg",
+        "description": "From the work of Jan Groover.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "jan-groover-x3",
+        "title": "Untitled",
+        "year": "",
+        "image": "art/jan-groover/x03.jpg",
+        "description": "From the work of Jan Groover.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "jan-groover-x4",
+        "title": "[Untitled]",
+        "year": "",
+        "image": "art/jan-groover/x04.jpg",
+        "description": "From the work of Jan Groover.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "jan-groover-x5",
+        "title": "Group",
+        "year": "",
+        "image": "art/jan-groover/x05.jpg",
+        "description": "From the work of Jan Groover.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "jan-groover-x6",
+        "title": "Jan Groover. Untitled. 1978 | MoMA",
+        "year": "",
+        "image": "art/jan-groover/x06.jpg",
+        "description": "From the work of Jan Groover.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "jan-groover-x7",
+        "title": "Jan Groover. Untitled. 1978 | MoMA",
+        "year": "",
+        "image": "art/jan-groover/x07.jpg",
+        "description": "From the work of Jan Groover.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "jan-groover-x8",
+        "title": "Untitled",
+        "year": "",
+        "image": "art/jan-groover/x08.jpg",
+        "description": "From the work of Jan Groover.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "jan-groover-x9",
+        "title": "Jan Groover. Untitled. 1987 | MoMA",
+        "year": "",
+        "image": "art/jan-groover/x09.jpg",
+        "description": "From the work of Jan Groover.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "jan-groover-x10",
+        "title": "Jan Groover | MoMA",
+        "year": "",
+        "image": "art/jan-groover/x10.jpg",
+        "description": "From the work of Jan Groover.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
       }
     ]
   },
@@ -10310,6 +11410,96 @@
         "series": null,
         "credit": "© Joel Sternfeld",
         "mature": false
+      },
+      {
+        "id": "joel-sternfeld-x1",
+        "title": "Joel Sternfeld. Atlanta, Georgia. 1983 | MoMA",
+        "year": "",
+        "image": "art/joel-sternfeld/x01.jpg",
+        "description": "From the work of Joel Sternfeld.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "joel-sternfeld-x2",
+        "title": "At Auction: Joel Sternfeld, Joel Sternfeld",
+        "year": "",
+        "image": "art/joel-sternfeld/x02.jpg",
+        "description": "From the work of Joel Sternfeld.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "joel-sternfeld-x3",
+        "title": "Joel Sternfeld. Canyon Country, California. 1983 | MoMA",
+        "year": "",
+        "image": "art/joel-sternfeld/x03.jpg",
+        "description": "From the work of Joel Sternfeld.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "joel-sternfeld-x4",
+        "title": "Joel Sternfeld. Women at their daily gathering beside an ancient Roman ...",
+        "year": "",
+        "image": "art/joel-sternfeld/x04.jpg",
+        "description": "From the work of Joel Sternfeld.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "joel-sternfeld-x5",
+        "title": "Lot - JOEL STERNFELD A PHOTOGRAPH, \"Venice, CA ...",
+        "year": "",
+        "image": "art/joel-sternfeld/x05.jpg",
+        "description": "From the work of Joel Sternfeld.",
+        "series": null,
+        "credit": "Source: www.simpsongalleries.com",
+        "mature": false
+      },
+      {
+        "id": "joel-sternfeld-x6",
+        "title": "At Auction: Joel Sternfeld, Joel Sternfeld - A Blind Man in his ...",
+        "year": "",
+        "image": "art/joel-sternfeld/x06.jpg",
+        "description": "From the work of Joel Sternfeld.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "joel-sternfeld-x7",
+        "title": "Joel Sternfeld. Galloppatoio Capannelle, Rome. August 1989 | MoMA",
+        "year": "",
+        "image": "art/joel-sternfeld/x07.jpg",
+        "description": "From the work of Joel Sternfeld.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "joel-sternfeld-x8",
+        "title": "Sold at Auction: Signed by Joel Sternfeld",
+        "year": "",
+        "image": "art/joel-sternfeld/x08.jpg",
+        "description": "From the work of Joel Sternfeld.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "joel-sternfeld-x9",
+        "title": "Joel Sternfeld. Red Rock State Campground, Gallup, New Mexico ...",
+        "year": "",
+        "image": "art/joel-sternfeld/x09.jpg",
+        "description": "From the work of Joel Sternfeld.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
       }
     ]
   },
@@ -10359,6 +11549,36 @@
         "description": "Reflection layered over reflection — Leiter's signature flattening of the street into abstraction.",
         "series": null,
         "credit": "© Saul Leiter Foundation",
+        "mature": false
+      },
+      {
+        "id": "leiter-x1",
+        "title": "Saul Leiter | Saul Leiter Snow | MutualArt",
+        "year": "",
+        "image": "art/leiter/x01.jpg",
+        "description": "From the work of Saul Leiter.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "leiter-x2",
+        "title": "Saul Leiter | Saul Leiter Street Scene | MutualArt",
+        "year": "",
+        "image": "art/leiter/x02.jpg",
+        "description": "From the work of Saul Leiter.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "leiter-x3",
+        "title": "Saul Leiter | Saul Leiter Street Scene | MutualArt",
+        "year": "",
+        "image": "art/leiter/x03.jpg",
+        "description": "From the work of Saul Leiter.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
         "mature": false
       }
     ]
@@ -10449,6 +11669,16 @@
         "description": "An early frame from the series that brought Parr to public attention and helped define his saturated documentary style.",
         "series": null,
         "credit": "© Martin Parr / Magnum Photos",
+        "mature": false
+      },
+      {
+        "id": "martin-parr-x1",
+        "title": "Remembering Martin Parr, Who Captured the Extraordinary Hidden in Plain ...",
+        "year": "",
+        "image": "art/martin-parr/x01.jpg",
+        "description": "From the work of Martin Parr.",
+        "series": null,
+        "credit": "Source: news.artnet.com",
         "mature": false
       }
     ]
@@ -10550,6 +11780,96 @@
         "series": null,
         "credit": "© Nan Goldin",
         "mature": false
+      },
+      {
+        "id": "nan-goldin-x1",
+        "title": "Nan after being battered",
+        "year": "",
+        "image": "art/nan-goldin/x01.jpg",
+        "description": "From the work of Nan Goldin.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "nan-goldin-x2",
+        "title": "Self Portrait in Hotel Baur au Lac, Zürich",
+        "year": "",
+        "image": "art/nan-goldin/x02.jpg",
+        "description": "From the work of Nan Goldin.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "nan-goldin-x3",
+        "title": "Nan Goldin continues her nuanced dive into dependency and addiction ...",
+        "year": "",
+        "image": "art/nan-goldin/x03.jpg",
+        "description": "From the work of Nan Goldin.",
+        "series": null,
+        "credit": "Source: 48hills.org",
+        "mature": false
+      },
+      {
+        "id": "nan-goldin-x4",
+        "title": "Sold at Auction: Nancy Golding, Nan Goldin - 1953 Washington - lives in ...",
+        "year": "",
+        "image": "art/nan-goldin/x04.jpg",
+        "description": "From the work of Nan Goldin.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "nan-goldin-x5",
+        "title": "Nan Goldin | MoMA",
+        "year": "",
+        "image": "art/nan-goldin/x05.jpg",
+        "description": "From the work of Nan Goldin.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "nan-goldin-x6",
+        "title": "Nan on Brian's lap, Nan's Birthday, New York City (1981 ...",
+        "year": "",
+        "image": "art/nan-goldin/x06.jpg",
+        "description": "From the work of Nan Goldin.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "nan-goldin-x7",
+        "title": "Sold at Auction: Nan Goldin, Nan Goldin Naomi in the profile ...",
+        "year": "",
+        "image": "art/nan-goldin/x07.jpg",
+        "description": "From the work of Nan Goldin.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "nan-goldin-x8",
+        "title": "Bruce and Phillippe on the Beach",
+        "year": "",
+        "image": "art/nan-goldin/x08.jpg",
+        "description": "From the work of Nan Goldin.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "nan-goldin-x9",
+        "title": "Nan Goldin: This Will Not End Well | Fraenkel Gallery",
+        "year": "",
+        "image": "art/nan-goldin/x09.jpg",
+        "description": "From the work of Nan Goldin.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
       }
     ]
   },
@@ -10599,6 +11919,46 @@
         "description": "A luminous river landscape that brings Shore's precise colour and structure to the grand American scenic tradition.",
         "series": null,
         "credit": "© Stephen Shore",
+        "mature": false
+      },
+      {
+        "id": "stephen-shore-x1",
+        "title": "Stephen Shore's Unorthodox Photography Teaches Us to Celebrate the ...",
+        "year": "",
+        "image": "art/stephen-shore/x01.jpg",
+        "description": "From the work of Stephen Shore.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "stephen-shore-x2",
+        "title": "Stephen Shore's Unorthodox Photography Teaches Us to Celebrate the ...",
+        "year": "",
+        "image": "art/stephen-shore/x02.jpg",
+        "description": "From the work of Stephen Shore.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "stephen-shore-x3",
+        "title": "Stephen Shore | MoMA",
+        "year": "",
+        "image": "art/stephen-shore/x03.jpg",
+        "description": "From the work of Stephen Shore.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "stephen-shore-x4",
+        "title": "Stephen Shore's Unorthodox Photography Teaches Us to Celebrate the ...",
+        "year": "",
+        "image": "art/stephen-shore/x04.jpg",
+        "description": "From the work of Stephen Shore.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
         "mature": false
       }
     ]
@@ -10650,6 +12010,96 @@
         "series": null,
         "credit": "© Estate of William Christenberry",
         "mature": false
+      },
+      {
+        "id": "william-christenberry-x1",
+        "title": "At Auction: William Christenberry, William Andrew Christenberry, Jr ...",
+        "year": "",
+        "image": "art/william-christenberry/x01.jpg",
+        "description": "From the work of William Christenberry.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "william-christenberry-x2",
+        "title": "Selected Images",
+        "year": "",
+        "image": "art/william-christenberry/x02.jpg",
+        "description": "From the work of William Christenberry.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "william-christenberry-x3",
+        "title": "William Christenberry, Corley's Service Station, 1964, printed 1988 ...",
+        "year": "",
+        "image": "art/william-christenberry/x03.jpg",
+        "description": "From the work of William Christenberry.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
+        "mature": false
+      },
+      {
+        "id": "william-christenberry-x4",
+        "title": "Selected Images",
+        "year": "",
+        "image": "art/william-christenberry/x04.jpg",
+        "description": "From the work of William Christenberry.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "william-christenberry-x5",
+        "title": "William Christenberry. Kudzu Devouring Building, near Greensboro ...",
+        "year": "",
+        "image": "art/william-christenberry/x05.jpg",
+        "description": "From the work of William Christenberry.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "william-christenberry-x6",
+        "title": "CONSTRUCTION DRAWING III",
+        "year": "",
+        "image": "art/william-christenberry/x06.jpg",
+        "description": "From the work of William Christenberry.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "william-christenberry-x7",
+        "title": "CONSTRUCTION DRAWING III",
+        "year": "",
+        "image": "art/william-christenberry/x07.jpg",
+        "description": "From the work of William Christenberry.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "william-christenberry-x8",
+        "title": "William Christenberry. Two Graves, Stewart, Alabama. 1984 | MoMA",
+        "year": "",
+        "image": "art/william-christenberry/x08.jpg",
+        "description": "From the work of William Christenberry.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "william-christenberry-x9",
+        "title": "William Christenberry. Red Soil and Kudzu, near Moundville, Alabama ...",
+        "year": "",
+        "image": "art/william-christenberry/x09.jpg",
+        "description": "From the work of William Christenberry.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
       }
     ]
   },
@@ -10689,6 +12139,36 @@
         "description": "The interior of a discount store, its shelves an explosive grid of repeating color and consumer abundance.",
         "series": null,
         "credit": "© Andreas Gursky / Artists Rights Society",
+        "mature": false
+      },
+      {
+        "id": "andreas-gursky-x1",
+        "title": "Montparnasse",
+        "year": "",
+        "image": "art/andreas-gursky/x01.jpg",
+        "description": "From the work of Andreas Gursky.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "andreas-gursky-x2",
+        "title": "At Auction: Andreas Gursky, Andreas Gursky - Rhein II Motiv",
+        "year": "",
+        "image": "art/andreas-gursky/x02.jpg",
+        "description": "From the work of Andreas Gursky.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "andreas-gursky-x3",
+        "title": "Gursky Andreas",
+        "year": "",
+        "image": "art/andreas-gursky/x03.jpg",
+        "description": "From the work of Andreas Gursky.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
         "mature": false
       }
     ]
@@ -10740,6 +12220,96 @@
         "series": null,
         "credit": "© Estate Bernd & Hilla Becher",
         "mature": false
+      },
+      {
+        "id": "becher-x1",
+        "title": "Bernd and Hilla Becher",
+        "year": "",
+        "image": "art/becher/x01.jpg",
+        "description": "From the work of Bernd & Hilla Becher.",
+        "series": null,
+        "credit": "Source: www.guggenheim.org",
+        "mature": false
+      },
+      {
+        "id": "becher-x2",
+        "title": "MONOVISIONS - Black & White ...",
+        "year": "",
+        "image": "art/becher/x02.jpg",
+        "description": "From the work of Bernd & Hilla Becher.",
+        "series": null,
+        "credit": "Source: monovisions.com",
+        "mature": false
+      },
+      {
+        "id": "becher-x3",
+        "title": "Drei Blätter aus Bernd und Hilla Becher ...",
+        "year": "",
+        "image": "art/becher/x03.jpg",
+        "description": "From the work of Bernd & Hilla Becher.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "becher-x4",
+        "title": "Bernd & Hilla Becher - The Metropolitan Museum of Art",
+        "year": "",
+        "image": "art/becher/x04.jpg",
+        "description": "From the work of Bernd & Hilla Becher.",
+        "series": null,
+        "credit": "Source: www.metmuseum.org",
+        "mature": false
+      },
+      {
+        "id": "becher-x5",
+        "title": "Bernd & Hilla Becher | Fraenkel Gallery",
+        "year": "",
+        "image": "art/becher/x05.jpg",
+        "description": "From the work of Bernd & Hilla Becher.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "becher-x6",
+        "title": "MONOVISIONS - Black & White ...",
+        "year": "",
+        "image": "art/becher/x06.jpg",
+        "description": "From the work of Bernd & Hilla Becher.",
+        "series": null,
+        "credit": "Source: monovisions.com",
+        "mature": false
+      },
+      {
+        "id": "becher-x7",
+        "title": "Bernd and Hilla Becher",
+        "year": "",
+        "image": "art/becher/x07.jpg",
+        "description": "From the work of Bernd & Hilla Becher.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "becher-x8",
+        "title": "Bernd & Hilla Becher: Industrial Landscapes | Fraenkel Gallery",
+        "year": "",
+        "image": "art/becher/x08.jpg",
+        "description": "From the work of Bernd & Hilla Becher.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "becher-x9",
+        "title": "Bernd Becher, Hilla Becher. Anonymous Sculpture. 1963-1970",
+        "year": "",
+        "image": "art/becher/x09.jpg",
+        "description": "From the work of Bernd & Hilla Becher.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
       }
     ]
   },
@@ -10789,6 +12359,46 @@
         "description": "A grand gallery of the Louvre, deserted and luminous, from her project documenting the museum's rooms.",
         "series": null,
         "credit": "© Candida Höfer / Artists Rights Society",
+        "mature": false
+      },
+      {
+        "id": "candida-hofer-x1",
+        "title": "The Vast Halls of Imperial Russia through the Lens of Candida Höfer",
+        "year": "",
+        "image": "art/candida-hofer/x01.jpg",
+        "description": "From the work of Candida Höfer.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "candida-hofer-x2",
+        "title": "Tate",
+        "year": "",
+        "image": "art/candida-hofer/x02.jpg",
+        "description": "From the work of Candida Höfer.",
+        "series": null,
+        "credit": "Source: www.tate.org.uk",
+        "mature": false
+      },
+      {
+        "id": "candida-hofer-x3",
+        "title": "Magazine Barnebys",
+        "year": "",
+        "image": "art/candida-hofer/x03.jpg",
+        "description": "From the work of Candida Höfer.",
+        "series": null,
+        "credit": "Source: www.barnebys.fr",
+        "mature": false
+      },
+      {
+        "id": "candida-hofer-x4",
+        "title": "At Auction: Candida Hofer, Candida Höfer: Naturhistorisches Museum Basel",
+        "year": "",
+        "image": "art/candida-hofer/x04.jpg",
+        "description": "From the work of Candida Höfer.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
         "mature": false
       }
     ]
@@ -10840,6 +12450,16 @@
         "series": null,
         "credit": "© Edward Burtynsky",
         "mature": false
+      },
+      {
+        "id": "edward-burtynsky-x1",
+        "title": "Photographer Edward Burtynsky on Creating Immersive Experiences and How ...",
+        "year": "",
+        "image": "art/edward-burtynsky/x01.jpg",
+        "description": "From the work of Edward Burtynsky.",
+        "series": null,
+        "credit": "Source: news.artnet.com",
+        "mature": false
       }
     ]
   },
@@ -10890,6 +12510,96 @@
         "series": null,
         "credit": "© Frank Gohlke",
         "mature": false
+      },
+      {
+        "id": "frank-gohlke-x1",
+        "title": "Mount St. Helens: Photographs by Frank Gohlke | MoMA",
+        "year": "",
+        "image": "art/frank-gohlke/x01.jpg",
+        "description": "From the work of Frank Gohlke.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "frank-gohlke-x2",
+        "title": "Frank Gohlke. Landscape/near Stillwater, Minneapolis. 1975 | MoMA",
+        "year": "",
+        "image": "art/frank-gohlke/x02.jpg",
+        "description": "From the work of Frank Gohlke.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "frank-gohlke-x3",
+        "title": "Frank Gohlke. Landscape- Bountiful, Colorado. 1979 | MoMA",
+        "year": "",
+        "image": "art/frank-gohlke/x03.jpg",
+        "description": "From the work of Frank Gohlke.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "frank-gohlke-x4",
+        "title": "Frank Gohlke. Aerial View- Downed Forest 8 Miles from Crater- Mt. St ...",
+        "year": "",
+        "image": "art/frank-gohlke/x04.jpg",
+        "description": "From the work of Frank Gohlke.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "frank-gohlke-x5",
+        "title": "Frank Gohlke. Aerial view: Mount St. Helens from approximately six ...",
+        "year": "",
+        "image": "art/frank-gohlke/x05.jpg",
+        "description": "From the work of Frank Gohlke.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "frank-gohlke-x6",
+        "title": "Mount St. Helens: Photographs by Frank Gohlke | MoMA",
+        "year": "",
+        "image": "art/frank-gohlke/x06.jpg",
+        "description": "From the work of Frank Gohlke.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "frank-gohlke-x7",
+        "title": "Frank Gohlke. Aerial View/Trees and Field Near Tulsa, Oklahoma. 1981 | MoMA",
+        "year": "",
+        "image": "art/frank-gohlke/x07.jpg",
+        "description": "From the work of Frank Gohlke.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "frank-gohlke-x8",
+        "title": "Frank Gohlke. Bush and Landscape, near Chickasha, Oklahoma. 1976 | MoMA",
+        "year": "",
+        "image": "art/frank-gohlke/x08.jpg",
+        "description": "From the work of Frank Gohlke.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "frank-gohlke-x9",
+        "title": "Frank Gohlke. Aerial View: Downed Trees - 8 miles NW of Mt. St. Helens ...",
+        "year": "",
+        "image": "art/frank-gohlke/x09.jpg",
+        "description": "From the work of Frank Gohlke.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
       }
     ]
   },
@@ -10929,6 +12639,106 @@
         "description": "Telephone poles, bungalow and bright sky, the commonplace social landscape rendered with spare clarity.",
         "series": null,
         "credit": "© Henry Wessel",
+        "mature": false
+      },
+      {
+        "id": "henry-wessel-x1",
+        "title": "ICONS PORTFOLIO, 1968-89",
+        "year": "",
+        "image": "art/henry-wessel/x01.jpg",
+        "description": "From the work of Henry Wessel Jr..",
+        "series": null,
+        "credit": "Source: www.sothebys.com",
+        "mature": false
+      },
+      {
+        "id": "henry-wessel-x2",
+        "title": "ICONS PORTFOLIO, 1968-89",
+        "year": "",
+        "image": "art/henry-wessel/x02.jpg",
+        "description": "From the work of Henry Wessel Jr..",
+        "series": null,
+        "credit": "Source: www.sothebys.com",
+        "mature": false
+      },
+      {
+        "id": "henry-wessel-x3",
+        "title": "ICONS PORTFOLIO, 1968-89",
+        "year": "",
+        "image": "art/henry-wessel/x03.jpg",
+        "description": "From the work of Henry Wessel Jr..",
+        "series": null,
+        "credit": "Source: www.sothebys.com",
+        "mature": false
+      },
+      {
+        "id": "henry-wessel-x4",
+        "title": "ICONS PORTFOLIO, 1968-89",
+        "year": "",
+        "image": "art/henry-wessel/x04.jpg",
+        "description": "From the work of Henry Wessel Jr..",
+        "series": null,
+        "credit": "Source: www.sothebys.com",
+        "mature": false
+      },
+      {
+        "id": "henry-wessel-x5",
+        "title": "HENRY WESSEL, JR.",
+        "year": "",
+        "image": "art/henry-wessel/x05.jpg",
+        "description": "From the work of Henry Wessel Jr..",
+        "series": null,
+        "credit": "Source: www.sothebys.com",
+        "mature": false
+      },
+      {
+        "id": "henry-wessel-x6",
+        "title": "ICONS PORTFOLIO, 1968-89",
+        "year": "",
+        "image": "art/henry-wessel/x06.jpg",
+        "description": "From the work of Henry Wessel Jr..",
+        "series": null,
+        "credit": "Source: www.sothebys.com",
+        "mature": false
+      },
+      {
+        "id": "henry-wessel-x7",
+        "title": "ICONS PORTFOLIO, 1968-89",
+        "year": "",
+        "image": "art/henry-wessel/x07.jpg",
+        "description": "From the work of Henry Wessel Jr..",
+        "series": null,
+        "credit": "Source: www.sothebys.com",
+        "mature": false
+      },
+      {
+        "id": "henry-wessel-x8",
+        "title": "Henry Wessel Jr.: 1970 - 1980 | Fraenkel Gallery",
+        "year": "",
+        "image": "art/henry-wessel/x08.jpg",
+        "description": "From the work of Henry Wessel Jr..",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "henry-wessel-x9",
+        "title": "ICONS PORTFOLIO, 1968-89",
+        "year": "",
+        "image": "art/henry-wessel/x09.jpg",
+        "description": "From the work of Henry Wessel Jr..",
+        "series": null,
+        "credit": "Source: www.sothebys.com",
+        "mature": false
+      },
+      {
+        "id": "henry-wessel-x10",
+        "title": "Henry Wessel",
+        "year": "",
+        "image": "art/henry-wessel/x10.jpg",
+        "description": "From the work of Henry Wessel Jr..",
+        "series": null,
+        "credit": "Source: tate.org.uk",
         "mature": false
       }
     ]
@@ -10980,6 +12790,46 @@
         "series": null,
         "credit": "© The Estate of Joe Deal",
         "mature": false
+      },
+      {
+        "id": "joe-deal-x1",
+        "title": "Joe Deal · SFMOMA",
+        "year": "",
+        "image": "art/joe-deal/x01.jpg",
+        "description": "From the work of Joe Deal.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
+        "mature": false
+      },
+      {
+        "id": "joe-deal-x2",
+        "title": "Two Photographs",
+        "year": "",
+        "image": "art/joe-deal/x02.jpg",
+        "description": "From the work of Joe Deal.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "joe-deal-x3",
+        "title": "Joe Deal. Inglewood, California. 1979 | MoMA",
+        "year": "",
+        "image": "art/joe-deal/x03.jpg",
+        "description": "From the work of Joe Deal.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "joe-deal-x4",
+        "title": "Joe Deal. Property Line, Rancho Cucamonga, California. 1984 | MoMA",
+        "year": "",
+        "image": "art/joe-deal/x04.jpg",
+        "description": "From the work of Joe Deal.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
       }
     ]
   },
@@ -11029,6 +12879,96 @@
         "description": "Cabins and parked cars under a wide sky, the highway landscape as banal, deadpan document.",
         "series": null,
         "credit": "© John Schott",
+        "mature": false
+      },
+      {
+        "id": "john-schott-x1",
+        "title": "John Schott, Untitled, from the series Route 66 Motels, 1973 · SFMOMA",
+        "year": "",
+        "image": "art/john-schott/x01.jpg",
+        "description": "From the work of John Schott.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
+        "mature": false
+      },
+      {
+        "id": "john-schott-x2",
+        "title": "John Schott. Philadelphia Mummer. 1973 | MoMA",
+        "year": "",
+        "image": "art/john-schott/x02.jpg",
+        "description": "From the work of John Schott.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "john-schott-x3",
+        "title": "John Schott. Philadelphia Mummer. 1973 | MoMA",
+        "year": "",
+        "image": "art/john-schott/x03.jpg",
+        "description": "From the work of John Schott.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "john-schott-x4",
+        "title": "John Schott. Philadelphia Mummer. 1973 | MoMA",
+        "year": "",
+        "image": "art/john-schott/x04.jpg",
+        "description": "From the work of John Schott.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "john-schott-x5",
+        "title": "John Schott. Philadelphia Mummer. 1973 | MoMA",
+        "year": "",
+        "image": "art/john-schott/x05.jpg",
+        "description": "From the work of John Schott.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "john-schott-x6",
+        "title": "John Schott. Philadelphia Mummer. 1973 | MoMA",
+        "year": "",
+        "image": "art/john-schott/x06.jpg",
+        "description": "From the work of John Schott.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "john-schott-x7",
+        "title": "John Schott. Philadelphia Mummer. 1973 | MoMA",
+        "year": "",
+        "image": "art/john-schott/x07.jpg",
+        "description": "From the work of John Schott.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "john-schott-x8",
+        "title": "John Schott. Philadelphia Mummer. 1973 | MoMA",
+        "year": "",
+        "image": "art/john-schott/x08.jpg",
+        "description": "From the work of John Schott.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "john-schott-x9",
+        "title": "John Schott. Philadelphia Mummer. 1973 | MoMA",
+        "year": "",
+        "image": "art/john-schott/x09.jpg",
+        "description": "From the work of John Schott.",
+        "series": null,
+        "credit": "Source: www.moma.org",
         "mature": false
       }
     ]
@@ -11080,6 +13020,96 @@
         "series": null,
         "credit": "© The Lewis Baltz Estate",
         "mature": false
+      },
+      {
+        "id": "lewis-baltz-x1",
+        "title": "Lewis Baltz, North Wall, Steelcase, 1123 Warner Avenue, Tustin, from ...",
+        "year": "",
+        "image": "art/lewis-baltz/x01.jpg",
+        "description": "From the work of Lewis Baltz.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
+        "mature": false
+      },
+      {
+        "id": "lewis-baltz-x2",
+        "title": "Tate",
+        "year": "",
+        "image": "art/lewis-baltz/x02.jpg",
+        "description": "From the work of Lewis Baltz.",
+        "series": null,
+        "credit": "Source: www.tate.org.uk",
+        "mature": false
+      },
+      {
+        "id": "lewis-baltz-x3",
+        "title": "Lewis Baltz, Tract House #15, from the portfolio The Tract Houses, 1971 ...",
+        "year": "",
+        "image": "art/lewis-baltz/x03.jpg",
+        "description": "From the work of Lewis Baltz.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
+        "mature": false
+      },
+      {
+        "id": "lewis-baltz-x4",
+        "title": "Galveston",
+        "year": "",
+        "image": "art/lewis-baltz/x04.jpg",
+        "description": "From the work of Lewis Baltz.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "lewis-baltz-x5",
+        "title": "La Valise",
+        "year": "",
+        "image": "art/lewis-baltz/x05.jpg",
+        "description": "From the work of Lewis Baltz.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "lewis-baltz-x6",
+        "title": "Nevada Portfolio",
+        "year": "",
+        "image": "art/lewis-baltz/x06.jpg",
+        "description": "From the work of Lewis Baltz.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "lewis-baltz-x7",
+        "title": "At Auction: Lewis Baltz, LEWIS BALTZ . New ...",
+        "year": "",
+        "image": "art/lewis-baltz/x07.jpg",
+        "description": "From the work of Lewis Baltz.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "lewis-baltz-x8",
+        "title": "'HOUSTON, TEXAS'",
+        "year": "",
+        "image": "art/lewis-baltz/x08.jpg",
+        "description": "From the work of Lewis Baltz.",
+        "series": null,
+        "credit": "Source: www.sothebys.com",
+        "mature": false
+      },
+      {
+        "id": "lewis-baltz-x9",
+        "title": "Lewis Baltz, Park City, interior, 1, from the portfolio Park City, 1979 ...",
+        "year": "",
+        "image": "art/lewis-baltz/x09.jpg",
+        "description": "From the work of Lewis Baltz.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
+        "mature": false
       }
     ]
   },
@@ -11130,6 +13160,96 @@
         "series": null,
         "credit": "© Naoya Hatakeyama",
         "mature": false
+      },
+      {
+        "id": "naoya-hatakeyama-x1",
+        "title": "Sold at Auction: Naoya Hatakeyama, Naoya Hatakeyama ; Shadow ...",
+        "year": "",
+        "image": "art/naoya-hatakeyama/x01.jpg",
+        "description": "From the work of Naoya Hatakeyama.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "naoya-hatakeyama-x2",
+        "title": "Bonhams : Naoya Hatakeyama ; Shadow 056 ;",
+        "year": "",
+        "image": "art/naoya-hatakeyama/x02.jpg",
+        "description": "From the work of Naoya Hatakeyama.",
+        "series": null,
+        "credit": "Source: www.bonhams.com",
+        "mature": false
+      },
+      {
+        "id": "naoya-hatakeyama-x3",
+        "title": "Naoya Hatakeyama. River Series. 1993-94 | MoMA",
+        "year": "",
+        "image": "art/naoya-hatakeyama/x03.jpg",
+        "description": "From the work of Naoya Hatakeyama.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "naoya-hatakeyama-x4",
+        "title": "Underground #6205",
+        "year": "",
+        "image": "art/naoya-hatakeyama/x04.jpg",
+        "description": "From the work of Naoya Hatakeyama.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "naoya-hatakeyama-x5",
+        "title": "Naoya Hatakeyama Lime Hills - Art Blart art and cultural memory archive",
+        "year": "",
+        "image": "art/naoya-hatakeyama/x05.jpg",
+        "description": "From the work of Naoya Hatakeyama.",
+        "series": null,
+        "credit": "Source: artblart.com",
+        "mature": false
+      },
+      {
+        "id": "naoya-hatakeyama-x6",
+        "title": "Tate",
+        "year": "",
+        "image": "art/naoya-hatakeyama/x06.jpg",
+        "description": "From the work of Naoya Hatakeyama.",
+        "series": null,
+        "credit": "Source: www.tate.org.uk",
+        "mature": false
+      },
+      {
+        "id": "naoya-hatakeyama-x7",
+        "title": "Naoya Hatakeyama, Takata-cho, 2011.6.15, from the series Rikuzentakata ...",
+        "year": "",
+        "image": "art/naoya-hatakeyama/x07.jpg",
+        "description": "From the work of Naoya Hatakeyama.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
+        "mature": false
+      },
+      {
+        "id": "naoya-hatakeyama-x8",
+        "title": "Naoya Hatakeyama, Lime Hills #23514, 1988, printed 2002 · SFMOMA",
+        "year": "",
+        "image": "art/naoya-hatakeyama/x08.jpg",
+        "description": "From the work of Naoya Hatakeyama.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
+        "mature": false
+      },
+      {
+        "id": "naoya-hatakeyama-x9",
+        "title": "Naoya Hatakeyama, Takata-cho, 2011.3.22, from the series Rikuzentakata ...",
+        "year": "",
+        "image": "art/naoya-hatakeyama/x09.jpg",
+        "description": "From the work of Naoya Hatakeyama.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
+        "mature": false
       }
     ]
   },
@@ -11169,6 +13289,106 @@
         "description": "Rooftops and water towers stacked across the frame, the man-built city as topographic fact.",
         "series": null,
         "credit": "© Nicholas Nixon",
+        "mature": false
+      },
+      {
+        "id": "nicholas-nixon-x1",
+        "title": "Nicholas Nixon. The Brown Sisters, Truro, Massachusetts. 2017 | MoMA",
+        "year": "",
+        "image": "art/nicholas-nixon/x01.jpg",
+        "description": "From the work of Nicholas Nixon.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "nicholas-nixon-x2",
+        "title": "Nicholas Nixon: New Topographics | Fraenkel Gallery",
+        "year": "",
+        "image": "art/nicholas-nixon/x02.jpg",
+        "description": "From the work of Nicholas Nixon.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "nicholas-nixon-x3",
+        "title": "Nicholas Nixon | Fraenkel Gallery",
+        "year": "",
+        "image": "art/nicholas-nixon/x03.jpg",
+        "description": "From the work of Nicholas Nixon.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "nicholas-nixon-x4",
+        "title": "Nicholas Nixon | Fraenkel Gallery",
+        "year": "",
+        "image": "art/nicholas-nixon/x04.jpg",
+        "description": "From the work of Nicholas Nixon.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "nicholas-nixon-x5",
+        "title": "Nicholas Nixon. Bob Sappenfield, Dorchester, Massachusetts. August 1988 ...",
+        "year": "",
+        "image": "art/nicholas-nixon/x05.jpg",
+        "description": "From the work of Nicholas Nixon.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "nicholas-nixon-x6",
+        "title": "Nicholas Nixon. Donald Perham, Milford, New Hampshire. September 1988 ...",
+        "year": "",
+        "image": "art/nicholas-nixon/x06.jpg",
+        "description": "From the work of Nicholas Nixon.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "nicholas-nixon-x7",
+        "title": "Nicholas Nixon | Fraenkel Gallery",
+        "year": "",
+        "image": "art/nicholas-nixon/x07.jpg",
+        "description": "From the work of Nicholas Nixon.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "nicholas-nixon-x8",
+        "title": "Nicholas Nixon. Nathaniel and Donald Perham, Milford, New Hampshire ...",
+        "year": "",
+        "image": "art/nicholas-nixon/x08.jpg",
+        "description": "From the work of Nicholas Nixon.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "nicholas-nixon-x9",
+        "title": "Nicholas Nixon | Fraenkel Gallery",
+        "year": "",
+        "image": "art/nicholas-nixon/x09.jpg",
+        "description": "From the work of Nicholas Nixon.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "nicholas-nixon-x10",
+        "title": "Nicholas Nixon: The Brown Sisters | Fraenkel Gallery",
+        "year": "",
+        "image": "art/nicholas-nixon/x10.jpg",
+        "description": "From the work of Nicholas Nixon.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
         "mature": false
       }
     ]
@@ -11220,6 +13440,96 @@
         "series": null,
         "credit": "© Richard Misrach",
         "mature": false
+      },
+      {
+        "id": "richard-misrach-x1",
+        "title": "At Auction: Richard Misrach \"Brick Building, Utah 1991\" Print",
+        "year": "",
+        "image": "art/richard-misrach/x01.jpg",
+        "description": "From the work of Richard Misrach.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "richard-misrach-x2",
+        "title": "Boy Scouts and Fremont's Pyramid",
+        "year": "",
+        "image": "art/richard-misrach/x02.jpg",
+        "description": "From the work of Richard Misrach.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "richard-misrach-x3",
+        "title": "Deep Dive - Richard Misrach | Fraenkel Gallery",
+        "year": "",
+        "image": "art/richard-misrach/x03.jpg",
+        "description": "From the work of Richard Misrach.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "richard-misrach-x4",
+        "title": "Golden Gate Bridge, 2.16.98 4:36PM, 1998 by Richard Misrach - Paper ...",
+        "year": "",
+        "image": "art/richard-misrach/x04.jpg",
+        "description": "From the work of Richard Misrach.",
+        "series": null,
+        "credit": "Source: customprints.sfmoma.org",
+        "mature": false
+      },
+      {
+        "id": "richard-misrach-x5",
+        "title": "Golden Gate Bridge, 10.31.98 5:05PM, 1998 by Richard Misrach - Paper ...",
+        "year": "",
+        "image": "art/richard-misrach/x05.jpg",
+        "description": "From the work of Richard Misrach.",
+        "series": null,
+        "credit": "Source: customprints.sfmoma.org",
+        "mature": false
+      },
+      {
+        "id": "richard-misrach-x6",
+        "title": "Shiprock Triptych",
+        "year": "",
+        "image": "art/richard-misrach/x06.jpg",
+        "description": "From the work of Richard Misrach.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "richard-misrach-x7",
+        "title": "Richard Misrach | Fraenkel Gallery",
+        "year": "",
+        "image": "art/richard-misrach/x07.jpg",
+        "description": "From the work of Richard Misrach.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "richard-misrach-x8",
+        "title": "Deep Dive - Richard Misrach | Fraenkel Gallery",
+        "year": "",
+        "image": "art/richard-misrach/x08.jpg",
+        "description": "From the work of Richard Misrach.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "richard-misrach-x9",
+        "title": "Richard Misrach | Fraenkel Gallery",
+        "year": "",
+        "image": "art/richard-misrach/x09.jpg",
+        "description": "From the work of Richard Misrach.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
       }
     ]
   },
@@ -11269,6 +13579,96 @@
         "description": "The man-altered landscape: housing, road and sky in cool equilibrium.",
         "series": null,
         "credit": "© Robert Adams",
+        "mature": false
+      },
+      {
+        "id": "robert-adams-x1",
+        "title": "Robert Adams | Fraenkel Gallery",
+        "year": "",
+        "image": "art/robert-adams/x01.jpg",
+        "description": "From the work of Robert Adams.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "robert-adams-x2",
+        "title": "Robert Adams | Fraenkel Gallery",
+        "year": "",
+        "image": "art/robert-adams/x02.jpg",
+        "description": "From the work of Robert Adams.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "robert-adams-x3",
+        "title": "Robert Adams, Pacific County, Washington, 1999-2003 · SFMOMA",
+        "year": "",
+        "image": "art/robert-adams/x03.jpg",
+        "description": "From the work of Robert Adams.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
+        "mature": false
+      },
+      {
+        "id": "robert-adams-x4",
+        "title": "Lot - ROBERT ADAMS Amongst the last trees and lilacs ...",
+        "year": "",
+        "image": "art/robert-adams/x04.jpg",
+        "description": "From the work of Robert Adams.",
+        "series": null,
+        "credit": "Source: www.swanngalleries.com",
+        "mature": false
+      },
+      {
+        "id": "robert-adams-x5",
+        "title": "Robert Adams | Fraenkel Gallery",
+        "year": "",
+        "image": "art/robert-adams/x05.jpg",
+        "description": "From the work of Robert Adams.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "robert-adams-x6",
+        "title": "Fort Collins, Colorado, 1976",
+        "year": "",
+        "image": "art/robert-adams/x06.jpg",
+        "description": "From the work of Robert Adams.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "robert-adams-x7",
+        "title": "Robert Adams, Above the Elk River, Curry County, Oregon, 1999-2003 · SFMOMA",
+        "year": "",
+        "image": "art/robert-adams/x07.jpg",
+        "description": "From the work of Robert Adams.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
+        "mature": false
+      },
+      {
+        "id": "robert-adams-x8",
+        "title": "Lot - ROBERT ADAMS Near Pendleton, Oregon.",
+        "year": "",
+        "image": "art/robert-adams/x08.jpg",
+        "description": "From the work of Robert Adams.",
+        "series": null,
+        "credit": "Source: www.swanngalleries.com",
+        "mature": false
+      },
+      {
+        "id": "robert-adams-x9",
+        "title": "Interiors 1973-1974",
+        "year": "",
+        "image": "art/robert-adams/x09.jpg",
+        "description": "From the work of Robert Adams.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
         "mature": false
       }
     ]
@@ -11320,6 +13720,46 @@
         "series": null,
         "credit": "© Thomas Ruff / Artists Rights Society",
         "mature": false
+      },
+      {
+        "id": "thomas-ruff-x1",
+        "title": "Thomas Ruff. Portrait. 1989 | MoMA",
+        "year": "",
+        "image": "art/thomas-ruff/x01.jpg",
+        "description": "From the work of Thomas Ruff.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "thomas-ruff-x2",
+        "title": "each: Portrait",
+        "year": "",
+        "image": "art/thomas-ruff/x02.jpg",
+        "description": "From the work of Thomas Ruff.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "thomas-ruff-x3",
+        "title": "Portraits",
+        "year": "",
+        "image": "art/thomas-ruff/x03.jpg",
+        "description": "From the work of Thomas Ruff.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "thomas-ruff-x4",
+        "title": "Nacht",
+        "year": "",
+        "image": "art/thomas-ruff/x04.jpg",
+        "description": "From the work of Thomas Ruff.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
       }
     ]
   },
@@ -11370,6 +13810,96 @@
         "series": null,
         "credit": "© Thomas Struth",
         "mature": false
+      },
+      {
+        "id": "thomas-struth-x1",
+        "title": "Baumgruppe bei Rutschwil No. 25, Winterthur",
+        "year": "",
+        "image": "art/thomas-struth/x01.jpg",
+        "description": "From the work of Thomas Struth.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "thomas-struth-x2",
+        "title": "Sao Francisco de Xavier",
+        "year": "",
+        "image": "art/thomas-struth/x02.jpg",
+        "description": "From the work of Thomas Struth.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "thomas-struth-x3",
+        "title": "Thomas Struth | MoMA",
+        "year": "",
+        "image": "art/thomas-struth/x03.jpg",
+        "description": "From the work of Thomas Struth.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "thomas-struth-x4",
+        "title": "The Artist Project: Thomas Struth - The Metropolitan Museum of Art",
+        "year": "",
+        "image": "art/thomas-struth/x04.jpg",
+        "description": "From the work of Thomas Struth.",
+        "series": null,
+        "credit": "Source: www.metmuseum.org",
+        "mature": false
+      },
+      {
+        "id": "thomas-struth-x5",
+        "title": "Museo del Prado",
+        "year": "",
+        "image": "art/thomas-struth/x05.jpg",
+        "description": "From the work of Thomas Struth.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "thomas-struth-x6",
+        "title": "Art for Home: Thomas Struth's Okutsu Family and More - The Metropolitan ...",
+        "year": "",
+        "image": "art/thomas-struth/x06.jpg",
+        "description": "From the work of Thomas Struth.",
+        "series": null,
+        "credit": "Source: www.metmuseum.org",
+        "mature": false
+      },
+      {
+        "id": "thomas-struth-x7",
+        "title": "Paradise 24, Sao Francisco de Xavier, Brazil (2001 ...",
+        "year": "",
+        "image": "art/thomas-struth/x07.jpg",
+        "description": "From the work of Thomas Struth.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "thomas-struth-x8",
+        "title": "23 WORKS FROM UNBEWUSSTE ORTE (UNCONSCIOUS PLACES ...",
+        "year": "",
+        "image": "art/thomas-struth/x08.jpg",
+        "description": "From the work of Thomas Struth.",
+        "series": null,
+        "credit": "Source: www.sothebys.com",
+        "mature": false
+      },
+      {
+        "id": "thomas-struth-x9",
+        "title": "23 WORKS FROM UNBEWUSSTE ORTE (UNCONSCIOUS PLACES ...",
+        "year": "",
+        "image": "art/thomas-struth/x09.jpg",
+        "description": "From the work of Thomas Struth.",
+        "series": null,
+        "credit": "Source: www.sothebys.com",
+        "mature": false
       }
     ]
   },
@@ -11410,6 +13940,106 @@
         "series": null,
         "credit": "Jersey Heritage Collection",
         "mature": false
+      },
+      {
+        "id": "claude-cahun-x1",
+        "title": "Albert-Birot 1929",
+        "year": "1929",
+        "image": "art/claude-cahun/x01.jpg",
+        "description": "From the work of Claude Cahun.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "claude-cahun-x2",
+        "title": "Allée Claude Cahun Marcel Moore - Paris VI - 2021-07-28 - 1",
+        "year": "2021",
+        "image": "art/claude-cahun/x02.jpg",
+        "description": "From the work of Claude Cahun.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC BY-SA 4.0",
+        "mature": false
+      },
+      {
+        "id": "claude-cahun-x3",
+        "title": "Allée Claude Cahun Marcel Moore - Paris VI - 2021-07-28 - 2",
+        "year": "2021",
+        "image": "art/claude-cahun/x03.jpg",
+        "description": "From the work of Claude Cahun.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC BY-SA 4.0",
+        "mature": false
+      },
+      {
+        "id": "claude-cahun-x4",
+        "title": "Allée Claude Cahun Marcel Moore - Paris VI - 2025-04-11 - 1",
+        "year": "2025",
+        "image": "art/claude-cahun/x04.jpg",
+        "description": "From the work of Claude Cahun.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC BY-SA 4.0",
+        "mature": false
+      },
+      {
+        "id": "claude-cahun-x5",
+        "title": "Allée Claude Cahun Marcel Moore - Paris VI - 2025-04-11 - 2",
+        "year": "2025",
+        "image": "art/claude-cahun/x05.jpg",
+        "description": "From the work of Claude Cahun.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC BY-SA 4.0",
+        "mature": false
+      },
+      {
+        "id": "claude-cahun-x6",
+        "title": "Chînm'tchiéthe Saint Brélade Jèrri Schwob Malherbe Claude Cahun",
+        "year": "2009",
+        "image": "art/claude-cahun/x06.jpg",
+        "description": "From the work of Claude Cahun.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "claude-cahun-x7",
+        "title": "Claude Cahun Marcel Moore Paris",
+        "year": "2019",
+        "image": "art/claude-cahun/x07.jpg",
+        "description": "From the work of Claude Cahun.",
+        "series": null,
+        "credit": "Wikimedia Commons · CC BY-SA 4.0",
+        "mature": false
+      },
+      {
+        "id": "claude-cahun-x8",
+        "title": "Claude Cahun Salomé la sceptique 1925 illustrations",
+        "year": "1925",
+        "image": "art/claude-cahun/x08.jpg",
+        "description": "From the work of Claude Cahun.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "claude-cahun-x9",
+        "title": "Claude Cahun pliaque Saint Brélade",
+        "year": "2013",
+        "image": "art/claude-cahun/x09.jpg",
+        "description": "From the work of Claude Cahun.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
+      },
+      {
+        "id": "claude-cahun-x10",
+        "title": "PAB et Vanna Vanni",
+        "year": "1929",
+        "image": "art/claude-cahun/x10.jpg",
+        "description": "From the work of Claude Cahun.",
+        "series": null,
+        "credit": "Wikimedia Commons · Public domain",
+        "mature": false
       }
     ]
   },
@@ -11449,6 +14079,76 @@
         "description": "A figure stranded under twilight street lamps — cinematic light and dread in a single constructed frame.",
         "series": null,
         "credit": "© Gregory Crewdson",
+        "mature": false
+      },
+      {
+        "id": "crewdson-x1",
+        "title": "Untitled",
+        "year": "",
+        "image": "art/crewdson/x01.jpg",
+        "description": "From the work of Gregory Crewdson.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "crewdson-x2",
+        "title": "Dream House",
+        "year": "",
+        "image": "art/crewdson/x02.jpg",
+        "description": "From the work of Gregory Crewdson.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "crewdson-x3",
+        "title": "Untitled",
+        "year": "",
+        "image": "art/crewdson/x03.jpg",
+        "description": "From the work of Gregory Crewdson.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "crewdson-x4",
+        "title": "At Auction: Gregory Crewdson, Gregory Crewdson, Untitled",
+        "year": "",
+        "image": "art/crewdson/x04.jpg",
+        "description": "From the work of Gregory Crewdson.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "crewdson-x5",
+        "title": "Sold at Auction: Gregory Crewdson, Gregory Crewdson, Untitled (Vanity ...",
+        "year": "",
+        "image": "art/crewdson/x05.jpg",
+        "description": "From the work of Gregory Crewdson.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "crewdson-x6",
+        "title": "Gregory Crewdson Photography Series",
+        "year": "",
+        "image": "art/crewdson/x06.jpg",
+        "description": "From the work of Gregory Crewdson.",
+        "series": null,
+        "credit": "Source: qaqooking.wiki",
+        "mature": false
+      },
+      {
+        "id": "crewdson-x7",
+        "title": "Untitled, Summer from the series ...",
+        "year": "",
+        "image": "art/crewdson/x07.jpg",
+        "description": "From the work of Gregory Crewdson.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
         "mature": false
       }
     ]
@@ -11499,6 +14199,66 @@
         "description": "A circular nine-frame riddle that pulls steadily backward through nested images — a bathroom inside a book inside a photograph.",
         "series": null,
         "credit": "© Duane Michals",
+        "mature": false
+      },
+      {
+        "id": "duane-michals-x1",
+        "title": "Andy Warhol",
+        "year": "",
+        "image": "art/duane-michals/x01.jpg",
+        "description": "From the work of Duane Michals.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "duane-michals-x2",
+        "title": "A Letter from my Father",
+        "year": "",
+        "image": "art/duane-michals/x02.jpg",
+        "description": "From the work of Duane Michals.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "duane-michals-x3",
+        "title": "Sold Price: DUANE MICHALS Self-Portrait as a Devil on the ...",
+        "year": "",
+        "image": "art/duane-michals/x03.jpg",
+        "description": "From the work of Duane Michals.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "duane-michals-x4",
+        "title": "Man with Skull",
+        "year": "",
+        "image": "art/duane-michals/x04.jpg",
+        "description": "From the work of Duane Michals.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "duane-michals-x5",
+        "title": "The Bogeyman",
+        "year": "",
+        "image": "art/duane-michals/x05.jpg",
+        "description": "From the work of Duane Michals.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "duane-michals-x6",
+        "title": "Andy Warhol , 1973",
+        "year": "",
+        "image": "art/duane-michals/x06.jpg",
+        "description": "From the work of Duane Michals.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
         "mature": false
       }
     ]
@@ -11820,6 +14580,96 @@
         "series": null,
         "credit": "© ADAGP / DACS",
         "mature": false
+      },
+      {
+        "id": "hans-bellmer-x1",
+        "title": "Les jeux de la poupee maquette",
+        "year": "",
+        "image": "art/hans-bellmer/x01.jpg",
+        "description": "From the work of Hans Bellmer.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "hans-bellmer-x2",
+        "title": "Sold at Auction: Hans Bellmer, Hans Bellmer, 1902-1975, Untitled",
+        "year": "",
+        "image": "art/hans-bellmer/x02.jpg",
+        "description": "From the work of Hans Bellmer.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "hans-bellmer-x3",
+        "title": "Hans Bellmer | MoMA",
+        "year": "",
+        "image": "art/hans-bellmer/x03.jpg",
+        "description": "From the work of Hans Bellmer.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "hans-bellmer-x4",
+        "title": "Sold at Auction: Hans Bellmer, Hans BELLMER.",
+        "year": "",
+        "image": "art/hans-bellmer/x04.jpg",
+        "description": "From the work of Hans Bellmer.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "hans-bellmer-x5",
+        "title": "Les Jeux de la Poupée VII",
+        "year": "",
+        "image": "art/hans-bellmer/x05.jpg",
+        "description": "From the work of Hans Bellmer.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "hans-bellmer-x6",
+        "title": "Lot - Hans Bellmer , untitled, etching, unnumbered 27.5 x 21 ...",
+        "year": "",
+        "image": "art/hans-bellmer/x06.jpg",
+        "description": "From the work of Hans Bellmer.",
+        "series": null,
+        "credit": "Source: www.carlobonte.be",
+        "mature": false
+      },
+      {
+        "id": "hans-bellmer-x7",
+        "title": "Hans Bellmer | Hans Bellmer Lithograph | MutualArt",
+        "year": "",
+        "image": "art/hans-bellmer/x07.jpg",
+        "description": "From the work of Hans Bellmer.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "hans-bellmer-x8",
+        "title": "At Auction: Hans Bellmer, BELLMER HANS",
+        "year": "",
+        "image": "art/hans-bellmer/x08.jpg",
+        "description": "From the work of Hans Bellmer.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "hans-bellmer-x9",
+        "title": "At Auction: Hans Bellmer, HANS BELLMER: Visage aux Yeux multiples.",
+        "year": "",
+        "image": "art/hans-bellmer/x09.jpg",
+        "description": "From the work of Hans Bellmer.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
       }
     ]
   },
@@ -11870,6 +14720,16 @@
         "series": null,
         "credit": "© Jeff Wall",
         "mature": false
+      },
+      {
+        "id": "jeff-wall-x1",
+        "title": "Jeff Wall | MoMA",
+        "year": "",
+        "image": "art/jeff-wall/x01.jpg",
+        "description": "From the work of Jeff Wall.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
       }
     ]
   },
@@ -11919,6 +14779,96 @@
         "description": "An assemblage of corpses and severed limbs arranged as a still life — mortality composed like a Baroque painting.",
         "series": null,
         "credit": "© Joel-Peter Witkin",
+        "mature": false
+      },
+      {
+        "id": "joel-peter-witkin-x1",
+        "title": "Joel-Peter Witkin | Fraenkel Gallery",
+        "year": "",
+        "image": "art/joel-peter-witkin/x01.jpg",
+        "description": "From the work of Joel-Peter Witkin.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "joel-peter-witkin-x2",
+        "title": "Bonhams : Joel-Peter Witkin ; 'Self-Portrait (Reminiscent of ...",
+        "year": "",
+        "image": "art/joel-peter-witkin/x02.jpg",
+        "description": "From the work of Joel-Peter Witkin.",
+        "series": null,
+        "credit": "Source: www.bonhams.com",
+        "mature": false
+      },
+      {
+        "id": "joel-peter-witkin-x3",
+        "title": "CORNUCOPIAN DOG",
+        "year": "",
+        "image": "art/joel-peter-witkin/x03.jpg",
+        "description": "From the work of Joel-Peter Witkin.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "joel-peter-witkin-x4",
+        "title": "Bid Now: Joel-Peter Witkin Female King, New Mexico, 1997 ...",
+        "year": "",
+        "image": "art/joel-peter-witkin/x04.jpg",
+        "description": "From the work of Joel-Peter Witkin.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "joel-peter-witkin-x5",
+        "title": "Lot - Joel-Peter Witkin",
+        "year": "",
+        "image": "art/joel-peter-witkin/x05.jpg",
+        "description": "From the work of Joel-Peter Witkin.",
+        "series": null,
+        "credit": "Source: www.nealauction.com",
+        "mature": false
+      },
+      {
+        "id": "joel-peter-witkin-x6",
+        "title": "Still Life, Mexico by Joel-Peter Witkin on artnet Auctions",
+        "year": "",
+        "image": "art/joel-peter-witkin/x06.jpg",
+        "description": "From the work of Joel-Peter Witkin.",
+        "series": null,
+        "credit": "Source: www.artnet.com",
+        "mature": false
+      },
+      {
+        "id": "joel-peter-witkin-x7",
+        "title": "Sold at Auction: Joel-Peter Witkin, Joel-Peter Witkin",
+        "year": "",
+        "image": "art/joel-peter-witkin/x07.jpg",
+        "description": "From the work of Joel-Peter Witkin.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "joel-peter-witkin-x8",
+        "title": "At Auction: Joel-Peter Witkin, Joel-Peter Witkin ; The ...",
+        "year": "",
+        "image": "art/joel-peter-witkin/x08.jpg",
+        "description": "From the work of Joel-Peter Witkin.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "joel-peter-witkin-x9",
+        "title": "Joel-Peter Witkin | Fraenkel Gallery",
+        "year": "",
+        "image": "art/joel-peter-witkin/x09.jpg",
+        "description": "From the work of Joel-Peter Witkin.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
         "mature": false
       }
     ]
@@ -12200,6 +15150,96 @@
         "series": null,
         "credit": "© Man Ray Trust / ADAGP",
         "mature": false
+      },
+      {
+        "id": "man-ray-x1",
+        "title": "Barnebys Magazine",
+        "year": "",
+        "image": "art/man-ray/x01.jpg",
+        "description": "From the work of Man Ray.",
+        "series": null,
+        "credit": "Source: www.barnebys.com",
+        "mature": false
+      },
+      {
+        "id": "man-ray-x2",
+        "title": "Man Ray Photography Rayographs",
+        "year": "",
+        "image": "art/man-ray/x02.jpg",
+        "description": "From the work of Man Ray.",
+        "series": null,
+        "credit": "Source: qaqooking.wiki",
+        "mature": false
+      },
+      {
+        "id": "man-ray-x3",
+        "title": "Man Ray's Influential Art beyond the Iconic Surrealist Photographs | Artsy",
+        "year": "",
+        "image": "art/man-ray/x03.jpg",
+        "description": "From the work of Man Ray.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "man-ray-x4",
+        "title": "Untitled",
+        "year": "",
+        "image": "art/man-ray/x04.jpg",
+        "description": "From the work of Man Ray.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "man-ray-x5",
+        "title": "Man Ray's Influential Art beyond the Iconic Surrealist Photographs | Artsy",
+        "year": "",
+        "image": "art/man-ray/x05.jpg",
+        "description": "From the work of Man Ray.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "man-ray-x6",
+        "title": "Sold at Auction: Man Ray, MAN RAY, ABSTRACT RAYOGRAPHY - TUBES, WIRE ...",
+        "year": "",
+        "image": "art/man-ray/x06.jpg",
+        "description": "From the work of Man Ray.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "man-ray-x7",
+        "title": "At Auction: Man Ray, MAN RAY, RAYOGRAPH, 1923 - FIRST EDITION",
+        "year": "",
+        "image": "art/man-ray/x07.jpg",
+        "description": "From the work of Man Ray.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "man-ray-x8",
+        "title": "At Auction: Man Ray, MAN RAY, ABSTRACT RAYOGRAPH SURREALIST PHOTOGRAM ...",
+        "year": "",
+        "image": "art/man-ray/x08.jpg",
+        "description": "From the work of Man Ray.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "man-ray-x9",
+        "title": "A New Exhibition Reveals How Man Ray, the Enigmatic Surrealist ...",
+        "year": "",
+        "image": "art/man-ray/x09.jpg",
+        "description": "From the work of Man Ray.",
+        "series": null,
+        "credit": "Source: news.artnet.com",
+        "mature": false
       }
     ]
   },
@@ -12250,6 +15290,96 @@
         "series": null,
         "credit": "© Philip-Lorca diCorcia",
         "mature": false
+      },
+      {
+        "id": "philip-lorca-dicorcia-x1",
+        "title": "Philip-Lorca diCorcia | MoMA",
+        "year": "",
+        "image": "art/philip-lorca-dicorcia/x01.jpg",
+        "description": "From the work of Philip-Lorca diCorcia.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "philip-lorca-dicorcia-x2",
+        "title": "Igor by Philip-Lorca diCorcia on artnet Auctions",
+        "year": "",
+        "image": "art/philip-lorca-dicorcia/x02.jpg",
+        "description": "From the work of Philip-Lorca diCorcia.",
+        "series": null,
+        "credit": "Source: www.artnet.com",
+        "mature": false
+      },
+      {
+        "id": "philip-lorca-dicorcia-x3",
+        "title": "W, March 2000, #12",
+        "year": "",
+        "image": "art/philip-lorca-dicorcia/x03.jpg",
+        "description": "From the work of Philip-Lorca diCorcia.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "philip-lorca-dicorcia-x4",
+        "title": "Los Angeles",
+        "year": "",
+        "image": "art/philip-lorca-dicorcia/x04.jpg",
+        "description": "From the work of Philip-Lorca diCorcia.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "philip-lorca-dicorcia-x5",
+        "title": "Heads #24",
+        "year": "",
+        "image": "art/philip-lorca-dicorcia/x05.jpg",
+        "description": "From the work of Philip-Lorca diCorcia.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "philip-lorca-dicorcia-x6",
+        "title": "Los Angeles",
+        "year": "",
+        "image": "art/philip-lorca-dicorcia/x06.jpg",
+        "description": "From the work of Philip-Lorca diCorcia.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "philip-lorca-dicorcia-x7",
+        "title": "Philip-Lorca diCorcia | MoMA",
+        "year": "",
+        "image": "art/philip-lorca-dicorcia/x07.jpg",
+        "description": "From the work of Philip-Lorca diCorcia.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "philip-lorca-dicorcia-x8",
+        "title": "Philip-Lorca diCorcia. Paris. 1996 | MoMA",
+        "year": "",
+        "image": "art/philip-lorca-dicorcia/x08.jpg",
+        "description": "From the work of Philip-Lorca diCorcia.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "philip-lorca-dicorcia-x9",
+        "title": "Madras",
+        "year": "",
+        "image": "art/philip-lorca-dicorcia/x09.jpg",
+        "description": "From the work of Philip-Lorca diCorcia.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
       }
     ]
   },
@@ -12289,6 +15419,106 @@
         "description": "Two figures in grotesque masks stand in a yard — the everyday double portrait pushed into ritual strangeness.",
         "series": null,
         "credit": "© The Estate of Ralph Eugene Meatyard",
+        "mature": false
+      },
+      {
+        "id": "ralph-eugene-meatyard-x1",
+        "title": "Lot - RALPH EUGENE MEATYARD Untitled. Circa 1961.",
+        "year": "",
+        "image": "art/ralph-eugene-meatyard/x01.jpg",
+        "description": "From the work of Ralph Eugene Meatyard.",
+        "series": null,
+        "credit": "Source: www.swanngalleries.com",
+        "mature": false
+      },
+      {
+        "id": "ralph-eugene-meatyard-x2",
+        "title": "Ralph Eugene Meatyard: Motion-Sound | Fraenkel Gallery",
+        "year": "",
+        "image": "art/ralph-eugene-meatyard/x02.jpg",
+        "description": "From the work of Ralph Eugene Meatyard.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "ralph-eugene-meatyard-x3",
+        "title": "Ralph Eugene Meatyard: Ralph Eugene Meatyard: The Family Album of ...",
+        "year": "",
+        "image": "art/ralph-eugene-meatyard/x03.jpg",
+        "description": "From the work of Ralph Eugene Meatyard.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "ralph-eugene-meatyard-x4",
+        "title": "Ralph Eugene Meatyard: Dolls & Masks | Fraenkel Gallery",
+        "year": "",
+        "image": "art/ralph-eugene-meatyard/x04.jpg",
+        "description": "From the work of Ralph Eugene Meatyard.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "ralph-eugene-meatyard-x5",
+        "title": "Ralph Eugene Meatyard: No-Focus | Fraenkel Gallery",
+        "year": "",
+        "image": "art/ralph-eugene-meatyard/x05.jpg",
+        "description": "From the work of Ralph Eugene Meatyard.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "ralph-eugene-meatyard-x6",
+        "title": "Ralph Eugene Meatyard: No-Focus | Fraenkel Gallery",
+        "year": "",
+        "image": "art/ralph-eugene-meatyard/x06.jpg",
+        "description": "From the work of Ralph Eugene Meatyard.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "ralph-eugene-meatyard-x7",
+        "title": "Ralph Eugene Meatyard, Lucybelle Crater and well centered photo friend ...",
+        "year": "",
+        "image": "art/ralph-eugene-meatyard/x07.jpg",
+        "description": "From the work of Ralph Eugene Meatyard.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
+        "mature": false
+      },
+      {
+        "id": "ralph-eugene-meatyard-x8",
+        "title": "Photographs from ...",
+        "year": "",
+        "image": "art/ralph-eugene-meatyard/x08.jpg",
+        "description": "From the work of Ralph Eugene Meatyard.",
+        "series": null,
+        "credit": "Source: www.sothebys.com",
+        "mature": false
+      },
+      {
+        "id": "ralph-eugene-meatyard-x9",
+        "title": "Ralph Eugene Meatyard | Fraenkel Gallery",
+        "year": "",
+        "image": "art/ralph-eugene-meatyard/x09.jpg",
+        "description": "From the work of Ralph Eugene Meatyard.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
+        "mature": false
+      },
+      {
+        "id": "ralph-eugene-meatyard-x10",
+        "title": "Ralph Eugene Meatyard: No-Focus | Fraenkel Gallery",
+        "year": "",
+        "image": "art/ralph-eugene-meatyard/x10.jpg",
+        "description": "From the work of Ralph Eugene Meatyard.",
+        "series": null,
+        "credit": "Source: fraenkelgallery.com",
         "mature": false
       }
     ]
@@ -12340,6 +15570,36 @@
         "series": null,
         "credit": "© Roger Ballen",
         "mature": true
+      },
+      {
+        "id": "roger-ballen-x1",
+        "title": "Photographer Roger Ballen's New Art Center in Johannesburg Features ...",
+        "year": "",
+        "image": "art/roger-ballen/x01.jpg",
+        "description": "From the work of Roger Ballen.",
+        "series": null,
+        "credit": "Source: news.artnet.com",
+        "mature": false
+      },
+      {
+        "id": "roger-ballen-x2",
+        "title": "Roger Ballen, Man with Back to Viewer, from the series Outland, 1998 ...",
+        "year": "",
+        "image": "art/roger-ballen/x02.jpg",
+        "description": "From the work of Roger Ballen.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
+        "mature": false
+      },
+      {
+        "id": "roger-ballen-x3",
+        "title": "Roger Ballen, Sergeant F de Bruin, Dept of Prisons Employee, Orange ...",
+        "year": "",
+        "image": "art/roger-ballen/x03.jpg",
+        "description": "From the work of Roger Ballen.",
+        "series": null,
+        "credit": "Source: www.sfmoma.org",
+        "mature": false
       }
     ]
   },
@@ -12390,6 +15650,56 @@
         "series": null,
         "credit": "© Cindy Sherman",
         "mature": true
+      },
+      {
+        "id": "sherman-x1",
+        "title": "Cindy Sherman | MoMA",
+        "year": "",
+        "image": "art/sherman/x01.jpg",
+        "description": "From the work of Cindy Sherman.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "sherman-x2",
+        "title": "Cindy Sherman | MoMA",
+        "year": "",
+        "image": "art/sherman/x02.jpg",
+        "description": "From the work of Cindy Sherman.",
+        "series": null,
+        "credit": "Source: www.moma.org",
+        "mature": false
+      },
+      {
+        "id": "sherman-x3",
+        "title": "UNTITLED #404",
+        "year": "",
+        "image": "art/sherman/x03.jpg",
+        "description": "From the work of Cindy Sherman.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "sherman-x4",
+        "title": "Tate",
+        "year": "",
+        "image": "art/sherman/x04.jpg",
+        "description": "From the work of Cindy Sherman.",
+        "series": null,
+        "credit": "Source: www.tate.org.uk",
+        "mature": false
+      },
+      {
+        "id": "sherman-x5",
+        "title": "Cindy Sherman Has Transformed Herself Into Clowns, Movie Stars, and ...",
+        "year": "",
+        "image": "art/sherman/x05.jpg",
+        "description": "From the work of Cindy Sherman.",
+        "series": null,
+        "credit": "Source: news.artnet.com",
+        "mature": false
       }
     ]
   },
@@ -12440,6 +15750,46 @@
         "series": null,
         "credit": "© Sandy Skoglund",
         "mature": false
+      },
+      {
+        "id": "skoglund-x1",
+        "title": "Radioactive Cats",
+        "year": "",
+        "image": "art/skoglund/x01.jpg",
+        "description": "From the work of Sandy Skoglund.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "skoglund-x2",
+        "title": "The Green House by Sandy Skoglund on artnet Auctions",
+        "year": "",
+        "image": "art/skoglund/x02.jpg",
+        "description": "From the work of Sandy Skoglund.",
+        "series": null,
+        "credit": "Source: www.artnet.com",
+        "mature": false
+      },
+      {
+        "id": "skoglund-x3",
+        "title": "Sandy Skoglund Innovators of Photography: A Private East Coast Collection",
+        "year": "",
+        "image": "art/skoglund/x03.jpg",
+        "description": "From the work of Sandy Skoglund.",
+        "series": null,
+        "credit": "Source: www.phillips.com",
+        "mature": false
+      },
+      {
+        "id": "skoglund-x4",
+        "title": "Gathering Paradise",
+        "year": "",
+        "image": "art/skoglund/x04.jpg",
+        "description": "From the work of Sandy Skoglund.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
       }
     ]
   },
@@ -12480,6 +15830,106 @@
         "series": null,
         "credit": "© The Estate of Jerry Uelsmann",
         "mature": true
+      },
+      {
+        "id": "uelsmann-x1",
+        "title": "Floating Tree",
+        "year": "",
+        "image": "art/uelsmann/x01.jpg",
+        "description": "From the work of Jerry Uelsmann.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "uelsmann-x2",
+        "title": "Five Selected Images",
+        "year": "",
+        "image": "art/uelsmann/x02.jpg",
+        "description": "From the work of Jerry Uelsmann.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "uelsmann-x3",
+        "title": "Group of 3 Photographs",
+        "year": "",
+        "image": "art/uelsmann/x03.jpg",
+        "description": "From the work of Jerry Uelsmann.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "uelsmann-x4",
+        "title": "Untitled",
+        "year": "",
+        "image": "art/uelsmann/x04.jpg",
+        "description": "From the work of Jerry Uelsmann.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "uelsmann-x5",
+        "title": "At Auction: Jerry N Uelsmann, Gelatin Silver Print \"Untitled\" Boat and ...",
+        "year": "",
+        "image": "art/uelsmann/x05.jpg",
+        "description": "From the work of Jerry Uelsmann.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "uelsmann-x6",
+        "title": "Philistine's Eye",
+        "year": "",
+        "image": "art/uelsmann/x06.jpg",
+        "description": "From the work of Jerry Uelsmann.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "uelsmann-x7",
+        "title": "Lot - Jerry Uelsmann. Untitled . 1995.",
+        "year": "",
+        "image": "art/uelsmann/x07.jpg",
+        "description": "From the work of Jerry Uelsmann.",
+        "series": null,
+        "credit": "Source: www.swanngalleries.com",
+        "mature": false
+      },
+      {
+        "id": "uelsmann-x8",
+        "title": "Jerry Uelsmann | JERRY UELSMANN | MutualArt",
+        "year": "",
+        "image": "art/uelsmann/x08.jpg",
+        "description": "From the work of Jerry Uelsmann.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "uelsmann-x9",
+        "title": "Untitled",
+        "year": "",
+        "image": "art/uelsmann/x09.jpg",
+        "description": "From the work of Jerry Uelsmann.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "uelsmann-x10",
+        "title": "Lot - Jerry Uelsmann , UNTITLED , 1986",
+        "year": "",
+        "image": "art/uelsmann/x10.jpg",
+        "description": "From the work of Jerry Uelsmann.",
+        "series": null,
+        "credit": "Source: bid.waddingtons.ca",
+        "mature": false
       }
     ]
   },
@@ -12529,6 +15979,56 @@
         "description": "Drapery, mirror and shadow stage a fragile, dreamlike disappearance.",
         "series": null,
         "credit": "© Woodman Family Foundation",
+        "mature": false
+      },
+      {
+        "id": "woodman-x1",
+        "title": "Francesca Woodman's Haunting Self-Portraits Redefined Photography | Artsy",
+        "year": "",
+        "image": "art/woodman/x01.jpg",
+        "description": "From the work of Francesca Woodman.",
+        "series": null,
+        "credit": "Source: www.artsy.net",
+        "mature": false
+      },
+      {
+        "id": "woodman-x2",
+        "title": "The Art of Francesca Woodman. Photography Art Shows 2024",
+        "year": "",
+        "image": "art/woodman/x02.jpg",
+        "description": "From the work of Francesca Woodman.",
+        "series": null,
+        "credit": "Source: vagazine.com",
+        "mature": false
+      },
+      {
+        "id": "woodman-x3",
+        "title": "Self-portrait, birch sleeves",
+        "year": "",
+        "image": "art/woodman/x03.jpg",
+        "description": "From the work of Francesca Woodman.",
+        "series": null,
+        "credit": "Source: www.invaluable.com",
+        "mature": false
+      },
+      {
+        "id": "woodman-x4",
+        "title": "Untitled",
+        "year": "",
+        "image": "art/woodman/x04.jpg",
+        "description": "From the work of Francesca Woodman.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
+        "mature": false
+      },
+      {
+        "id": "woodman-x5",
+        "title": "Self-portrait with cat, New York",
+        "year": "",
+        "image": "art/woodman/x05.jpg",
+        "description": "From the work of Francesca Woodman.",
+        "series": null,
+        "credit": "Source: www.mutualart.com",
         "mature": false
       }
     ]
