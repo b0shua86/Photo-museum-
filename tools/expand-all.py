@@ -25,8 +25,26 @@ NUDE_RE = re.compile(r"\b(nude|nudes|naked|akt|desnudo|undressed|torso)\b", re.I
 BLOCK_RE = re.compile(r"\b(signature|autograph|grave|tomb|tombe|plaque|monument|\bmap\b|stamp|postage|"
                       r"envelope|coin|medal|logo|coat of arms|historical marker|book ?cover|title ?page|"
                       r"diagram|memorial|museum exterior|exhibition view|installation view|poster|postcard|"
-                      r"for sale|mug|t-?shirt|wikipedia logo|icon|sample|watermark|alamy|getty ?images)\b", re.I)
-CREDIBLE = re.compile(r"(wikimedia|wikipedia|moma\.org|metmuseum|artic\.edu|getty|tate\.org|nga\.gov|si\.edu|"
+                      r"for sale|mug|t-?shirt|wikipedia logo|icon|sample|watermark|alamy|getty ?images|"
+                      # imitations / merch / printed matter — NOT the artist's own pictures
+                      r"homage|hommage|inspired|inspiration|tribute|imitation|replica|parody|fan ?art|"
+                      r"in the style|style of|catalog|catalogue|\bbook\b|\bcover\b|mockup|template|"
+                      # news / obituary / stock / merch / editorial — not the artist's pictures
+                      r"\bdead\b|\bdies\b|\bdied\b|obituary|premium high ?res|stock photo|royalty|"
+                      r"famous for|interview|in conversation|biography|\bnews\b|how to|tutorial|"
+                      r"\bquote|\bstore\b|\bshop\b|merch|for sale|profile of|review)\b", re.I)
+# Stock/marketplace/social domains never hold an artist's authoritative works.
+BAD_DOM = re.compile(r"(gettyimages|alamy|shutterstock|istockphoto|dreamstime|123rf|depositphotos|"
+                     r"stock\.adobe|adobe ?stock|pinterest|ebay|etsy|redbubble|amazon|walmart|"
+                     r"aliexpress|fineartamerica|posterlounge|wikihow)", re.I)
+# Auction/gallery/market pages list a SINGLE work with a clean reproduction — the
+# best source of individual pictures by living artists (museum/article pages tend
+# to show installation views and portrait grids instead).
+STRONG_DOM = re.compile(r"(artsy|mutualart|artnet|christie|sotheby|phillips|bonhams|swann|wikiart|"
+                        r"gagosian|fraenkel|howardgreenberg|hauserwirth|davidzwirner|pacegallery|"
+                        r"mariangoodman|spruth|sprueth|moma\.org|metmuseum|tate\.org|guggenheim|"
+                        r"sfmoma|artic\.edu)", re.I)
+CREDIBLE = re.compile(r"(wikimedia|wikipedia|moma\.org|metmuseum|artic\.edu|getty\.edu|gettymuseum|tate\.org|nga\.gov|si\.edu|"
                       r"guggenheim|sfmoma|pompidou|rmngp|nationalgalleries|vam\.ac\.uk|loc\.gov|mfa\.org|lacma|"
                       r"whitney\.org|icp\.org|christies|sothebys|phillips|bonhams|swanngalleries|artsy|mutualart|"
                       r"artnet|wikiart|fraenkelgallery|howardgreenberg|americansuburbx|1854\.photography|"
@@ -89,6 +107,19 @@ def clean_title(t):
     t = re.sub(r"\s*\([^)]*\)\s*", " ", t)
     t = t.replace("_", " ")
     return re.sub(r"\s+", " ", t).strip()[:90]
+
+
+SITE_RE = re.compile(r"(mutualart|moma|pompidou|artsy|wikiart|artnet|christie|sotheby|phillips|gallery|"
+                     r"museum|compare similar|for sale|\.com|\.org|\.net|pinterest|tumblr|flickr)", re.I)
+
+
+def web_title(t, name):
+    # Web results read like "Andreas Gursky | Montparnasse | MutualArt" — keep the
+    # middle segment that is neither the artist's name nor a site/UI word.
+    parts = [p.strip() for p in re.split(r"\s*[|]\s*|\s+[–—]\s+", t) if p.strip()]
+    nl = name.lower()
+    keep = [p for p in parts if nl not in p.lower() and not SITE_RE.search(p) and len(p) > 2]
+    return clean_title(keep[0]) if keep else clean_title(t)
 
 
 def commons(name, limit=60):
@@ -179,9 +210,14 @@ def main():
                 except Exception:
                     pass
 
-        out(f"\n[{ai+1}/{len(data)}] {a['id']} ({a['name']}) [{a.get('rights')}] have={len(arts)} need={need}")
-        cands = commons(a["name"])
-        cands += ddg(a["name"])
+        rights = (a.get("rights") or "").lower()
+        out(f"\n[{ai+1}/{len(data)}] {a['id']} ({a['name']}) [{rights}] have={len(arts)} need={need}")
+        if rights == "public-domain":
+            cands = commons(a["name"]) + ddg(a["name"])
+        else:
+            # For living/copyright artists Commons mostly holds homages and merch;
+            # pull their actual works from credible art sites via web search only.
+            cands = ddg(a["name"])
 
         # rank: commons first, then credible-domain web, then the rest
         def rank(c):
@@ -205,9 +241,16 @@ def main():
                 if not last or last not in c["hay"]:
                     continue
             else:  # web
-                full = last and first and (last in c["hay"]) and (first in c["hay"])
-                if not (full or (last in c["hay"] and CREDIBLE.search(c.get("page", "") + c["url"]))):
+                where = c.get("page", "") + c["url"]
+                if BAD_DOM.search(where) or last not in c["hay"]:
                     continue
+                if rights == "public-domain":
+                    full = bool(first and first in c["hay"])
+                    if not (full or CREDIBLE.search(where)):
+                        continue
+                else:  # living artist: only single-work auction/gallery pages
+                    if not STRONG_DOM.search(where):
+                        continue
             if BLOCK_RE.search(c["text"]):
                 continue
             if (c["w"] or 9999) < 640 or (c["h"] or 9999) < 640:
@@ -244,7 +287,8 @@ def main():
             xn = sum(1 for w0 in arts if w0["id"].startswith(a["id"] + "-x")) + 1
             arts.append(dict(
                 id=f"{a['id']}-x{xn}",
-                title=clean_title(c["title"]) or f"{a['name']} — untitled",
+                title=(web_title(c["title"], a["name"]) if c["src"] == "web" else clean_title(c["title"]))
+                      or f"{a['name']} — untitled",
                 year=c["year"],
                 image=f"art/{a['id']}/{fname}",
                 description=f"From the work of {a['name']}.",
